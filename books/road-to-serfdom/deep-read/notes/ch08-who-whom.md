@@ -137,7 +137,7 @@ If the state plans the economy for the sake of distributive justice, by what pri
 
 ## Quotes
 
-- "The choice open to us is not between a system in which everybody will get what he deserves according to some absolute and universal standard of right, and one where the individual shares are determined partly by accident or good or ill chance, but between a system where it is the will of a few persons that decides who is to get what, and one where it depends at least partly on the ability and enterprise of the people concerned and partly on unforeseeable circumstances." (p. 131)
+- **Paraphrase:** Hayek contrasts outcomes assigned by a few decision-makers with outcomes shaped by individual initiative and unpredictable circumstances. Neither system guarantees that everyone receives a morally deserved share. (p. 131)
 - "There is, indeed, a strong case for reducing this inequality of opportunity as far as congenital differences permit and as it is possible to do so without destroying the impersonal character of the process by which everybody has to take his chance and no person’s view about what is right and desirable overrules that of others." (p. 131)
 - "What our generation has forgotten is that the system of private property is the most important guaranty of freedom, not only for those who own property, but scarcely less for those who do not." (p. 132)
 - "And who will deny that a world in which the wealthy are powerful is still a better world than one in which only the already powerful can acquire wealth?" (p. 132)

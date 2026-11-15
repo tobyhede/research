@@ -27,7 +27,7 @@ This repo is public and the books are in copyright, so commit only our own writi
 3. **Deep read** with the `deep-reader` skill. Pass `books/<slug>/deep-read` as the workspace (second argument to `prepare-text.sh`); its default is a `<slug>-notes/` directory beside the source.
 4. Update the book's row in the `README.md` index.
 
-Done when `git status --short` lists only `.md` files for the book and its README row links to every one of its finished outputs.
+Done when `git status --short --untracked-files=all` lists only `.md` files for the book and its README row links to every one of its finished outputs.
 
 ## Locators
 

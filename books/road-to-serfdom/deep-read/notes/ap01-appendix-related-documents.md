@@ -1,6 +1,6 @@
 # ap01: Appendix: Related Documents (pp. 237–256)
 
-Scope note: the unit file opens with the end of the Bibliographical Note (p. 237), covered in ch16. The appendix holds six documents by five hands, then pooled footnotes (pp. 254-256) and Caldwell's Acknowledgments (p. 256). Bracketed footnotes are Caldwell's. Only notes 20 and 21 are Friedman's own (pp. 255-256).
+Scope note: the unit file opens with the end of the Bibliographical Note (p. 237), covered in ch16. The appendix holds six documents by six authors, then pooled footnotes (pp. 254-256) and Caldwell's Acknowledgments (p. 256). Bracketed footnotes are Caldwell's. Only notes 20 and 21 are Friedman's own (pp. 255-256).
 
 | Label | Document | Author, date | Pages |
 | --- | --- | --- | --- |
