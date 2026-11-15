@@ -16,9 +16,9 @@ books/<slug>/
 - Filenames inside a book directory are fixed, so links and cross-book work can rely on them.
 - `themes/<topic>.md` holds syntheses that span several books. Each links into the `deep-read/synthesis.md` of the books it draws on.
 
-## Public repo
+## Book artifacts
 
-This repo is public and the books are in copyright, so commit only our own writing, which is always Markdown. `.gitignore` keeps book text local: `source/`, and every `.txt` and `.html` under `books/`. A new kind of file that carries book text gets its own ignore rule before it is created. Quotations in briefs and notes stay short and carry a locator.
+Commit the source book, extracted text, extraction manifest, generated HTML reader, and deep-reader workspace alongside the Markdown notes. Keep source locators stable so readers can verify claims. Quotations in briefs and notes stay short and carry a locator.
 
 ## Adding or extending a book
 
@@ -27,7 +27,7 @@ This repo is public and the books are in copyright, so commit only our own writi
 3. **Deep read** with the `deep-reader` skill. Pass `books/<slug>/deep-read` as the workspace (second argument to `prepare-text.sh`); its default is a `<slug>-notes/` directory beside the source.
 4. Update the book's row in the `README.md` index.
 
-Done when `git status --short --untracked-files=all` lists only `.md` files for the book and its README row links to every one of its finished outputs.
+Done when every file shown by `git status --short --untracked-files=all` belongs to the intended book artifacts or documentation changes, and the README row links to every finished reading output, including `brief.html`.
 
 ## Locators
 

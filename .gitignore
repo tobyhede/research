@@ -1,7 +1,1 @@
 .DS_Store
-books/*/source/
-books/**/*.txt
-books/**/*.html
-# deep-reader bookkeeping (no book text, but not our writing)
-books/*/deep-read/chapters.tsv
-books/*/deep-read/source.id
