@@ -17,7 +17,7 @@
 import { createHash } from 'node:crypto';
 import { mkdirSync, readFileSync, rmSync, writeFileSync, existsSync, readdirSync } from 'node:fs';
 import { dirname, join, posix } from 'node:path';
-import { fileURLToPath } from 'node:url';
+import { fileURLToPath, pathToFileURL } from 'node:url';
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
 const OUT = join(ROOT, 'cube');
@@ -60,7 +60,7 @@ function uid(key) {
   return `${h.slice(0, 8)}-${h.slice(8, 12)}-4${h.slice(13, 16)}-${v}${h.slice(17, 20)}-${h.slice(20, 32)}`;
 }
 
-const assets = new Map();
+let assets = new Map();
 function asset(text) {
   const body = text.replace(/\r\n?/g, '\n').trim() + '\n';
   const bytes = Buffer.from(body, 'utf8');
@@ -120,7 +120,7 @@ function tableRows(body) {
     .map((l) => l.trim().replace(/^\|/, '').replace(/\|$/, '').split('|').map((c) => c.trim()));
 }
 
-function mermaid(text) {
+export function mermaid(text) {
   const block = text.match(/```mermaid\n([\s\S]*?)```/)?.[1] ?? '';
   const nodes = new Map();
   const edges = [];
@@ -132,13 +132,12 @@ function mermaid(text) {
     return m[1];
   };
   for (const line of block.split('\n').map((l) => l.trim())) {
-    if (!line || line.startsWith('graph')) continue;
+    if (!line || /^(graph|flowchart|%%|classDef|class |style |linkStyle)/.test(line)) continue;
     const m = line.match(/^(.*?)\s*(-\.->|-->)\s*(.*)$/);
-    if (m) {
-      const a = node(m[1]);
-      const b = node(m[3]);
-      if (a && b) edges.push({ from: a, to: b, weak: m[2] === '-.->' });
-    } else node(line);
+    const a = m ? node(m[1]) : node(line);
+    const b = m ? node(m[3]) : a;
+    if (!a || !b) throw new Error(`cannot read mermaid line: ${line}`);
+    if (m) edges.push({ from: a, to: b, weak: m[2] === '-.->' });
   }
   const after = text.split(/```mermaid[\s\S]*?```/)[1] ?? '';
   const caption = after.split(/\n#{1,6} /)[0].trim();
@@ -181,9 +180,10 @@ const oneLine = (s, max = 90) => {
 
 // ---------- Space builder ----------
 
-const spaces = [];
+let spaces = [];
+let resourceIds = new Set();
 
-class Space {
+export class Space {
   constructor(key, title) {
     this.id = uid(`space:${key}`);
     this.key = key;
@@ -194,6 +194,8 @@ class Space {
   }
   add(key, title, kind, content) {
     const r = { id: uid(`res:${this.key}:${key}`), title, kind, content };
+    if (resourceIds.has(r.id)) throw new Error(`duplicate Resource key "${key}" in Space "${this.title}"`);
+    resourceIds.add(r.id);
     this.resources.push(r);
     return r;
   }
@@ -357,11 +359,13 @@ function buildBook(book) {
   const noteFiles = readdirSync(join(ROOT, base, 'deep-read/notes'));
   const units = [];
   const parts = [];
+  let part = null;
   for (const row of tableRows(named(m2, 'Structure').body)) {
     const [id, pages, title, role] = row;
     const pm = title.match(/^\*\*(.*)\*\*$/);
     if (/^\*\*Part/.test(id)) {
-      parts.push({ id: id.replace(/\*\*/g, ''), title: pm ? pm[1] : title, role, units: [] });
+      part = { id: id.replace(/\*\*/g, ''), title: pm ? pm[1] : title, role, units: [] };
+      parts.push(part);
       continue;
     }
     const file = noteFiles.find((n) => n.startsWith(`${id}-`));
@@ -372,7 +376,8 @@ function buildBook(book) {
       u.chapterTxt = alt ? `${base}/deep-read/chapters/${alt}` : null;
     }
     units.push(u);
-    parts.at(-1)?.units.push(u);
+    if (/^Conclusion\b/.test(u.title)) part = null;
+    part?.units.push(u);
   }
   const known = new Set(units.map((u) => u.id));
   const unitById = new Map(units.map((u) => [u.id, u]));
@@ -414,6 +419,7 @@ function buildBook(book) {
       placed.push({ kind, r });
     }
     const q = byKind.get('Question this chapter answers');
+    if (!q) throw new Error(`${u.file}: no "Question this chapter answers" section`);
     mp.place(q, 0, 0, OPEN);
     const rest = placed.filter((p) => p.r !== q).sort((a, b) => NOTE_ORDER.indexOf(a.kind) - NOTE_ORDER.indexOf(b.kind));
     grid(mp, rest.map((p) => p.r), { x0: 640, y0: 0, cols: 3 });
@@ -441,13 +447,11 @@ function buildBook(book) {
   grid(mOrder, units.map((u) => P(u.id)), { cols: 5, snake: true, gx: 380 });
   gNext.chain(units.map((u) => P(u.id)));
 
-  if (parts.length) {
+  const filled = parts.filter((p) => p.units.length);
+  if (filled.length) {
     const mParts = chSp.map('parts', 'Parts');
     const gParts = mParts.graph('sequence', 'Sequence', { color: '#59a14f', headShape: 'arrow' });
-    const seq = [];
-    for (const u of units.filter((u) => !parts.some((p) => p.units.includes(u)) && units.indexOf(u) < units.indexOf(parts[0].units[0])))
-      seq.push(u.id);
-    const partPortals = parts.map((p, i) => {
+    const partPortals = filled.map((p, i) => {
       const ps = new Space(`${K}:part:${i}`, `${book.short} · ${p.id}: ${p.title}`);
       const pm = ps.map('part', p.id);
       const gp = pm.graph('chapters', 'Chapters', { color: '#59a14f', headShape: 'arrow' });
@@ -459,7 +463,13 @@ function buildBook(book) {
       gp.chain(ins);
       return chSp.portal(`part:${i}`, `${p.id}: ${p.title}\n${p.role}`, ps);
     });
-    const order = [...seq.map(P), ...partPortals, ...units.filter((u) => units.indexOf(u) > units.indexOf(parts.at(-1).units.at(-1))).map((u) => P(u.id))];
+    const partOf = new Map(filled.flatMap((p, i) => p.units.map((u) => [u.id, i])));
+    const order = [];
+    for (const u of units) {
+      const i = partOf.get(u.id);
+      if (i === undefined) order.push(P(u.id));
+      else if (!order.includes(partPortals[i])) order.push(partPortals[i]);
+    }
     order.forEach((r, i) => mParts.place(r, i * 420, 0, { w: 340, h: 200 }));
     gParts.chain(order);
   }
@@ -525,7 +535,8 @@ function buildBook(book) {
   for (const e of cm.edges) (e.weak ? gWeak : gArg).edge(concept.get(e.from), concept.get(e.to));
   if (cm.caption) {
     const cap = arSp.markdown('concept-caption', 'Reading the map', md(cm.caption, f.synth));
-    mConcept.place(cap, -1100, 0, OPEN);
+    const minX = Math.min(...[...concept.values()].map((r) => mConcept.positions[r.id].x));
+    mConcept.place(cap, minX - OPEN.w - 140, 0, OPEN);
     gArg.edge(cap, concept.get([...cm.nodes.keys()].find((k) => !cm.edges.some((e) => e.to === k))));
   }
 
@@ -703,25 +714,46 @@ This directory is generated by \`scripts/build-cube.mjs\`. Rebuilding replaces i
   return lib;
 }
 
+// ---------- books on disk ----------
+
+export function missingBooks(root = ROOT) {
+  const dir = join(root, 'books');
+  if (!existsSync(dir)) return [];
+  const listed = new Set(BOOKS.map((b) => b.slug));
+  return readdirSync(dir)
+    .filter((slug) => existsSync(join(dir, slug, 'deep-read/synthesis.md')) && !listed.has(slug))
+    .sort();
+}
+
 // ---------- write ----------
 
-const built = BOOKS.map(buildBook);
-const meta = buildLibrary(built);
+export function build(out = OUT) {
+  spaces = [];
+  resourceIds = new Set();
+  assets = new Map();
+  const missing = missingBooks();
+  if (missing.length) throw new Error(`books with a finished deep read are missing from BOOKS: ${missing.join(', ')}`);
+  const built = BOOKS.map(buildBook);
+  const meta = buildLibrary(built);
 
-rmSync(OUT, { recursive: true, force: true });
-mkdirSync(join(OUT, 'assets'), { recursive: true });
-const write = (rel, obj) => {
-  mkdirSync(dirname(join(OUT, rel)), { recursive: true });
-  writeFileSync(join(OUT, rel), typeof obj === 'string' ? obj : JSON.stringify(obj, null, 2) + '\n');
-};
-write('aggregate.json', { version: 1, metaSpaceId: meta.id });
-for (const sp of spaces) {
-  write(`${sp.id}/space.json`, sp.json());
-  for (const r of sp.resources) write(`${sp.id}/resources/${r.id}.json`, { id: r.id, title: r.title, kind: r.kind, content: r.content });
+  rmSync(out, { recursive: true, force: true });
+  mkdirSync(join(out, 'assets'), { recursive: true });
+  const write = (rel, obj) => {
+    mkdirSync(dirname(join(out, rel)), { recursive: true });
+    writeFileSync(join(out, rel), typeof obj === 'string' ? obj : JSON.stringify(obj, null, 2) + '\n');
+  };
+  write('aggregate.json', { version: 1, metaSpaceId: meta.id });
+  for (const sp of spaces) {
+    write(`${sp.id}/space.json`, sp.json());
+    for (const r of sp.resources) write(`${sp.id}/resources/${r.id}.json`, { id: r.id, title: r.title, kind: r.kind, content: r.content });
+  }
+  for (const [hash, bytes] of assets) writeFileSync(join(out, 'assets', `${hash}.md`), bytes);
+  write(
+    'README.md',
+    `# Research cube\n\nAn InfinityCube Aggregate directory built from \`books/*/brief.md\` and \`books/*/deep-read/\`.\n\nGenerated by \`node scripts/build-cube.mjs\`; do not edit by hand. Check with \`pnpm cube check <abs path>/cube\` and open with \`pnpm cube run <abs path>/cube\` from an InfinityCube clone.\n`,
+  );
+  console.log(`${spaces.length} spaces, ${spaces.reduce((n, s) => n + s.resources.length, 0)} resources, ${assets.size} assets`);
+  return { spaces: spaces.length, resources: spaces.reduce((n, s) => n + s.resources.length, 0), assets: assets.size };
 }
-for (const [hash, bytes] of assets) writeFileSync(join(OUT, 'assets', `${hash}.md`), bytes);
-write(
-  'README.md',
-  `# Research cube\n\nAn InfinityCube Aggregate directory built from \`books/*/brief.md\` and \`books/*/deep-read/\`.\n\nGenerated by \`node scripts/build-cube.mjs\`; do not edit by hand. Check with \`pnpm cube check <abs path>/cube\` and open with \`pnpm cube run <abs path>/cube\` from an InfinityCube clone.\n`,
-);
-console.log(`${spaces.length} spaces, ${spaces.reduce((n, s) => n + s.resources.length, 0)} resources, ${assets.size} assets`);
+
+if (import.meta.url === pathToFileURL(process.argv[1] ?? '').href) build();
