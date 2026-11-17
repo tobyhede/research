@@ -1,0 +1,12 @@
+- The planners' argument appeals "to our best instincts and often attract the finest minds"; if economic activity really concerned only the inferior side of life, relieving us of it would be right (p. 121).
+- There is an "important kernel of truth" in the belief that economic matters affect only the less important ends, "quite justified in a market economy" (p. 122).
+- A planning authority would probably *not* exploit its monopoly for maximum financial gain as a private monopolist would (p. 124).
+- "No doubt it is true that even in the best of worlds this freedom will be very limited. Few people ever have an abundance of choice of occupation" (p. 125).
+- Not all is for the best in the present world "or has been so in the most liberal past"; much could be done to improve opportunities of choice (p. 125).
+- **State activity explicitly accepted**: "the state can do a great deal to help the spreading of knowledge and information and to assist mobility" (p. 125). He adds that this is "almost precisely the opposite" of planning as advocated.
+- The price paid in a competitive society is "often a cruelly high price" (p. 126).
+- It "is not surprising" that people wish to be relieved of bitter choices (p. 127).
+- Distribution is "the only argument for planning which can be seriously pressed" (p. 128), and it is "indisputable" that a predetermined distribution requires planning the whole system (p. 128): he grants the planners' logic on this point.
+- Under-used capacity is a real question in the U.S.A. and sometimes in Britain, Germany and France (Clark, quoted with approval in Hayek's note 5, p. 130).
+- The claim about more oppression under planning is framed as "the question remains whether" (p. 128), not as settled.
+- He grants that political freedom is meaningless without economic freedom is "true enough" (p. 129), accepting the socialists' slogan while reversing its sense.

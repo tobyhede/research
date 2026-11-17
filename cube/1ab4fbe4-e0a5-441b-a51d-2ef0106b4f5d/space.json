@@ -1,0 +1,93 @@
+{
+  "version": 1,
+  "id": "1ab4fbe4-e0a5-441b-a51d-2ef0106b4f5d",
+  "title": "Serfdom ch02 · The Great Utopia",
+  "maps": [
+    {
+      "id": "273aad33-1cb1-4d50-85fb-d2c8c832519f",
+      "title": "Note",
+      "kind": "positioned",
+      "positions": {
+        "e79d3883-708b-4c17-9942-c30b10623a55": {
+          "x": 0,
+          "y": 0,
+          "size": {
+            "width": 560,
+            "height": 420
+          },
+          "content": {
+            "open": true
+          }
+        },
+        "3ddd6cd8-aa29-42b7-8699-d1e20958061b": {
+          "x": 640,
+          "y": 0
+        },
+        "938b13c2-20b8-45ad-a43e-564ec54b7e82": {
+          "x": 980,
+          "y": 0
+        },
+        "3c04165c-76b3-409a-85b6-5a9425ea3464": {
+          "x": 1320,
+          "y": 0
+        },
+        "8bed4888-dbb3-4a75-a3c4-dbcb2a7b5efe": {
+          "x": 640,
+          "y": 220
+        },
+        "6cee77d9-876e-4931-88d6-6d24e23c1faa": {
+          "x": 980,
+          "y": 220
+        },
+        "76415c84-4144-49af-9178-cf7b2ceccfe2": {
+          "x": 1320,
+          "y": 220
+        },
+        "24d6e468-666c-47dd-a033-674565afabbe": {
+          "x": 640,
+          "y": 440
+        }
+      },
+      "graphs": [
+        {
+          "id": "a13bda1c-2e27-4f96-8092-23283895be95",
+          "title": "Analysis",
+          "color": "#4e79a7",
+          "headShape": "arrow",
+          "edges": [
+            {
+              "from": "e79d3883-708b-4c17-9942-c30b10623a55",
+              "to": "3ddd6cd8-aa29-42b7-8699-d1e20958061b"
+            },
+            {
+              "from": "3ddd6cd8-aa29-42b7-8699-d1e20958061b",
+              "to": "938b13c2-20b8-45ad-a43e-564ec54b7e82"
+            },
+            {
+              "from": "938b13c2-20b8-45ad-a43e-564ec54b7e82",
+              "to": "3c04165c-76b3-409a-85b6-5a9425ea3464"
+            },
+            {
+              "from": "e79d3883-708b-4c17-9942-c30b10623a55",
+              "to": "8bed4888-dbb3-4a75-a3c4-dbcb2a7b5efe"
+            },
+            {
+              "from": "3c04165c-76b3-409a-85b6-5a9425ea3464",
+              "to": "6cee77d9-876e-4931-88d6-6d24e23c1faa"
+            },
+            {
+              "from": "3ddd6cd8-aa29-42b7-8699-d1e20958061b",
+              "to": "76415c84-4144-49af-9178-cf7b2ceccfe2"
+            },
+            {
+              "from": "76415c84-4144-49af-9178-cf7b2ceccfe2",
+              "to": "24d6e468-666c-47dd-a033-674565afabbe"
+            }
+          ]
+        }
+      ],
+      "activeGraph": "a13bda1c-2e27-4f96-8092-23283895be95"
+    }
+  ],
+  "defaultMap": "273aad33-1cb1-4d50-85fb-d2c8c832519f"
+}

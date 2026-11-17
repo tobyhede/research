@@ -1,0 +1,101 @@
+{
+  "version": 1,
+  "id": "3266a374-73dd-4cff-b9ec-2699e6d34ded",
+  "title": "Capital ch15 · A Global Tax on Capital",
+  "maps": [
+    {
+      "id": "7b8e112c-b676-42e4-944b-4c1eae933520",
+      "title": "Note",
+      "kind": "positioned",
+      "positions": {
+        "b59e11ca-40af-4849-8499-fbe6a7cb5793": {
+          "x": 0,
+          "y": 0,
+          "size": {
+            "width": 560,
+            "height": 420
+          },
+          "content": {
+            "open": true
+          }
+        },
+        "213dfe12-b8b6-4409-9927-9170dd28c30e": {
+          "x": 640,
+          "y": 0
+        },
+        "503fa348-c99c-4990-adb9-d27f77360f80": {
+          "x": 980,
+          "y": 0
+        },
+        "abf33cd6-60f7-4297-bc51-b3096df047ed": {
+          "x": 1320,
+          "y": 0
+        },
+        "8b5f158c-6448-4aa7-a8e2-01acb4b5efb9": {
+          "x": 640,
+          "y": 220
+        },
+        "e3a2cc46-ee9c-43b1-b22f-53f8f0a545cd": {
+          "x": 980,
+          "y": 220
+        },
+        "7e1017a6-f702-43e8-aa5e-f42128de9c4a": {
+          "x": 1320,
+          "y": 220
+        },
+        "3a7903b8-1239-4c5b-ac0b-98243bfa4d8b": {
+          "x": 640,
+          "y": 440
+        },
+        "379973c5-65d1-4e20-88ad-d26b75754325": {
+          "x": 980,
+          "y": 440
+        }
+      },
+      "graphs": [
+        {
+          "id": "dd492a7a-f784-4fe5-95d2-76ea9fd21a59",
+          "title": "Analysis",
+          "color": "#4e79a7",
+          "headShape": "arrow",
+          "edges": [
+            {
+              "from": "b59e11ca-40af-4849-8499-fbe6a7cb5793",
+              "to": "213dfe12-b8b6-4409-9927-9170dd28c30e"
+            },
+            {
+              "from": "213dfe12-b8b6-4409-9927-9170dd28c30e",
+              "to": "503fa348-c99c-4990-adb9-d27f77360f80"
+            },
+            {
+              "from": "503fa348-c99c-4990-adb9-d27f77360f80",
+              "to": "abf33cd6-60f7-4297-bc51-b3096df047ed"
+            },
+            {
+              "from": "503fa348-c99c-4990-adb9-d27f77360f80",
+              "to": "8b5f158c-6448-4aa7-a8e2-01acb4b5efb9"
+            },
+            {
+              "from": "b59e11ca-40af-4849-8499-fbe6a7cb5793",
+              "to": "e3a2cc46-ee9c-43b1-b22f-53f8f0a545cd"
+            },
+            {
+              "from": "abf33cd6-60f7-4297-bc51-b3096df047ed",
+              "to": "7e1017a6-f702-43e8-aa5e-f42128de9c4a"
+            },
+            {
+              "from": "213dfe12-b8b6-4409-9927-9170dd28c30e",
+              "to": "3a7903b8-1239-4c5b-ac0b-98243bfa4d8b"
+            },
+            {
+              "from": "3a7903b8-1239-4c5b-ac0b-98243bfa4d8b",
+              "to": "379973c5-65d1-4e20-88ad-d26b75754325"
+            }
+          ]
+        }
+      ],
+      "activeGraph": "dd492a7a-f784-4fe5-95d2-76ea9fd21a59"
+    }
+  ],
+  "defaultMap": "7b8e112c-b676-42e4-944b-4c1eae933520"
+}

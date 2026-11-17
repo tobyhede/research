@@ -1,0 +1,25 @@
+- In the long run β = s / g; with s = 12 percent and g = 2 percent, β = 600 percent (p. 119).
+- "in a quasi-stagnant society, wealth accumulated in the past will inevitably acquire disproportionate importance" (p. 119).
+- The return to a high β in the twenty-first century is explained by the return to slow growth; "Decreased growth—especially demographic growth—is thus responsible for capital’s comeback" (p. 119).
+- Small changes in g have large effects on β: at s = 12 percent, β is 8 at g = 1.5 percent and 12 at g = 1 percent (p. 119); at g = 3 percent β = 4, and with s = 9 percent β = 3 (pp. 119-120).
+- Because g includes population growth, countries with the same per capita growth can have very different β: Europe (near-zero population growth, g = 1.5–2 percent) six to eight years; the US (g = 2.5–3 percent) three to four years (p. 120).
+- The law is valid only (i) asymptotically, (ii) for accumulable capital, and (iii) if relative asset prices are stable on average over the long run (pp. 120-122). It takes decades to become true (p. 121).
+- The law is independent of the motives for saving (p. 122): it holds because s / g is "the only stable capital/income ratio" for an economy saving s and growing at g (p. 122).
+- The law explains the equilibrium toward which β tends, not short-run shocks such as wars or 1929 (p. 123).
+- Annual series for 1970–2010 show large short-run swings from volatile asset prices and bubbles (pp. 123-124), but a clear trend: private wealth rose from two to three and a half years of national income in 1970 to four to seven in 2010 in all eight rich countries (p. 124).
+- Three factors explain the comeback: slower growth with high saving (dominant in the long run), privatisation of public wealth, and a long-run catch-up of real estate and stock prices (p. 125).
+- Per capita growth 1970–2010 was 1.6–2.0 percent in all eight rich countries; differences in population growth were much larger, giving total growth of about 3 percent in the US, Canada and Australia against about 2 percent in Europe and Japan (p. 125).
+- Private saving was generally 10–12 percent of national income, but 7–8 percent in the US and Britain and 14–15 percent in Japan and Italy (p. 126).
+- Private wealth predicted by 1970–2010 savings flows plus 1970 wealth is close to actual 2010 wealth in most countries (p. 126), Britain excepted; volume effects dominate in the long run (p. 127). Japan's rise from three to six years of income is "predicted almost perfectly by the flow of savings" (p. 127).
+- Retained earnings must be counted as private saving; otherwise one would misattribute share-price growth to relative price effects (p. 127).
+- The relevant s is net of depreciation; gross saving of 25–30 percent of national income leaves net saving of 10–15 percent (p. 128).
+- Expressed in disposable income, private capital in the 2000s would be five to nine years rather than four to seven (p. 130); Piketty prefers national income because the gap measures public services in kind (p. 130).
+- Public dissaving and the fall in public wealth account for one-tenth to one-quarter of the increase in private wealth 1970–2010 (p. 133); in Italy private saving was about 15 percent but national saving under 10 percent (p. 133).
+- Private enrichment in Russia and Eastern Europe after 1990 "obviously had nothing to do with saving or the dynamic law β = s / g"; it was a transfer of ownership (p. 134).
+- Over 1870–2010 or 1910–2010 the evolution of β is "very well explained" by β = s / g, but the 1950s trough was lower than the law predicts because asset prices were depressed (p. 134); the post-1950 rebound in asset prices has broadly offset the 1910–1950 fall (p. 134).
+- The price of capital "is always in part a social and political construct" (p. 135).
+- Tobin's Q has risen in rich countries since 1970; the asset-price rebound explains one-quarter to one-third of the increase in national β from 1970 to 2010 (p. 137).
+- β = s / g can produce large international imbalances: countries with higher s or lower g accumulate more capital and invest abroad (p. 138); Japan's net foreign assets are about 70 percent of national income and Germany's nearly 50 percent (p. 138).
+- Gross cross-border positions are far larger than net ones and make small European countries vulnerable to valuation "errors" (p. 139).
+- The world β followed a U-curve and is now close to 500 percent; with g falling from 3 percent to 1.5 percent and s about 10 percent it could approach 700 percent by 2100 (p. 140).
+- β = s / g explains 80–100 percent of observed capital in 2010, so pure land must be a small part of national capital (p. 141); even eighteenth-century farmland was mostly accumulated improvements (p. 141).

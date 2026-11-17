@@ -1,0 +1,45 @@
+- Wealthier people plausibly get higher average returns, mainly through economies of scale in portfolio management (pp. 313-314).
+- Unequal returns can drive the distribution of capital to diverge without limit, and compound interest makes this fast. Unequal returns amplify r > g (p. 314).
+- Growth is the only "natural" brake. With global growth around 3.5 percent (1990–2012, perhaps to 2030), divergence at the top stays moderate. When catch-up ends and growth slows, inequality of returns will matter far more (pp. 314-315).
+- In the long run, unequal wealth within nations is more worrying than unequal wealth between nations (p. 315).
+- Magazine rankings are biased and methodologically weak, but in the absence of official data they must be used and improved, not ignored (p. 315).
+- Read with fixed fractiles, the Forbes data show the top 1/20 million's average wealth growing 6.4 percent a year in real terms (1987–2013) and the top 1/100 million's growing 6.8 percent. Average wealth per adult grew 2.1 percent and average income 1.4 percent (p. 316).
+- The result depends on the endpoints: 1990–2010 gives about 4 percent. But in every window the largest fortunes grow at least about twice as fast as the average fortune (pp. 316-317).
+- Billionaires hold only a little over 1 percent of global wealth, so the rankings leave out nearly 99 percent of capital (p. 317).
+- From combined estimates, global wealth inequality in the early 2010s is comparable to Europe in 1900–1910: the top 0.1 percent own nearly 20 percent, the top 1 percent about 50 percent, the top 10 percent 80–90 percent, and the bottom half less than 5 percent (p. 318).
+- These figures are "highly uncertain", orders of magnitude only (pp. 318-319). Much of the concentration is international, and catch-up may for now outweigh divergence. Whether global wealth inequality is rising is not settled (p. 319).
+- Divergence at the top is nevertheless already powerful, probably for fortunes of 10–100 million euros as well as for billionaires (p. 319).
+- Illustration: a 6 percent return for the top thousandth against 2 percent growth in average wealth would triple its share to 60 percent in thirty years. At 4 percent it would nearly double to about 40 percent (p. 319).
+- r > g, amplified by unequal returns, can produce "explosive trajectories". Only a progressive tax on capital can stop this (p. 320).
+- Above a threshold, large fortunes grow at very high rates whether inherited or entrepreneurial, and whether or not the owner works. Gates and Bettencourt both grew at over 13 percent a year in nominal terms in 1990–2010, about 10–11 percent real (p. 320).
+- Mechanism: very large fortunes can reinvest nearly all their income, because their owners' consumption is a tiny fraction of capital (p. 320; n. 16, p. 478).
+- Wealth "is not just a matter of merit": dozens of inherited fortunes exceed Steve Jobs's (p. 321).
+- Magazine methods underestimate inherited fortunes. Journalists start from listed companies, while heirs often hold diversified portfolios and avoid publicity. Counting families as one unit biases the other way (pp. 321-322).
+- Forbes has an ideological bias towards celebrating entrepreneurs. Its owner is himself an heir (p. 322).
+- Inherited wealth probably makes up more than half of the largest fortunes worldwide, "60–70 percent" as a realistic a priori estimate, against 80–90 percent in Belle Époque France (p. 323).
+- The entrepreneurial argument cannot justify every inequality. Fortunes outgrow any justification by social utility, and entrepreneurs become rentiers, even within one lifetime (p. 323).
+- This is "the main justification" for a progressive annual tax on the largest fortunes worldwide, the only democratic way to control the process while preserving entrepreneurship and openness (p. 323).
+- Uniform taxation is better than case-by-case moral judgment (Gates against Slim, Mittal, Lagardère, Obiang), which is arbitrary and often ethnocentric or racially coloured (pp. 324-326).
+- The return on capital mixes entrepreneurial labour, luck and theft. The arbitrariness of accumulation is broader than the arbitrariness of inheritance (p. 326).
+- US university endowments returned 8.2 percent a year in real terms, net of fees, in 1980–2010 (7.2 percent in 1990–2010) (p. 327).
+- Returns rise with endowment size: 6.2 percent below $100 million, 8.8 percent above $1 billion, and 10.2 percent for Harvard, Yale and Princeton (1980–2010) (p. 327).
+- The gradient comes from alternative investments, not from greater risk. Year-to-year volatility is no higher for the largest endowments (p. 328).
+- Endowment growth comes mostly from returns. Alumni gifts are one-tenth to one-fifth of the annual return (p. 329).
+- Caveats: the 1980–2010 asset-price rebound may not continue, scale economies may weaken for fortunes of 10–50 million euros, and families, unlike institutions, have prodigal children. So the distribution converges to an equilibrium instead of diverging without limit (p. 329).
+- Those caveats are "not altogether reassuring". A modest r − g gap is enough for extreme inequality (p. 329), and trusts and foundations blur the line between mortal families and permanent institutions (pp. 329-330).
+- Inflation does not lower the average return on capital, because asset prices track consumer prices. It redistributes returns, mainly towards the wealthiest, who can pay for management and get access to real assets (pp. 330-332).
+- Modern inflation makes it harder for small savers to earn 3–4 percent real, as nineteenth-century government bonds once allowed, and housing is hard to buy without initial wealth (p. 332).
+- Inflation is "an extremely blunt instrument" against rentiers. A progressive capital tax is better on transparency and efficacy (p. 333).
+- Sovereign wealth funds: Norway publishes detailed reports (over 700 billion euros in 2013) and had lower returns. Abu Dhabi reports over 7 percent real (1990–2010). Saudi Arabia earned 2–3 percent, mainly in US Treasuries (pp. 333-335).
+- Saudi Arabia's holdings of US Treasuries are plausibly partly a return on military protection: capital distribution is "at once economic, political, and military" (p. 335).
+- In 2013 sovereign funds held about $5.3 trillion, roughly the same as the Forbes billionaires (about $5.4 trillion), each about 1.5 percent of global private wealth (p. 335).
+- Oil funds also grow by investing new oil revenue. With natural resource rent at 5 percent of global GDP and possibly $200 oil, they could hold 10–20 percent or more of global capital by 2030–2040. At least two to three times today's share is "almost inevitable" (pp. 336-337).
+- Large foreign ownership would likely provoke political reactions, up to expropriation (p. 337).
+- China is a different case. Catch-up ends rapid growth, and under the central scenario capital/income ratios equalise across continents (Africa excepted). A Chinese buyout of the West would require persistently higher Chinese saving, for instance through funded pensions. That is possible but not plausible (pp. 337-338).
+- Oligarchic divergence is more likely than international divergence and already under way. With r > g and returns rising with size, the top centile and thousandth will pull ahead (p. 339).
+- Fears of Chinese ownership are "a pure fantasy". European households own about 70 trillion euros net, against about 3 trillion euros for China's sovereign funds plus reserves (p. 339).
+- Foreign buyers explain barely 3 percent of the rise in Paris property prices (p. 339).
+- The feeling of dispossession comes from concentration at home and the loss of democratic sovereignty over capital. Europe's small, competing states make this worse (pp. 339-340).
+- Combating oligarchic divergence requires coordinated international action, at least at a broad regional level (p. 340).
+- Officially, the rich countries' combined net foreign position is slightly negative (−4 percent of global GDP in 2010). The world as a whole is officially in net debt, which is impossible (pp. 340-341).
+- Zucman estimates unreported tax-haven assets at nearly 10 percent of global GDP, probably a lower bound, at least three-quarters owned by rich-country residents. So the rich countries' true net position is positive, and the rise of private wealth and of top shares is larger than official accounts show (pp. 341-342).

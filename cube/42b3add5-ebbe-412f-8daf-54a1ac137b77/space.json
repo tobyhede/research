@@ -1,0 +1,93 @@
+{
+  "version": 1,
+  "id": "42b3add5-ebbe-412f-8daf-54a1ac137b77",
+  "title": "Capital ch10 · Inequality of Capital Ownership",
+  "maps": [
+    {
+      "id": "a5241e0b-9630-44dd-b601-0fe817f6ef74",
+      "title": "Note",
+      "kind": "positioned",
+      "positions": {
+        "185ced38-8e92-4573-b53e-36573d894329": {
+          "x": 0,
+          "y": 0,
+          "size": {
+            "width": 560,
+            "height": 420
+          },
+          "content": {
+            "open": true
+          }
+        },
+        "2881a7be-0929-4fb1-9b51-a20c679464eb": {
+          "x": 640,
+          "y": 0
+        },
+        "87db12a1-f98e-4080-bffa-4960ca73cabf": {
+          "x": 980,
+          "y": 0
+        },
+        "9520cd40-12d1-448e-ad2d-a7f1a629cf81": {
+          "x": 1320,
+          "y": 0
+        },
+        "17af26bf-3582-4af5-9327-2ddeb0b702d9": {
+          "x": 640,
+          "y": 220
+        },
+        "d0dca88b-1735-45bb-b860-c873509fe652": {
+          "x": 980,
+          "y": 220
+        },
+        "d6b3bf98-b16d-4c5a-ad6a-d61620732144": {
+          "x": 1320,
+          "y": 220
+        },
+        "a5d2930b-94d6-4c30-8237-1cf1247712ee": {
+          "x": 640,
+          "y": 440
+        }
+      },
+      "graphs": [
+        {
+          "id": "757ebdea-2dd0-4147-b2cb-c63adb83975a",
+          "title": "Analysis",
+          "color": "#4e79a7",
+          "headShape": "arrow",
+          "edges": [
+            {
+              "from": "185ced38-8e92-4573-b53e-36573d894329",
+              "to": "2881a7be-0929-4fb1-9b51-a20c679464eb"
+            },
+            {
+              "from": "2881a7be-0929-4fb1-9b51-a20c679464eb",
+              "to": "87db12a1-f98e-4080-bffa-4960ca73cabf"
+            },
+            {
+              "from": "87db12a1-f98e-4080-bffa-4960ca73cabf",
+              "to": "9520cd40-12d1-448e-ad2d-a7f1a629cf81"
+            },
+            {
+              "from": "185ced38-8e92-4573-b53e-36573d894329",
+              "to": "17af26bf-3582-4af5-9327-2ddeb0b702d9"
+            },
+            {
+              "from": "9520cd40-12d1-448e-ad2d-a7f1a629cf81",
+              "to": "d0dca88b-1735-45bb-b860-c873509fe652"
+            },
+            {
+              "from": "2881a7be-0929-4fb1-9b51-a20c679464eb",
+              "to": "d6b3bf98-b16d-4c5a-ad6a-d61620732144"
+            },
+            {
+              "from": "d6b3bf98-b16d-4c5a-ad6a-d61620732144",
+              "to": "a5d2930b-94d6-4c30-8237-1cf1247712ee"
+            }
+          ]
+        }
+      ],
+      "activeGraph": "757ebdea-2dd0-4147-b2cb-c63adb83975a"
+    }
+  ],
+  "defaultMap": "a5241e0b-9630-44dd-b601-0fe817f6ef74"
+}

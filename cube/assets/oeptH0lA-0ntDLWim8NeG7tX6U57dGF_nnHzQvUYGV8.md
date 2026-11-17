@@ -1,0 +1,21 @@
+- That competition is blind, so that nobody can foretell who gains or loses, is a merit, parallel to the generality of legal rules (pp. 130-131).
+- The real choice is not between desert and chance, but between distribution by the will of a few and distribution depending partly on ability and enterprise and partly on unforeseeable circumstances (p. 131).
+- Chances under free enterprise are unequal because of property and inheritance; there is a strong case for reducing that inequality within limits (p. 131).
+- The poor in a competitive society are freer than materially better-off people in a different kind of society; an unskilled worker in England has more freedom than a small entrepreneur in Germany or an engineer in Russia (p. 131).
+- Transferring all means of production to the state makes the state's action decide all incomes (p. 132).
+- The state's power in that case is newly created, not transferred; divided property means nobody has exclusive power over particular people (p. 132).
+- Private property is the most important guaranty of freedom for owners and non-owners alike (p. 132).
+- A world where the wealthy are powerful is better than one where only the already powerful can acquire wealth (p. 132).
+- Planners would prefer to plan production only and leave distribution to impersonal forces under general rules of fairness, but planning cannot be stopped there (p. 133).
+- Inequality is more readily borne, and wounds dignity less, when it results from impersonal forces than when it is due to design (p. 134).
+- A government that plans for justice cannot refuse responsibility for anyone's fate; all effort is then directed at influencing the authority (p. 134).
+- Under total planning every economic or social question becomes political, and the only power worth having is a share in the directing power (pp. 134-135).
+- All government affects who gets what; the difference between free and totalitarian systems is whether measures aim at particular effects and how far government activity extends (p. 135).
+- Only absolute equality would give the planner a definite rule; people do not want it; "greater equality" gives no guidance (p. 136).
+- Our notions of just price and fair wage derive from the competitive regime and would vanish with it (pp. 136-137).
+- In deciding what is produced the planner decides the relative importance of groups and persons, and must discriminate between individuals, whether by income or by category (pp. 137-138).
+- Successful planning requires a common view on essential values, which is why material restriction touches spiritual freedom (p. 138).
+- That common view cannot come from education or reason; it requires acceptance of a creed, and socialists first built the instruments of indoctrination later used by Nazis and Fascists (pp. 138-139).
+- As incomes come to depend on the state, people can improve their position only through organised groups that control the state; the poorest need not win that contest (p. 139).
+- Fascism and National Socialism were a revolt of a new underprivileged lower middle class against the labour aristocracy, a conflict "between rival socialist factions" agreed on state assignment of station and divided on who gets which place (pp. 140-141).
+- The new movements succeeded because they had no illusions about democratic or rational solutions and offered a Weltanschauung justifying the privileges they promised (pp. 141-142).

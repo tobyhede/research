@@ -1,0 +1,27 @@
+- German data before 1870 are too fragmented to use; after 1870 the evolution is similar to Britain and France: land gives way to real estate and business capital, and β has climbed since 1945 toward its pre-1914 level (pp. 101-102).
+- Germany in 1913 had foreign assets of about 50 percent of national income, half the French and a quarter of the British level, because it had no colonial empire; colonial rivalry contributed to the climate of 1914 (p. 102).
+- By 2010 Germany's net foreign assets were close to 50 percent of national income through trade surpluses, while the former colonial powers were near zero, an inversion of positions (p. 102).
+- Germany drowned its public debt in inflation more than any other country, yet now refuses inflation above 2 percent, while Britain, which always paid its debts, is more relaxed about it (p. 103).
+- As in France, the German state owned 25–30 percent of national capital during postwar reconstruction; net public wealth was about zero by 2010 (p. 103).
+- German private wealth rose from about 1.5 years of national income in 1950 to more than four, but remains below France and Britain (five to six) and Italy and Spain (above six) (p. 104).
+- Most of that gap comes from the low stock-market value of German firms, not from housing; at book value the "German paradox would disappear" (p. 104). These accounting choices "are in fact highly political" (p. 104).
+- The stakeholder model implies lower market value but not necessarily lower social value, and can be "at least as efficient" as the shareholder model (p. 105).
+- The European pattern is general: Italy, Spain, Belgium, the Netherlands and Austria show the same U-curve (p. 105).
+- Between 1913 and 1950 national capital in Britain, France and Germany fell from 6.5–7 to about 2.5 years of national income (p. 105). Physical destruction accounted for about one-fifth to one-quarter of the fall in France, about one-third in Germany, and almost nothing in Britain, where β fell just as much (p. 106).
+- Volume effects (lost foreign assets, low national saving, destruction) explain two-thirds to three-quarters of the 1913–1950 fall; low asset prices under rent control, regulation and the new postwar politics explain one-quarter to one-third (pp. 106, 108).
+- Low saving 1914–1945 led wealthy Europeans to sell foreign assets to maintain living standards, and private saving was absorbed by wartime deficits later expropriated by inflation (p. 107).
+- The low postwar ratio was partly "a positive thing", reflecting deliberate policies to reduce asset values and owners' power (p. 107).
+- Around 1770–1810 US national capital was barely more than three years of national income, with farmland at one to one and a half years, versus about seven in Britain and France (p. 108).
+- Land was so abundant in America that its price effect outweighed its volume effect, so its total value was low (pp. 108-109); new arrivals brought no capital and needed time to accumulate it (p. 109).
+- Low American β meant a different structure of inequality: accumulated wealth mattered less and newcomers could close the wealth gap faster than in Europe (p. 109).
+- US national capital rose to nearly five years by 1910 and has oscillated between four and five since (pp. 109-110); the American U-curve is shallower, which may explain why textbooks treated a stable capital/output ratio as a universal law (pp. 110-111).
+- Europe's higher β today is "fairly well explained" by its lower economic and especially demographic growth (p. 111).
+- The United States never became a colonial power, and its net foreign position stayed within a few percent of its capital stock throughout (pp. 111-113): in 1913 "the United States owned itself" (p. 112).
+- Canada was different: around 1910 foreigners (mainly British) owned net assets worth 120 percent of national income, about a fifth to a quarter of domestic capital, mainly in natural resources (p. 113). The difference from the US is political, not economic (p. 113).
+- Slaves in the US rose from about 400,000 in the 1770s to 1 million in 1800 and more than 4 million in 1860 (p. 114); they were nearly 20 percent of the population in 1800 and 40 percent in the South (p. 114).
+- The market value of slaves was about one and a half years of US national income, roughly equal to farmland; including them, total US wealth was stable at about four and a half years from the colonial era to today (pp. 114-115).
+- In the South slaves were worth two and a half to three years of income and total capital more than six years, close to Britain and France; in the North total wealth was barely three years (p. 115).
+- The US combined a relatively egalitarian North and a South where "one half of the population owned the other half"; this contradictory relation to inequality persists and shapes the US welfare state (pp. 115-116).
+- Under the first law, a society where slaves receive 60 percent of income and r = 5 percent would hold slave capital of twelve years of income and total capital of twenty (pp. 116-117).
+- US slave capital was far below that bound because slaves were 20 percent of the population, slightly less productive than free labour, and returns on slave capital were nearer 7–8 percent; a prime-age male slave cost ten to twelve years of a free worker's wage (p. 117).
+- Capitalising labour income as "human capital" is meaningless outside slavery and the result that it dominates other capital is true by construction (p. 117).

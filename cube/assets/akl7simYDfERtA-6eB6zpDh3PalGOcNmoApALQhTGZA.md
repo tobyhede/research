@@ -1,0 +1,14 @@
+- An "average" rate of return is "a fairly abstract construct" (p. 143); the data have "limitations and weaknesses" (p. 143).
+- Early capital shares can only be "approximations" because mixed incomes may have been over half of national income (p. 145).
+- Valuing informal management labor is "quite difficult—and to some extent arbitrary" (p. 146); pure-return figures are "for illustrative purposes" and "should probably be regarded as minimum values" (p. 147).
+- "We nevertheless lack the distance" to be sure the pure return has fallen; a rise is possible (p. 147).
+- r may be above or below the marginal product, which "is not always precisely measurable" (p. 153).
+- Whether owners should receive the marginal product "is clearly a crucial question, but not the one I am asking here" (p. 155).
+- "both cases are theoretically possible. Everything depends on the vagaries of technology" (p. 156).
+- Cobb-Douglas is "sometimes a good approximation for certain subperiods or sectors" and "a useful point of departure" (p. 158).
+- The historical exercise "admittedly has its limits" given the sources (p. 159).
+- The 1.3–1.6 estimate is "uncertain and imprecise", and future technology need not have the same elasticity (p. 160).
+- The 1970–2010 rise in α fits rising bargaining power of capital as well as σ > 1 (p. 160).
+- On human capital, "a correct answer at this stage is impossible" (p. 162).
+- Technology may slightly favour labor over the very long run (p. 169).
+- The Cambridge-England side was not wholly wrong: Harrod's instability intuition "was not entirely wrong" (p. 167); American economists "tended at times to exaggerate" balanced growth (p. 168).

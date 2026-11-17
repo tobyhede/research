@@ -1,0 +1,5 @@
+- The elasticity estimate of 1.3–1.6 (ch06 note 24, p. 453 points only to the online appendix).
+- The Pareto model linking concentration to r − g, its predicted 90%/50% shares and its thresholds (ch10 pp. 264-265; notes 25-26).
+- That wealth is equally concentrated within each age cohort, the decisive point against the life-cycle explanation (ch07 p. 177; note 12, p. 455).
+- Whether the inheritance simulation that "successfully accounts for" 1820–2010 (ch11 p. 289) was fitted to that period or tested on it.
+- The 80% optimal rate's empirical inputs, which rest almost entirely on one then-forthcoming paper by Piketty, Saez and Stantcheva (ch14 pp. 373-376; note 40, p. 493).

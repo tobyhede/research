@@ -1,0 +1,8 @@
+- "It is necessary now to state the unpalatable truth that it is Germany whose fate we are in some danger of repeating." (p. 57)
+- "If in the long run we are the makers of our own fate, in the short run we are the captives of the ideas we have created." (p. 57)
+- "The supreme tragedy is still not seen that in Germany it was largely people of good will, men who were admired and held up as models in the democratic countries, who prepared the way for, if they did not actually create, the forces which now stand for everything they detest." (p. 58)
+- "Few are ready to recognize that the rise of fascism and naziism was not a reaction against the socialist trends of the preceding period but a necessary outcome of those tendencies." (p. 58)
+- "All parallels between developments in different countries are, of course, deceptive; but I am not basing my argument mainly on such parallels. Nor am I arguing that these developments are inevitable." (p. 58)
+- "It is because nearly everybody wants it that we are moving in this direction. There are no objective facts which make it inevitable." (p. 59)
+- "Is there a greater tragedy imaginable than that, in our endeavor consciously to shape our future in accordance with high ideals, we should in fact unwittingly produce the very opposite of what we have been striving for?" (p. 59)
+- "But it would be a mistake to believe that the specific German rather than the socialist element produced totalitarianism." (p. 62)

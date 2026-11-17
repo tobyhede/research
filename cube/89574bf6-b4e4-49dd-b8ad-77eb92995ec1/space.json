@@ -1,0 +1,93 @@
+{
+  "version": 1,
+  "id": "89574bf6-b4e4-49dd-b8ad-77eb92995ec1",
+  "title": "Capital ch16 · The Question of the Public Debt",
+  "maps": [
+    {
+      "id": "0a40039d-deef-4f97-8899-74a6b13ab0ec",
+      "title": "Note",
+      "kind": "positioned",
+      "positions": {
+        "f40404d9-5982-428c-8d1c-7d9590fcad7a": {
+          "x": 0,
+          "y": 0,
+          "size": {
+            "width": 560,
+            "height": 420
+          },
+          "content": {
+            "open": true
+          }
+        },
+        "5c651fc3-8a29-4df0-ace5-ec2b9ac7ccea": {
+          "x": 640,
+          "y": 0
+        },
+        "0b4a714d-5a34-44f8-84e0-b9901737752d": {
+          "x": 980,
+          "y": 0
+        },
+        "b28722f4-ef19-42b9-9812-411be3061a5f": {
+          "x": 1320,
+          "y": 0
+        },
+        "759732e0-1834-4403-9452-fb559af7846c": {
+          "x": 640,
+          "y": 220
+        },
+        "5c26d6a3-5809-438c-9022-de821159e16d": {
+          "x": 980,
+          "y": 220
+        },
+        "9e34586d-c9fd-4c78-97c8-bcdcc2a5fb3b": {
+          "x": 1320,
+          "y": 220
+        },
+        "d24760bb-0225-4c13-beaf-fdee8093cdc8": {
+          "x": 640,
+          "y": 440
+        }
+      },
+      "graphs": [
+        {
+          "id": "79ae84de-dd1f-4b0d-9be9-350a6742c102",
+          "title": "Analysis",
+          "color": "#4e79a7",
+          "headShape": "arrow",
+          "edges": [
+            {
+              "from": "f40404d9-5982-428c-8d1c-7d9590fcad7a",
+              "to": "5c651fc3-8a29-4df0-ace5-ec2b9ac7ccea"
+            },
+            {
+              "from": "5c651fc3-8a29-4df0-ace5-ec2b9ac7ccea",
+              "to": "0b4a714d-5a34-44f8-84e0-b9901737752d"
+            },
+            {
+              "from": "0b4a714d-5a34-44f8-84e0-b9901737752d",
+              "to": "b28722f4-ef19-42b9-9812-411be3061a5f"
+            },
+            {
+              "from": "f40404d9-5982-428c-8d1c-7d9590fcad7a",
+              "to": "759732e0-1834-4403-9452-fb559af7846c"
+            },
+            {
+              "from": "b28722f4-ef19-42b9-9812-411be3061a5f",
+              "to": "5c26d6a3-5809-438c-9022-de821159e16d"
+            },
+            {
+              "from": "5c651fc3-8a29-4df0-ace5-ec2b9ac7ccea",
+              "to": "9e34586d-c9fd-4c78-97c8-bcdcc2a5fb3b"
+            },
+            {
+              "from": "9e34586d-c9fd-4c78-97c8-bcdcc2a5fb3b",
+              "to": "d24760bb-0225-4c13-beaf-fdee8093cdc8"
+            }
+          ]
+        }
+      ],
+      "activeGraph": "79ae84de-dd1f-4b0d-9be9-350a6742c102"
+    }
+  ],
+  "defaultMap": "0a40039d-deef-4f97-8899-74a6b13ab0ec"
+}

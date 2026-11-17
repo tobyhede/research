@@ -1,0 +1,19 @@
+- The Rule of Law means government bound by rules fixed and announced beforehand; the ideal is never perfectly achieved, but executive discretion should be reduced as far as possible (p. 109).
+- Every law restricts freedom to some extent; the Rule of Law prevents government from frustrating individual efforts by ad hoc action (p. 109).
+- The distinction between a permanent legal framework and central direction of the economy is a particular case of the distinction between the Rule of Law and arbitrary government (p. 109).
+- Collectivist planning cannot bind itself by general rules: it must decide concrete questions by the circumstances of the moment and so rank the interests of persons and groups (pp. 109-110).
+- The mark of a formal rule is that its effect on particular people and ends is unknown in advance (p. 110).
+- Economic argument: individuals can use their local knowledge only if state action is predictable, and state action is predictable only if it follows rules fixed independently of circumstances; so "the more the state “plans,” the more difficult planning becomes for the individual" (p. 111).
+- Moral or political argument: where the state can foresee the effects of its action on particular people, the state is choosing between their ends and cannot be impartial (pp. 111-112).
+- "Fairness" cannot settle planning questions; agreement inside one industry proves nothing because the losers (consumers) are left out (p. 112).
+- Growth of planning brings growth of vague standards and judicial or administrative discretion; in Germany this decline preceded Hitler (pp. 112-113).
+- Planning means deliberate discrimination between people and a return to the rule of status (p. 113).
+- Formal equality before the law is incompatible with government action aimed at material equality; a policy aiming directly at distributive justice must destroy the Rule of Law (p. 113).
+- The Rule of Law produces economic inequality; the only claim for it is that the inequality is not designed to affect particular people (p. 113).
+- That a rule be applied without exception can matter more than its content (p. 114).
+- Private property open to all on the same rules is not privilege (p. 114).
+- The liberal position is not state inaction; the question is whether state action is foreseeable. General permanent regulation of production is compatible with liberal principles (pp. 114-115).
+- Legality is not the Rule of Law: a democracy can legally set up complete despotism by granting unlimited powers (pp. 115-116).
+- The Rule of Law limits what legislation may do and so implies inviolable individual rights; planners such as Wells who also want rights of man are inconsistent (pp. 116-117).
+- The view that government may always hold plenary powers is the view that all who want government to direct economic life must hold, and it leads "straight to the totalitarian state" (p. 118).
+- Formal protection of minority rights is worthless where the state controls economic life (p. 118).

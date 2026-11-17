@@ -1,0 +1,101 @@
+{
+  "version": 1,
+  "id": "851bc7c0-accf-4f3c-a7f5-0e34baf3db31",
+  "title": "Capital ch07 · Inequality and Concentration: Preliminary Bearings",
+  "maps": [
+    {
+      "id": "2a33c08c-8d39-4b62-aa20-ac70970593a8",
+      "title": "Note",
+      "kind": "positioned",
+      "positions": {
+        "ad4d9c2b-437a-46fd-a652-471f53ae0b16": {
+          "x": 0,
+          "y": 0,
+          "size": {
+            "width": 560,
+            "height": 420
+          },
+          "content": {
+            "open": true
+          }
+        },
+        "7c1fd885-cc31-4f7f-8507-d5752833b191": {
+          "x": 640,
+          "y": 0
+        },
+        "6652a587-7ec8-45ed-bc75-3465b95f0c90": {
+          "x": 980,
+          "y": 0
+        },
+        "23a7bdaf-10ff-404b-afe0-f59fce528e6f": {
+          "x": 1320,
+          "y": 0
+        },
+        "2a918dc2-e6d5-40ed-b2bf-acdba32d812e": {
+          "x": 640,
+          "y": 220
+        },
+        "27e34760-654c-4b17-a687-8629aa1bcf62": {
+          "x": 980,
+          "y": 220
+        },
+        "a3ef574d-d234-4e73-a893-fd89d8798e53": {
+          "x": 1320,
+          "y": 220
+        },
+        "3a5f376c-437f-47dc-ad27-806cbf4e22a3": {
+          "x": 640,
+          "y": 440
+        },
+        "3e175543-0b39-4830-8b3d-557e0fe7679e": {
+          "x": 980,
+          "y": 440
+        }
+      },
+      "graphs": [
+        {
+          "id": "bc9bc459-200b-4b70-94a1-206759f79dc1",
+          "title": "Analysis",
+          "color": "#4e79a7",
+          "headShape": "arrow",
+          "edges": [
+            {
+              "from": "ad4d9c2b-437a-46fd-a652-471f53ae0b16",
+              "to": "7c1fd885-cc31-4f7f-8507-d5752833b191"
+            },
+            {
+              "from": "7c1fd885-cc31-4f7f-8507-d5752833b191",
+              "to": "6652a587-7ec8-45ed-bc75-3465b95f0c90"
+            },
+            {
+              "from": "6652a587-7ec8-45ed-bc75-3465b95f0c90",
+              "to": "23a7bdaf-10ff-404b-afe0-f59fce528e6f"
+            },
+            {
+              "from": "6652a587-7ec8-45ed-bc75-3465b95f0c90",
+              "to": "2a918dc2-e6d5-40ed-b2bf-acdba32d812e"
+            },
+            {
+              "from": "ad4d9c2b-437a-46fd-a652-471f53ae0b16",
+              "to": "27e34760-654c-4b17-a687-8629aa1bcf62"
+            },
+            {
+              "from": "23a7bdaf-10ff-404b-afe0-f59fce528e6f",
+              "to": "a3ef574d-d234-4e73-a893-fd89d8798e53"
+            },
+            {
+              "from": "7c1fd885-cc31-4f7f-8507-d5752833b191",
+              "to": "3a5f376c-437f-47dc-ad27-806cbf4e22a3"
+            },
+            {
+              "from": "3a5f376c-437f-47dc-ad27-806cbf4e22a3",
+              "to": "3e175543-0b39-4830-8b3d-557e0fe7679e"
+            }
+          ]
+        }
+      ],
+      "activeGraph": "bc9bc459-200b-4b70-94a1-206759f79dc1"
+    }
+  ],
+  "defaultMap": "2a33c08c-8d39-4b62-aa20-ac70970593a8"
+}

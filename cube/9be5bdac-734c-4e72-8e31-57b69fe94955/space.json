@@ -1,0 +1,93 @@
+{
+  "version": 1,
+  "id": "9be5bdac-734c-4e72-8e31-57b69fe94955",
+  "title": "Capital ch05 · The Capital/Income Ratio over the Long Run",
+  "maps": [
+    {
+      "id": "ddbef90b-3ef2-4750-bd89-d2dffeeb9f1d",
+      "title": "Note",
+      "kind": "positioned",
+      "positions": {
+        "701b8950-9049-4079-8c7e-f10488386519": {
+          "x": 0,
+          "y": 0,
+          "size": {
+            "width": 560,
+            "height": 420
+          },
+          "content": {
+            "open": true
+          }
+        },
+        "dc9473f5-a50e-40f3-8f79-9c2ac2e44290": {
+          "x": 640,
+          "y": 0
+        },
+        "79c37cf1-1c79-4706-a446-905d38458c33": {
+          "x": 980,
+          "y": 0
+        },
+        "3d379f10-5330-41b5-9857-aeccbf66ea84": {
+          "x": 1320,
+          "y": 0
+        },
+        "4e8a97cc-a6d4-4d68-a50e-d62312d81d29": {
+          "x": 640,
+          "y": 220
+        },
+        "c7106433-1f30-4aca-97ab-8d4cfcece654": {
+          "x": 980,
+          "y": 220
+        },
+        "c5ec074e-79b9-4748-bc52-af8ff3abf238": {
+          "x": 1320,
+          "y": 220
+        },
+        "ab2e21d5-ee1b-473b-9170-b97c0bfb4d50": {
+          "x": 640,
+          "y": 440
+        }
+      },
+      "graphs": [
+        {
+          "id": "0116d2a9-5b8b-422b-85d9-5442945fd40f",
+          "title": "Analysis",
+          "color": "#4e79a7",
+          "headShape": "arrow",
+          "edges": [
+            {
+              "from": "701b8950-9049-4079-8c7e-f10488386519",
+              "to": "dc9473f5-a50e-40f3-8f79-9c2ac2e44290"
+            },
+            {
+              "from": "dc9473f5-a50e-40f3-8f79-9c2ac2e44290",
+              "to": "79c37cf1-1c79-4706-a446-905d38458c33"
+            },
+            {
+              "from": "79c37cf1-1c79-4706-a446-905d38458c33",
+              "to": "3d379f10-5330-41b5-9857-aeccbf66ea84"
+            },
+            {
+              "from": "701b8950-9049-4079-8c7e-f10488386519",
+              "to": "4e8a97cc-a6d4-4d68-a50e-d62312d81d29"
+            },
+            {
+              "from": "3d379f10-5330-41b5-9857-aeccbf66ea84",
+              "to": "c7106433-1f30-4aca-97ab-8d4cfcece654"
+            },
+            {
+              "from": "dc9473f5-a50e-40f3-8f79-9c2ac2e44290",
+              "to": "c5ec074e-79b9-4748-bc52-af8ff3abf238"
+            },
+            {
+              "from": "c5ec074e-79b9-4748-bc52-af8ff3abf238",
+              "to": "ab2e21d5-ee1b-473b-9170-b97c0bfb4d50"
+            }
+          ]
+        }
+      ],
+      "activeGraph": "0116d2a9-5b8b-422b-85d9-5442945fd40f"
+    }
+  ],
+  "defaultMap": "ddbef90b-3ef2-4750-bd89-d2dffeeb9f1d"
+}

@@ -1,0 +1,9 @@
+**Internationally, the answer is federation with limited, mainly negative powers.** It is the one constructive proposal in the book. [Ch 15, line 2354](https://github.com/tobyhede/research/blob/main/books/road-to-serfdom/source/source.txt#L2354)
+
+---
+
+- **Author's claim:** planning across nations would be worse than within them, because shared values thin out as scale grows and force must fill the gap. What is needed is a federal authority with strictly limited powers, able above all to forbid restrictive measures. [Ch 15, line 2320](https://github.com/tobyhede/research/blob/main/books/road-to-serfdom/source/source.txt#L2320) [Ch 15, line 2354](https://github.com/tobyhede/research/blob/main/books/road-to-serfdom/source/source.txt#L2354) [Ch 15, line 2360](https://github.com/tobyhede/research/blob/main/books/road-to-serfdom/source/source.txt#L2360)
+- **Reasoning:** the same argument as idea 1, applied at larger scale; nations may accept rules of the game but not a vote on whose needs come first. [Ch 15, line 2348](https://github.com/tobyhede/research/blob/main/books/road-to-serfdom/source/source.txt#L2348)
+- **Evidence:** hypothetical cases (planning the Danube basin) and his reading of the League of Nations. [Ch 15, line 2334](https://github.com/tobyhede/research/blob/main/books/road-to-serfdom/source/source.txt#L2334) [Ch 15, line 2372](https://github.com/tobyhede/research/blob/main/books/road-to-serfdom/source/source.txt#L2372)
+- **Boundary:** he admits the difficulty is extreme and gives no institutional design. He proposes starting with similar countries, perhaps part of western Europe. [Ch 15, line 2372](https://github.com/tobyhede/research/blob/main/books/road-to-serfdom/source/source.txt#L2372)
+- **Application [Application]:** useful as an early statement of the case for rule-bound federation over international economic management.

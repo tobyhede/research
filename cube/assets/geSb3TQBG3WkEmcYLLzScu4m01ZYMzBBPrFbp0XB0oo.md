@@ -1,0 +1,8 @@
+- "There are strong reasons for believing that what to us appear the worst features of the existing totalitarian systems are not accidental by-products but phenomena which totalitarianism is certain sooner or later to produce." (p. 154)
+- "It is, as it were, the lowest common denominator which unites the largest number of people." (p. 156)
+- "It seems to be almost a law of human nature that it is easier for people to agree on a negative program—on the hatred of an enemy, on the envy of those better off— than on any positive task." (p. 157)
+- "Collectivism has no room for the wide humanitarianism of liberalism but only for the narrow particularism of the totalitarian." (p. 158)
+- "To split or decentralize power is necessarily to reduce the absolute amount of power, and the competitive system is the only system designed to minimize by decentralization the power exercised by man over man." (p. 161)
+- "The principle that the end justifies the means is in individualist ethics regarded as the denial of all morals." (p. 162)
+- "Once you admit that the individual is merely a means to serve the ends of the higher entity called society or the nation, most of those features of totalitarian regimes which horrify us follow of necessity." (p. 163)
+- "Since it is the supreme leader who alone determines the ends, his instruments must have no moral convictions of their own." (p. 164)

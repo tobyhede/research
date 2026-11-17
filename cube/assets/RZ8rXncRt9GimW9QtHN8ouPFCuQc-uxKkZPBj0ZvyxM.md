@@ -1,0 +1,25 @@
+- When civilisation takes an unexpected turn toward barbarism, people blame anything except their own ideals; the one explanation refused is that the pursuit of cherished ideals has produced results utterly different from those expected (p. 63).
+- The war grew out of a struggle of ideas inside a common European civilisation; the tendencies that ended in totalitarianism were not confined to the countries that succumbed (pp. 63-64).
+- A change of ideas and the force of human will, not any spontaneous change in the facts, made the world what it is (p. 64).
+- England and America lagged behind, but by 1931 had already moved so far that only those who remember the years before 1914 know what a liberal world was like (p. 64).
+- The change is one of direction, not just magnitude: for at least twenty-five years before totalitarianism became a threat, the West had been moving away from its basic ideas (p. 64).
+- Freedom in economic affairs has been progressively abandoned, and without it personal and political freedom has never existed in the past (p. 65).
+- Tocqueville and Acton warned that socialism means slavery (p. 65).
+- The trend toward socialism breaks not only with nineteenth-century liberalism but with the individualism inherited from Christianity, Greece, Rome and the Renaissance (p. 65).
+- The National Socialist revolution was a counter-Renaissance, the decisive step in destroying an individualist civilisation (p. 65).
+- The growth of individual freedom is closely associated with the growth of commerce, spreading from northern Italy to the Low Countries and Britain wherever no despotic power stifled it (p. 66).
+- The argument for economic freedom came after the fact: free economic activity was the undesigned and unforeseen by-product of political freedom (p. 66).
+- The growth of science followed individual liberty; inventiveness existed earlier but was suppressed where dominant views were binding on all (pp. 66-67).
+- The material result surpassed all expectations; probably no class failed to benefit substantially, and by 1900 the Western workingman had comfort, security and independence scarcely thought possible a century before (p. 67).
+- Success bred ambition and impatience; the principles that made progress possible came to be seen as obstacles to faster progress (p. 67).
+- Liberalism is not a stationary creed; there is 'all the difference' between deliberately creating a system in which competition works beneficially and passively accepting institutions as they are (p. 67).
+- The wooden insistence on laissez faire did great harm to the liberal cause, though it was in a sense unavoidable as a defence against special interests (pp. 67-68).
+- The liberal's attitude to society is the gardener's: he must understand the plant to create conditions for its growth (p. 68).
+- The nineteenth-century rules were only a beginning; governments possess enormous powers for good and evil in money, monopoly and many other fields, which better understanding would let us use successfully (p. 68).
+- The very success of liberalism became the cause of its decline (pp. 68-69).
+- Toward the turn of the century belief in liberal tenets was relinquished in favour of a complete remodelling of society, and understanding of how the free system worked declined with it (p. 69).
+- The change was fostered by transferring the habits of thought of the natural scientist and engineer to social problems (p. 69).
+- The dominant view now is to replace the impersonal market mechanism by collective, 'conscious' direction of all social forces to deliberately chosen goals (p. 69).
+- From about 1870 the flow of ideas reversed: English ideas stopped spreading east and German ideas spread east and west for sixty years (p. 70).
+- Socialism did not originate in Germany but was perfected there (p. 70).
+- The West went on importing German ideas despite, or because of, German contempt for 'Western' ideals, and came to believe its own convictions were rationalisations of selfish interest (p. 71).

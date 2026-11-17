@@ -1,0 +1,109 @@
+{
+  "version": 1,
+  "id": "2007f14a-f6a5-4024-811a-790831db750e",
+  "title": "Serfdom ch13 · The Totalitarians in Our Midst",
+  "maps": [
+    {
+      "id": "27e66619-bc71-4a73-a104-07270c4fb103",
+      "title": "Note",
+      "kind": "positioned",
+      "positions": {
+        "693cbb06-a23a-4541-9c97-5d117f6daf2e": {
+          "x": 0,
+          "y": 0,
+          "size": {
+            "width": 560,
+            "height": 420
+          },
+          "content": {
+            "open": true
+          }
+        },
+        "c3b8dd49-756e-4c0f-b6a5-991871ddedba": {
+          "x": 640,
+          "y": 0
+        },
+        "efa896a3-d9b3-4b3b-a329-1d56c8d0808b": {
+          "x": 980,
+          "y": 0
+        },
+        "a6bd8fda-3469-4e01-8cf4-a1cb4c9ec137": {
+          "x": 1320,
+          "y": 0
+        },
+        "f712a5ff-3066-4d59-825a-13f530e26bd4": {
+          "x": 640,
+          "y": 220
+        },
+        "2591e518-6a48-4257-a307-a252c4e2e656": {
+          "x": 980,
+          "y": 220
+        },
+        "6b97d30a-70a8-4b5c-8ca9-6533116c4ccd": {
+          "x": 1320,
+          "y": 220
+        },
+        "fbbbf21a-00fe-4c0b-ae17-f83c79d5b0ca": {
+          "x": 640,
+          "y": 440
+        },
+        "4791c5de-23c5-4629-b6f1-0f957cf16537": {
+          "x": 980,
+          "y": 440
+        },
+        "932796d0-358d-4b0c-9ebb-3a108d83b779": {
+          "x": 1320,
+          "y": 440
+        }
+      },
+      "graphs": [
+        {
+          "id": "63c7ca14-06d8-4164-b4de-f9214b4bb154",
+          "title": "Analysis",
+          "color": "#4e79a7",
+          "headShape": "arrow",
+          "edges": [
+            {
+              "from": "693cbb06-a23a-4541-9c97-5d117f6daf2e",
+              "to": "c3b8dd49-756e-4c0f-b6a5-991871ddedba"
+            },
+            {
+              "from": "c3b8dd49-756e-4c0f-b6a5-991871ddedba",
+              "to": "efa896a3-d9b3-4b3b-a329-1d56c8d0808b"
+            },
+            {
+              "from": "efa896a3-d9b3-4b3b-a329-1d56c8d0808b",
+              "to": "a6bd8fda-3469-4e01-8cf4-a1cb4c9ec137"
+            },
+            {
+              "from": "efa896a3-d9b3-4b3b-a329-1d56c8d0808b",
+              "to": "f712a5ff-3066-4d59-825a-13f530e26bd4"
+            },
+            {
+              "from": "693cbb06-a23a-4541-9c97-5d117f6daf2e",
+              "to": "2591e518-6a48-4257-a307-a252c4e2e656"
+            },
+            {
+              "from": "a6bd8fda-3469-4e01-8cf4-a1cb4c9ec137",
+              "to": "6b97d30a-70a8-4b5c-8ca9-6533116c4ccd"
+            },
+            {
+              "from": "c3b8dd49-756e-4c0f-b6a5-991871ddedba",
+              "to": "fbbbf21a-00fe-4c0b-ae17-f83c79d5b0ca"
+            },
+            {
+              "from": "fbbbf21a-00fe-4c0b-ae17-f83c79d5b0ca",
+              "to": "4791c5de-23c5-4629-b6f1-0f957cf16537"
+            },
+            {
+              "from": "693cbb06-a23a-4541-9c97-5d117f6daf2e",
+              "to": "932796d0-358d-4b0c-9ebb-3a108d83b779"
+            }
+          ]
+        }
+      ],
+      "activeGraph": "63c7ca14-06d8-4164-b4de-f9214b4bb154"
+    }
+  ],
+  "defaultMap": "27e66619-bc71-4a73-a104-07270c4fb103"
+}

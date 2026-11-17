@@ -1,0 +1,8 @@
+- "The doctrines of National Socialism are the culmination of a long evolution of thought, a process in which thinkers who have had great influence far beyond the confines of Germany have taken part." (p. 178)
+- "It is simply collectivism freed from all traces of an individualist tradition which might hamper its realization." (p. 178)
+- "They were only one strand of thought among a people then perhaps more varied in its views than any other." (p. 178)
+- "On the contrary, the support which brought these ideas to power came precisely from the socialist camp. It was certainly not through the bourgeoisie, but rather through the absence of a strong bourgeoisie, that they were helped to power." (p. 178)
+- "It was the union of the anticapitalist forces of the Right and of the Left, the fusion of radical and conservative socialism, which drove out from Germany everything that was liberal." (p. 179)
+- "The connection between socialism and nationalism in Germany was close from the beginning." (p. 179)
+- Lensch, as quoted by Hayek: "The state has undergone a process of socialization, and Social Democracy has undergone a process of nationalization." (p. 184)
+- "Fight against liberalism in all its forms, liberalism that had defeated Germany, was the common idea which united socialists and conservatives in one common front." (p. 186)

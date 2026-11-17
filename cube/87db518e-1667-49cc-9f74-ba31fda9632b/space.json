@@ -1,0 +1,305 @@
+{
+  "version": 1,
+  "id": "87db518e-1667-49cc-9f74-ba31fda9632b",
+  "title": "Capital in the Twenty-First Century",
+  "maps": [
+    {
+      "id": "40fd4a94-42e0-4c80-a698-d0d3b91470da",
+      "title": "Overview",
+      "kind": "positioned",
+      "positions": {
+        "9bb84127-48bf-4377-9ff4-455d48338675": {
+          "x": 0,
+          "y": 0,
+          "size": {
+            "width": 520,
+            "height": 220
+          },
+          "content": {
+            "shape": "ellipse"
+          }
+        },
+        "c706a92b-1477-47ee-8851-2318841d0d53": {
+          "x": 620,
+          "y": 0,
+          "size": {
+            "width": 560,
+            "height": 420
+          },
+          "content": {
+            "open": true
+          }
+        },
+        "4def539f-740f-401f-885e-53df03724f83": {
+          "x": 1240,
+          "y": 0,
+          "size": {
+            "width": 560,
+            "height": 420
+          },
+          "content": {
+            "open": true
+          }
+        },
+        "388b255d-16d7-49c8-b595-f26bbfebe32c": {
+          "x": 1860,
+          "y": 0,
+          "size": {
+            "width": 560,
+            "height": 420
+          },
+          "content": {
+            "open": true
+          }
+        },
+        "e9915ad8-608b-4baa-8d2b-e1618809a025": {
+          "x": 620,
+          "y": 560,
+          "size": {
+            "width": 340,
+            "height": 220
+          }
+        },
+        "48c17fe5-017b-4ddf-b17a-0fe6b535ed88": {
+          "x": 1020,
+          "y": 560,
+          "size": {
+            "width": 340,
+            "height": 220
+          }
+        },
+        "8fc77719-d7ce-4060-b781-fdbc8655f2ad": {
+          "x": 1420,
+          "y": 560,
+          "size": {
+            "width": 340,
+            "height": 220
+          }
+        },
+        "c8d0d535-7b53-4345-952b-661db6657b96": {
+          "x": 1820,
+          "y": 560,
+          "size": {
+            "width": 340,
+            "height": 220
+          }
+        },
+        "4c809eb6-d42d-48ee-aab3-839fb3008a2c": {
+          "x": 620,
+          "y": 900
+        },
+        "68d92f78-7660-4711-afbf-dac1f6770d9b": {
+          "x": 960,
+          "y": 900
+        },
+        "dd603a03-b50f-4832-9982-25f13a7fb3a3": {
+          "x": 1300,
+          "y": 900
+        },
+        "9c1354a9-9db0-45d4-baba-65d62ae5d980": {
+          "x": 0,
+          "y": 360
+        },
+        "6b1a0bdd-0d48-4707-8907-cbfd789caa25": {
+          "x": 0,
+          "y": 620
+        }
+      },
+      "graphs": [
+        {
+          "id": "9ec84b74-1a45-4630-9dec-64d388baec36",
+          "title": "Tour",
+          "color": "#4e79a7",
+          "headShape": "arrow",
+          "edges": [
+            {
+              "from": "9bb84127-48bf-4377-9ff4-455d48338675",
+              "to": "c706a92b-1477-47ee-8851-2318841d0d53"
+            },
+            {
+              "from": "c706a92b-1477-47ee-8851-2318841d0d53",
+              "to": "4def539f-740f-401f-885e-53df03724f83"
+            },
+            {
+              "from": "4def539f-740f-401f-885e-53df03724f83",
+              "to": "388b255d-16d7-49c8-b595-f26bbfebe32c"
+            },
+            {
+              "from": "388b255d-16d7-49c8-b595-f26bbfebe32c",
+              "to": "e9915ad8-608b-4baa-8d2b-e1618809a025"
+            },
+            {
+              "from": "e9915ad8-608b-4baa-8d2b-e1618809a025",
+              "to": "48c17fe5-017b-4ddf-b17a-0fe6b535ed88"
+            },
+            {
+              "from": "48c17fe5-017b-4ddf-b17a-0fe6b535ed88",
+              "to": "8fc77719-d7ce-4060-b781-fdbc8655f2ad"
+            },
+            {
+              "from": "8fc77719-d7ce-4060-b781-fdbc8655f2ad",
+              "to": "c8d0d535-7b53-4345-952b-661db6657b96"
+            },
+            {
+              "from": "c8d0d535-7b53-4345-952b-661db6657b96",
+              "to": "4c809eb6-d42d-48ee-aab3-839fb3008a2c"
+            },
+            {
+              "from": "4c809eb6-d42d-48ee-aab3-839fb3008a2c",
+              "to": "68d92f78-7660-4711-afbf-dac1f6770d9b"
+            },
+            {
+              "from": "68d92f78-7660-4711-afbf-dac1f6770d9b",
+              "to": "dd603a03-b50f-4832-9982-25f13a7fb3a3"
+            }
+          ]
+        },
+        {
+          "id": "d1a97667-d540-48b6-90a2-1dcba5e8038c",
+          "title": "Provenance",
+          "color": "#9c9c9c",
+          "headShape": "dot",
+          "edges": [
+            {
+              "from": "9c1354a9-9db0-45d4-baba-65d62ae5d980",
+              "to": "9bb84127-48bf-4377-9ff4-455d48338675",
+              "title": "asks"
+            },
+            {
+              "from": "9c1354a9-9db0-45d4-baba-65d62ae5d980",
+              "to": "6b1a0bdd-0d48-4707-8907-cbfd789caa25",
+              "title": "quotes"
+            }
+          ]
+        }
+      ],
+      "activeGraph": "9ec84b74-1a45-4630-9dec-64d388baec36"
+    },
+    {
+      "id": "7155927c-1f5e-4c40-8b9a-dc33ff91ca27",
+      "title": "Reading plan",
+      "kind": "positioned",
+      "positions": {
+        "4092de85-5a7b-47bf-86e7-f291bc7514b2": {
+          "x": 0,
+          "y": 0,
+          "size": {
+            "width": 560,
+            "height": 420
+          },
+          "content": {
+            "open": true
+          }
+        },
+        "582d63dd-c26a-4571-89c4-d568454c736a": {
+          "x": 680,
+          "y": 0,
+          "size": {
+            "width": 320,
+            "height": 220
+          }
+        },
+        "5cc2ada0-57e8-41d9-a43b-216ac968a143": {
+          "x": 1060,
+          "y": 0,
+          "size": {
+            "width": 320,
+            "height": 220
+          }
+        },
+        "1cc2226d-f5de-4c71-9d9b-c258711f8b45": {
+          "x": 1440,
+          "y": 0,
+          "size": {
+            "width": 320,
+            "height": 220
+          }
+        },
+        "d150e37c-0a10-4703-b281-fa75033a71b5": {
+          "x": 1820,
+          "y": 0,
+          "size": {
+            "width": 320,
+            "height": 220
+          }
+        },
+        "9004d9dd-f7aa-4229-b398-0a15dc97382c": {
+          "x": 680,
+          "y": 280,
+          "size": {
+            "width": 320,
+            "height": 220
+          }
+        },
+        "4c6f34d1-711c-43f7-a6a9-434f0784e4f1": {
+          "x": 1060,
+          "y": 280,
+          "size": {
+            "width": 320,
+            "height": 220
+          }
+        },
+        "16b2aaf7-5029-402d-9879-9a5ff4e447e4": {
+          "x": 1440,
+          "y": 280,
+          "size": {
+            "width": 320,
+            "height": 220
+          }
+        },
+        "0615d697-f394-4903-a8f8-ded4ba1e5b2d": {
+          "x": 1820,
+          "y": 280,
+          "size": {
+            "width": 320,
+            "height": 220
+          }
+        }
+      },
+      "graphs": [
+        {
+          "id": "88a61d6f-a871-46ed-b882-80d64fde596c",
+          "title": "Read next",
+          "color": "#f28e2b",
+          "headShape": "arrow",
+          "edges": [
+            {
+              "from": "4092de85-5a7b-47bf-86e7-f291bc7514b2",
+              "to": "582d63dd-c26a-4571-89c4-d568454c736a"
+            },
+            {
+              "from": "582d63dd-c26a-4571-89c4-d568454c736a",
+              "to": "5cc2ada0-57e8-41d9-a43b-216ac968a143"
+            },
+            {
+              "from": "5cc2ada0-57e8-41d9-a43b-216ac968a143",
+              "to": "1cc2226d-f5de-4c71-9d9b-c258711f8b45"
+            },
+            {
+              "from": "1cc2226d-f5de-4c71-9d9b-c258711f8b45",
+              "to": "d150e37c-0a10-4703-b281-fa75033a71b5"
+            },
+            {
+              "from": "d150e37c-0a10-4703-b281-fa75033a71b5",
+              "to": "9004d9dd-f7aa-4229-b398-0a15dc97382c"
+            },
+            {
+              "from": "9004d9dd-f7aa-4229-b398-0a15dc97382c",
+              "to": "4c6f34d1-711c-43f7-a6a9-434f0784e4f1"
+            },
+            {
+              "from": "4c6f34d1-711c-43f7-a6a9-434f0784e4f1",
+              "to": "16b2aaf7-5029-402d-9879-9a5ff4e447e4"
+            },
+            {
+              "from": "16b2aaf7-5029-402d-9879-9a5ff4e447e4",
+              "to": "0615d697-f394-4903-a8f8-ded4ba1e5b2d"
+            }
+          ]
+        }
+      ],
+      "activeGraph": "88a61d6f-a871-46ed-b882-80d64fde596c"
+    }
+  ],
+  "defaultMap": "40fd4a94-42e0-4c80-a698-d0d3b91470da"
+}

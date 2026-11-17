@@ -1,0 +1,93 @@
+{
+  "version": 1,
+  "id": "d83e3e3d-0d12-4203-9254-3e9a403bc052",
+  "title": "Serfdom fm02 · Hayek's Prefaces (1944, 1956, 1976)",
+  "maps": [
+    {
+      "id": "5bb42d84-b53a-4270-b83f-cade02e33826",
+      "title": "Note",
+      "kind": "positioned",
+      "positions": {
+        "50c4ebd5-968d-4ac0-b2b7-75fda13fd93f": {
+          "x": 0,
+          "y": 0,
+          "size": {
+            "width": 560,
+            "height": 420
+          },
+          "content": {
+            "open": true
+          }
+        },
+        "ecb181ad-d70d-43cc-a64b-140cd27a8d3b": {
+          "x": 640,
+          "y": 0
+        },
+        "1012057b-59a7-4f04-847d-415ebe97bcc0": {
+          "x": 980,
+          "y": 0
+        },
+        "e2125812-cacd-4f42-856f-f106027ba813": {
+          "x": 1320,
+          "y": 0
+        },
+        "7eef6efc-78f0-4dcd-a333-e378359c1667": {
+          "x": 640,
+          "y": 220
+        },
+        "97b17495-37be-4219-a7bc-3caea5f23efa": {
+          "x": 980,
+          "y": 220
+        },
+        "3d6d1947-bf83-4f0b-b29d-64cd553aa999": {
+          "x": 1320,
+          "y": 220
+        },
+        "f1e312ad-1efb-4388-8680-18cfed79c768": {
+          "x": 640,
+          "y": 440
+        }
+      },
+      "graphs": [
+        {
+          "id": "c946a77b-5f24-4c79-bf9d-6c796db6dd47",
+          "title": "Analysis",
+          "color": "#4e79a7",
+          "headShape": "arrow",
+          "edges": [
+            {
+              "from": "50c4ebd5-968d-4ac0-b2b7-75fda13fd93f",
+              "to": "ecb181ad-d70d-43cc-a64b-140cd27a8d3b"
+            },
+            {
+              "from": "ecb181ad-d70d-43cc-a64b-140cd27a8d3b",
+              "to": "1012057b-59a7-4f04-847d-415ebe97bcc0"
+            },
+            {
+              "from": "1012057b-59a7-4f04-847d-415ebe97bcc0",
+              "to": "e2125812-cacd-4f42-856f-f106027ba813"
+            },
+            {
+              "from": "50c4ebd5-968d-4ac0-b2b7-75fda13fd93f",
+              "to": "7eef6efc-78f0-4dcd-a333-e378359c1667"
+            },
+            {
+              "from": "e2125812-cacd-4f42-856f-f106027ba813",
+              "to": "97b17495-37be-4219-a7bc-3caea5f23efa"
+            },
+            {
+              "from": "ecb181ad-d70d-43cc-a64b-140cd27a8d3b",
+              "to": "3d6d1947-bf83-4f0b-b29d-64cd553aa999"
+            },
+            {
+              "from": "3d6d1947-bf83-4f0b-b29d-64cd553aa999",
+              "to": "f1e312ad-1efb-4388-8680-18cfed79c768"
+            }
+          ]
+        }
+      ],
+      "activeGraph": "c946a77b-5f24-4c79-bf9d-6c796db6dd47"
+    }
+  ],
+  "defaultMap": "5bb42d84-b53a-4270-b83f-cade02e33826"
+}

@@ -1,0 +1,7 @@
+- How sensitive is the 2%-of-GDP European revenue estimate (p. 389) to valuation of unlisted business assets and to behavioural responses (avoidance, emigration, asset re-labelling)? The simulation is in the online appendix only (Piketty's note 24) (pp. 497-498). Does the estimate assume zero avoidance?
+- Is the residence principle (p. 381), which Piketty says "can by no means be taken for granted", workable without global agreement? What happens to wealth held by non-residents in a taxing region?
+- The precomputed-statement model works well for real estate and bank-held securities (pp. 382-383). How would unlisted firms, private equity, art, and trusts be valued annually at market value? The chapter names this as a design question (pp. 394-395) but does not answer it.
+- The 30% tariff on non-cooperating states (p. 385) is a trade sanction; is it compatible with WTO rules, and does Piketty address retaliation?
+- What exactly is the relation between top rates and r − g? Piketty's note 33 gives only the inheritance-tax formula (p. 499); the "about 5 percent" figure (p. 391) is not derived in the text.
+- Do Chinese capital controls actually contain wealth inequality (pp. 396-397)? The evidence offered is a hypothetical (p. 396) and the absence of observed outflows "at least for now" (p. 396).
+- Immigration "postpones the problem" (p. 399) but also prevents the US becoming Old Europe (p. 398). Which of ch14's and ch15's predictions about the US does the conclusion (ch17) endorse?

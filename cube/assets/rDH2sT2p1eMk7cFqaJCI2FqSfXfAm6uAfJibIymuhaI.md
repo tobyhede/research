@@ -1,0 +1,6 @@
+- Is the negative definition of freedom (p. 74) argued for anywhere in the book, or only asserted against the 'confusion' with power? The Dewey footnote (p. 79) is the only engagement with a rival view.
+- Can dependence on an employer or landlord under threat of destitution count as 'arbitrary power of other men' on Hayek's own definition (p. 74)? If so the socialist complaint is not wholly an equivocation. Check chs. 7-9.
+- Does the later argument show that democratic socialism is unachievable (p. 78) or only that comprehensive central planning is incompatible with democracy? The two differ if socialist ends can be sought by other means, which ch. 3 allows (pp. 80-81).
+- How representative is the witness list? All five are critics by the time they write. Does Hayek ever engage a socialist who considered the freedom problem and answered it?
+- The historical claim that liberalism was dead in Germany by 1933 and 'socialism had killed it' (p. 77): what is the evidence in ch. 12, and what of nationalism, conservatism and the war?
+- The editor's corrections (Saint-Simon wording, Eastman and Drucker pages, the untraceable Voigt passage) suggest Hayek quoted from memory or notes; synthesis should treat his quotations of opponents as paraphrase unless the editor confirms them.

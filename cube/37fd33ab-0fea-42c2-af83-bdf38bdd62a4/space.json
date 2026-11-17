@@ -1,0 +1,101 @@
+{
+  "version": 1,
+  "id": "37fd33ab-0fea-42c2-af83-bdf38bdd62a4",
+  "title": "Serfdom ch06 · Planning and the Rule of Law",
+  "maps": [
+    {
+      "id": "eebacb45-fd98-47ca-aa1f-760905e2e6aa",
+      "title": "Note",
+      "kind": "positioned",
+      "positions": {
+        "1cbbc54e-939e-410a-b414-9787b97ad052": {
+          "x": 0,
+          "y": 0,
+          "size": {
+            "width": 560,
+            "height": 420
+          },
+          "content": {
+            "open": true
+          }
+        },
+        "0b70a7cc-d4db-421f-ba06-4c1c809063f7": {
+          "x": 640,
+          "y": 0
+        },
+        "3537d70a-580c-4ef3-a8d5-aa6af7ccb365": {
+          "x": 980,
+          "y": 0
+        },
+        "3b06bc0a-eddd-4c74-9ff9-727853b6414e": {
+          "x": 1320,
+          "y": 0
+        },
+        "39102f87-1bc0-439b-9b63-91813fee3c8a": {
+          "x": 640,
+          "y": 220
+        },
+        "9ffa902d-0931-4fa9-89b7-63f74b7dc494": {
+          "x": 980,
+          "y": 220
+        },
+        "8c31ef71-7867-404e-bc6c-b109fccce141": {
+          "x": 1320,
+          "y": 220
+        },
+        "7879239a-8162-47b0-aaa5-fb1b0ba13348": {
+          "x": 640,
+          "y": 440
+        },
+        "d03b6010-d126-49f4-a657-2ae791019ab7": {
+          "x": 980,
+          "y": 440
+        }
+      },
+      "graphs": [
+        {
+          "id": "766298fe-924b-420b-85d8-3873605ebd17",
+          "title": "Analysis",
+          "color": "#4e79a7",
+          "headShape": "arrow",
+          "edges": [
+            {
+              "from": "1cbbc54e-939e-410a-b414-9787b97ad052",
+              "to": "0b70a7cc-d4db-421f-ba06-4c1c809063f7"
+            },
+            {
+              "from": "0b70a7cc-d4db-421f-ba06-4c1c809063f7",
+              "to": "3537d70a-580c-4ef3-a8d5-aa6af7ccb365"
+            },
+            {
+              "from": "3537d70a-580c-4ef3-a8d5-aa6af7ccb365",
+              "to": "3b06bc0a-eddd-4c74-9ff9-727853b6414e"
+            },
+            {
+              "from": "3537d70a-580c-4ef3-a8d5-aa6af7ccb365",
+              "to": "39102f87-1bc0-439b-9b63-91813fee3c8a"
+            },
+            {
+              "from": "1cbbc54e-939e-410a-b414-9787b97ad052",
+              "to": "9ffa902d-0931-4fa9-89b7-63f74b7dc494"
+            },
+            {
+              "from": "3b06bc0a-eddd-4c74-9ff9-727853b6414e",
+              "to": "8c31ef71-7867-404e-bc6c-b109fccce141"
+            },
+            {
+              "from": "0b70a7cc-d4db-421f-ba06-4c1c809063f7",
+              "to": "7879239a-8162-47b0-aaa5-fb1b0ba13348"
+            },
+            {
+              "from": "7879239a-8162-47b0-aaa5-fb1b0ba13348",
+              "to": "d03b6010-d126-49f4-a657-2ae791019ab7"
+            }
+          ]
+        }
+      ],
+      "activeGraph": "766298fe-924b-420b-85d8-3873605ebd17"
+    }
+  ],
+  "defaultMap": "eebacb45-fd98-47ca-aa1f-760905e2e6aa"
+}

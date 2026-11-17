@@ -1,0 +1,26 @@
+- 'Socialism' names both a set of ultimate ends (social justice, equality, security) and a particular method (abolition of private enterprise and private ownership of the means of production, central planning) (p. 80).
+- Many who value the ends of socialism as much as socialists do reject it because of the danger its methods pose to other values; the dispute is largely about means, not ends, though whether the ends can all be achieved together is also at issue (p. 81).
+- Central direction of economic activity is necessary if the distribution of income is to conform to current ideas of social justice (p. 81).
+- The same method is equally necessary for, and equally serviceable to, any other distributive aim, including rule by a racial elite, a party or an aristocracy (p. 81).
+- The method is better called collectivism, with socialism a species of it; all the consequences examined in the book follow from the methods of collectivism irrespective of the ends (p. 81).
+- Socialism is the most important species of collectivism and the one that persuaded liberal-minded people to accept regimentation of economic life again (p. 81).
+- Central planning owes its appeal largely to the vagueness of the word (p. 82).
+- In the general sense of rational foresight everyone is a planner; the planners mean something else: central direction of all economic activity according to a single plan (p. 82).
+- The real dispute is whether the holder of coercive power should confine himself to creating conditions in which individuals can plan best, or whether resources must be centrally directed according to a blueprint (p. 82).
+- Opposition to that kind of planning is not dogmatic laissez faire (p. 83).
+- Competition needs a carefully thought-out legal framework, and neither existing nor past legal rules are free from grave defects (p. 83).
+- Where conditions for effective competition cannot be created, other methods of guiding economic activity must be used (p. 83).
+- Competition is superior chiefly because it is the only method of coordination that needs no coercive or arbitrary intervention of authority (p. 83).
+- Competition requires that parties be free to buy and sell at any price, that anyone be free to produce and trade, and that entry to trades be open to all on equal terms (p. 83).
+- Any control of prices or quantities of particular commodities deprives competition of its coordinating power, because prices then cease to register changes in circumstances (pp. 83-84).
+- Restrictions on methods of production that bind all producers equally, such as bans on poisonous substances, limits on working hours and sanitary requirements, are fully compatible with competition; the only question is whether benefits exceed costs (p. 84).
+- An extensive system of social services is compatible with competition so long as it is not organised so as to make competition ineffective over wide fields (p. 84).
+- The positive requirements of competition, including money, markets, channels of information and above all an appropriate legal system, have been neglected; defects in corporation and patent law have destroyed competition in many spheres (p. 84).
+- Where owners cannot be charged for damage or paid for services (roads, signposts, deforestation, harmful farming methods, factory smoke and noise), the price system fails and direct regulation by authority must substitute for it (pp. 84-85).
+- These tasks give the state 'a wide and unquestioned field' of activity; in no rationally defensible system would the state do nothing (p. 85).
+- The modern movement for planning is a movement against competition as such (p. 85).
+- The first result of general hostility to competition is not central planning but a syndicalist or corporative organisation of industry run by independent monopolies of capital and labour, which is worse than either system (p. 86).
+- From that stage the only alternative to restoring competition is state control of the monopolies, which must become progressively more complete and detailed (p. 86).
+- There is no stable middle way: competition and central direction are alternative principles, and a mixture works worse than either consistently applied (pp. 86-87).
+- Planning and competition can be combined only by planning for competition, never by planning against it (p. 87).
+- The book's criticism is directed solely at planning against competition (p. 87).

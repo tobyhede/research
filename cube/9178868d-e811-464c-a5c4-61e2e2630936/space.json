@@ -1,0 +1,93 @@
+{
+  "version": 1,
+  "id": "9178868d-e811-464c-a5c4-61e2e2630936",
+  "title": "Serfdom ap01 · Appendix: Related Documents",
+  "maps": [
+    {
+      "id": "09a294a6-d401-4c76-9067-d7c5def68664",
+      "title": "Note",
+      "kind": "positioned",
+      "positions": {
+        "8ff77cb6-d285-4d89-a073-e7bca4a480d8": {
+          "x": 0,
+          "y": 0,
+          "size": {
+            "width": 560,
+            "height": 420
+          },
+          "content": {
+            "open": true
+          }
+        },
+        "0e1e6b63-b375-4e75-a318-4c61699651bc": {
+          "x": 640,
+          "y": 0
+        },
+        "8f8c405e-5665-42ca-9c8c-32b48e6f649a": {
+          "x": 980,
+          "y": 0
+        },
+        "b5cbb996-6d86-4a9f-8dfd-f4d66d4f3265": {
+          "x": 1320,
+          "y": 0
+        },
+        "44e0e0f3-5205-4599-8610-e1fb58b4c936": {
+          "x": 640,
+          "y": 220
+        },
+        "76b00213-5474-492c-a0e2-7372081ee54d": {
+          "x": 980,
+          "y": 220
+        },
+        "37df4684-0486-4466-a8c2-2a99874ca659": {
+          "x": 1320,
+          "y": 220
+        },
+        "97bf82d3-1dcd-4854-bc9e-5828f0b2ccd3": {
+          "x": 640,
+          "y": 440
+        }
+      },
+      "graphs": [
+        {
+          "id": "877e4d65-1531-4b77-8a53-7b5a9d8053b6",
+          "title": "Analysis",
+          "color": "#4e79a7",
+          "headShape": "arrow",
+          "edges": [
+            {
+              "from": "8ff77cb6-d285-4d89-a073-e7bca4a480d8",
+              "to": "0e1e6b63-b375-4e75-a318-4c61699651bc"
+            },
+            {
+              "from": "0e1e6b63-b375-4e75-a318-4c61699651bc",
+              "to": "8f8c405e-5665-42ca-9c8c-32b48e6f649a"
+            },
+            {
+              "from": "8f8c405e-5665-42ca-9c8c-32b48e6f649a",
+              "to": "b5cbb996-6d86-4a9f-8dfd-f4d66d4f3265"
+            },
+            {
+              "from": "8ff77cb6-d285-4d89-a073-e7bca4a480d8",
+              "to": "44e0e0f3-5205-4599-8610-e1fb58b4c936"
+            },
+            {
+              "from": "b5cbb996-6d86-4a9f-8dfd-f4d66d4f3265",
+              "to": "76b00213-5474-492c-a0e2-7372081ee54d"
+            },
+            {
+              "from": "0e1e6b63-b375-4e75-a318-4c61699651bc",
+              "to": "37df4684-0486-4466-a8c2-2a99874ca659"
+            },
+            {
+              "from": "37df4684-0486-4466-a8c2-2a99874ca659",
+              "to": "97bf82d3-1dcd-4854-bc9e-5828f0b2ccd3"
+            }
+          ]
+        }
+      ],
+      "activeGraph": "877e4d65-1531-4b77-8a53-7b5a9d8053b6"
+    }
+  ],
+  "defaultMap": "09a294a6-d401-4c76-9067-d7c5def68664"
+}

@@ -1,0 +1,5 @@
+- If r > g is "a historical fact, not a logical necessity" (p. 255), what would falsify the forecast that it "will again become the norm" (p. 427)? The Conclusion gives no conditions.
+- Does note 1 (higher g may raise r, p. 510) cut against or support the claim that growth policies are no solution? It seems to close off growth as a remedy even if growth could be raised, which strengthens the case for taxation but rests on a mechanism the Conclusion does not explain.
+- How does Piketty square the critique of mathematical models (p. 429) with the work done by β = s/g and α = r × β? A reader of the critiques should check whether objections target the identities (which are definitional) or the behavioural assumptions behind them (elasticity of substitution, savings behaviour).
+- The claim that extreme wealth inequality is of no use to growth (p. 428) is made without data in this chapter; which chapters carry it, and how strong is that evidence?
+- Is "bet everything on democracy" (p. 428) a policy claim, a value commitment, or both? The Conclusion presents it as the only alternative without assessing the probability of European political union.

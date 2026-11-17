@@ -1,0 +1,12 @@
+- Economic security is in one sense a true and important condition of liberty, but the term is ambiguous and, understood too absolutely, the striving for it becomes the gravest threat to freedom (pp. 143-144).
+- There are two kinds of security: a minimum for all (limited) and a guaranteed particular income or relative position (absolute). The distinction largely coincides with security providable outside the market versus security providable only for some by controlling or abolishing the market (p. 144).
+- The first kind can be guaranteed to all in a society as wealthy as ours without endangering general freedom (p. 144).
+- The state may help organize comprehensive social insurance against genuinely insurable risks, give disaster relief, and combat general economic fluctuations, none of which is incompatible in principle with individual freedom (pp. 144-145).
+- The demand for the second kind of security is a demand for remuneration by subjective merit; it is irreconcilable with freedom to choose one's employment (p. 145).
+- Certainty of a given income cannot be given to all if any free choice of occupation is to remain; given to some, it is a privilege at the expense of others (p. 146).
+- If remuneration is detached from usefulness, labor must be allocated by direct orders, and the question of incentives is above all one of information, not only of effort (pp. 146-147).
+- A planned system needs harsher discipline than a market: for workers something approaching corporal punishment, for managers criminal liability; the manager's economic security is bought with the safety of freedom and life (pp. 147-148).
+- There are only two types of social organization, commercial and military; full economic security for all is available only in the second and is the security of the barracks (p. 148).
+- Piecemeal grants of security through restriction increase the insecurity of everyone left outside, and are largely responsible for increased unemployment in recent decades (pp. 149-150).
+- As security becomes a privilege, social values shift: security rather than independence confers status, and people become willing to trade liberty for it. Germany led this transformation (pp. 150-152).
+- Policy conclusion: adequate security against severe privation must be a main goal of policy, but it must be provided outside the market, with competition left unobstructed; and people must relearn that freedom has a material price (pp. 152-153).

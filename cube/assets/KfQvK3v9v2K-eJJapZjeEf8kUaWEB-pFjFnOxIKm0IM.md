@@ -1,0 +1,5 @@
+- Is r in r > g pre-tax or post-tax, and is it the economy-wide average or the return on large fortunes? The Introduction's definition is pre-tax and average (pp. 22-23); the divergence argument needs the return actually earned and kept by heirs.
+- What evidence supports the claim that a more perfect capital market raises the likelihood of r > g (p. 24)? Nothing in the Introduction backs it.
+- How much of the post-1950 rise in β is volume (saving relative to growth) and how much is relative asset prices? The answer bears on whether β = s / g or Ricardo's scarcity principle (pp. 6-7) explains the U-curve.
+- Is the managerial-power explanation of US top pay (p. 22) tested against alternatives (superstar effects, financialisation, tax incentives)? See ch09 and ch14.
+- How robust is the WTID's homogenisation of tax data across changing tax laws and avoidance (p. 16, "corrected in various ways")? Details are in the online appendix, not the book.

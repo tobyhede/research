@@ -1,0 +1,29 @@
+- The magnitude of Nazi outrages has strengthened, not weakened, the belief that it cannot happen here; but fifteen years earlier the same outcome would have seemed fantastic in Germany too (p. 190).
+- The relevant comparison is not present Germany but the Germany of twenty or thirty years ago, which conditions in the democracies increasingly resemble (p. 190).
+- Symptoms: convergence of Right and Left on economic views and their common opposition to liberalism; veneration for the state; admiration of power and bigness; enthusiasm for "organization" (p. 190).
+- England has become half-ashamed of the political views once thought characteristically English; Morley, Sidgwick, Acton, Dicey are "obsolete Victorians", Bismarck is treated sympathetically and Gladstone sneered at (p. 191).
+- Almost every single feature of totalitarianism has been recommended by somebody in England or America, including by people who oppose Hitler only on account of his anti-Semitism (p. 192).
+- The similarity is more one of temper than of specific argument: readiness to break all cultural ties with the past and stake everything on one experiment (p. 192).
+- The writers preparing the way are sincere idealists of intellectual distinction; Hayek deliberately picks authors whose sincerity is above suspicion (p. 192).
+- E. H. Carr's two books show the German influence most markedly: historical-school "realism", rejection of abstract principles, denial that pacta sunt servanda is a moral principle, equation of Nazi and Anglo-American identification of national interest with right, collapse of the society/state distinction, propaganda as corollary of mass production, inevitability of centralized planning in larger units, autarky, approval of Hitler's reorganization of Europe, the moral function of war (pp. 192-195).
+- Carr's inevitability thesis rests on "familiar economic fallacies": technological necessity of monopoly and "potential plenty" (p. 194).
+- The agitation of scientists for a "scientific" organization of society is a German development now reappearing in English-speaking countries (p. 195).
+- German scholars and scientists, especially natural scientists and engineers, submitted to the Nazis more readily than almost any other class (p. 195).
+- A general shift of education from the "humanities" to the "realities", as in Germany 1840–1940, has political effects (p. 195).
+- Waddington, unlike most such writers, sees and says that the tendencies he supports lead to a totalitarian system, and prefers it (p. 196); his social and economic claims are unscientific and rest on political tracts (p. 197).
+- Middle-class socialist movements (Acland's Common Wealth, Priestley's 1941 Committee) are symptomatic but not yet important political forces (p. 197).
+- The impetus toward totalitarianism comes mainly from organized capital and organized labor, whose policies point the same way: monopolistic organization of industry (pp. 197-198).
+- This movement is not inevitable, but if continued it "will lead us to totalitarianism" (p. 198).
+- Capitalist monopolists aim only at a corporative society of self-governing industrial "estates", but they are shortsighted: no society will long leave such decisions and such aggregations of power in private hands (p. 198).
+- Blame should not fall exclusively or mainly on capitalists; their propensity to monopoly is old and would not by itself be formidable. The fatal development was their enlisting other groups and, through them, the state (p. 198).
+- The change in public opinion that made this possible, working through legislation and the courts, is "more than anything the result of the propaganda against competition by the Left" (pp. 198-199).
+- Measures aimed at monopolists often strengthen monopoly: every raid on monopoly gains creates new vested interests in it; a monopoly whose gains are widely shared is politically more dangerous and more powerful (p. 199).
+- Higher monopoly wages are exploitation of consumers and of other wage-earners (p. 199).
+- Even where monopoly is inevitable, state ownership is doubtful as a remedy; separate private monopolies leave the consumer stronger than "coordinated" central control (p. 199).
+- State monopoly is protected against both potential competition and effective criticism, and tends to make a temporary monopoly permanent (p. 199).
+- A state entangled in running monopolies has crushing power over the individual yet is weak in formulating policy, becoming identified with "those who run things" (pp. 199-200).
+- Where monopoly really is inevitable, strong state control of private monopoly with stringent price control (the older American plan) is probably better than state management, even at some cost in efficiency (p. 200).
+- The fatal turning point was the labor movement's adoption of anti-competition doctrines and its entanglement in the strife for privilege; recent monopoly growth is largely deliberate collaboration of organized capital and organized labor at the expense of the poorest and the unemployed (p. 200).
+- There are only two possibilities: the impersonal discipline of the market or direction by the will of a few (p. 201).
+- The Labour party programme for a "planned society" is "indistinguishable" in outline, detail and wording from German socialist dreams of twenty-five years earlier (p. 201).
+- That the main progressive party has joined what is in fact a reactionary movement is "the decisive change" of the time and "the source of the mortal danger to everything a liberal must value" (p. 201).

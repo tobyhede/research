@@ -1,0 +1,329 @@
+{
+  "version": 1,
+  "id": "77eae4a4-2d5c-4028-aac8-42a406de040e",
+  "title": "The Road to Serfdom",
+  "maps": [
+    {
+      "id": "8c9ec6bb-b62a-4b47-8e13-c23e4bbe2004",
+      "title": "Overview",
+      "kind": "positioned",
+      "positions": {
+        "ab0e54c1-1928-4efd-8949-8ad459958aa8": {
+          "x": 0,
+          "y": 0,
+          "size": {
+            "width": 520,
+            "height": 220
+          },
+          "content": {
+            "shape": "ellipse"
+          }
+        },
+        "f6dc29f9-d784-46b3-bc8b-348c2a724d6c": {
+          "x": 620,
+          "y": 0,
+          "size": {
+            "width": 560,
+            "height": 420
+          },
+          "content": {
+            "open": true
+          }
+        },
+        "e6f19fe1-d5bf-4431-adae-1d46597d150d": {
+          "x": 1240,
+          "y": 0,
+          "size": {
+            "width": 560,
+            "height": 420
+          },
+          "content": {
+            "open": true
+          }
+        },
+        "1868c413-d39c-4196-84bd-8412790f535b": {
+          "x": 1860,
+          "y": 0,
+          "size": {
+            "width": 560,
+            "height": 420
+          },
+          "content": {
+            "open": true
+          }
+        },
+        "1d88c942-b90b-475c-8159-d6c5feaa7547": {
+          "x": 620,
+          "y": 560,
+          "size": {
+            "width": 340,
+            "height": 220
+          }
+        },
+        "1c3c6baf-50a2-44c5-a654-32840f710cdb": {
+          "x": 1020,
+          "y": 560,
+          "size": {
+            "width": 340,
+            "height": 220
+          }
+        },
+        "3e1e55e0-d0a4-4ad6-b7d4-dbcc281dca76": {
+          "x": 1420,
+          "y": 560,
+          "size": {
+            "width": 340,
+            "height": 220
+          }
+        },
+        "40fdd0f4-80f4-4e10-9d64-81d5ff85337d": {
+          "x": 1820,
+          "y": 560,
+          "size": {
+            "width": 340,
+            "height": 220
+          }
+        },
+        "653494dc-d10e-4771-8379-074bc52a288d": {
+          "x": 620,
+          "y": 900
+        },
+        "86cd4b14-51c7-4e16-9356-a29fef46ac68": {
+          "x": 960,
+          "y": 900
+        },
+        "92897d88-1ddc-4c41-96a6-9297312a5033": {
+          "x": 1300,
+          "y": 900
+        },
+        "eaa53753-7b30-4a74-85ed-6b4de0e22078": {
+          "x": 0,
+          "y": 360
+        },
+        "867997c1-85cc-417e-b3aa-5fce5197def3": {
+          "x": 0,
+          "y": 620
+        }
+      },
+      "graphs": [
+        {
+          "id": "e2f4b607-1ef2-4069-a7b5-7ffd15ddab5c",
+          "title": "Tour",
+          "color": "#4e79a7",
+          "headShape": "arrow",
+          "edges": [
+            {
+              "from": "ab0e54c1-1928-4efd-8949-8ad459958aa8",
+              "to": "f6dc29f9-d784-46b3-bc8b-348c2a724d6c"
+            },
+            {
+              "from": "f6dc29f9-d784-46b3-bc8b-348c2a724d6c",
+              "to": "e6f19fe1-d5bf-4431-adae-1d46597d150d"
+            },
+            {
+              "from": "e6f19fe1-d5bf-4431-adae-1d46597d150d",
+              "to": "1868c413-d39c-4196-84bd-8412790f535b"
+            },
+            {
+              "from": "1868c413-d39c-4196-84bd-8412790f535b",
+              "to": "1d88c942-b90b-475c-8159-d6c5feaa7547"
+            },
+            {
+              "from": "1d88c942-b90b-475c-8159-d6c5feaa7547",
+              "to": "1c3c6baf-50a2-44c5-a654-32840f710cdb"
+            },
+            {
+              "from": "1c3c6baf-50a2-44c5-a654-32840f710cdb",
+              "to": "3e1e55e0-d0a4-4ad6-b7d4-dbcc281dca76"
+            },
+            {
+              "from": "3e1e55e0-d0a4-4ad6-b7d4-dbcc281dca76",
+              "to": "40fdd0f4-80f4-4e10-9d64-81d5ff85337d"
+            },
+            {
+              "from": "40fdd0f4-80f4-4e10-9d64-81d5ff85337d",
+              "to": "653494dc-d10e-4771-8379-074bc52a288d"
+            },
+            {
+              "from": "653494dc-d10e-4771-8379-074bc52a288d",
+              "to": "86cd4b14-51c7-4e16-9356-a29fef46ac68"
+            },
+            {
+              "from": "86cd4b14-51c7-4e16-9356-a29fef46ac68",
+              "to": "92897d88-1ddc-4c41-96a6-9297312a5033"
+            }
+          ]
+        },
+        {
+          "id": "b7ed2b30-c1c1-4104-b5bb-c0d44250ebda",
+          "title": "Provenance",
+          "color": "#9c9c9c",
+          "headShape": "dot",
+          "edges": [
+            {
+              "from": "eaa53753-7b30-4a74-85ed-6b4de0e22078",
+              "to": "ab0e54c1-1928-4efd-8949-8ad459958aa8",
+              "title": "asks"
+            },
+            {
+              "from": "eaa53753-7b30-4a74-85ed-6b4de0e22078",
+              "to": "867997c1-85cc-417e-b3aa-5fce5197def3",
+              "title": "quotes"
+            }
+          ]
+        }
+      ],
+      "activeGraph": "e2f4b607-1ef2-4069-a7b5-7ffd15ddab5c"
+    },
+    {
+      "id": "170831df-34fa-48e9-8f59-9ecf491b3b83",
+      "title": "Reading plan",
+      "kind": "positioned",
+      "positions": {
+        "8caa7142-6c20-4a6c-94c6-174fac367b74": {
+          "x": 0,
+          "y": 0,
+          "size": {
+            "width": 560,
+            "height": 420
+          },
+          "content": {
+            "open": true
+          }
+        },
+        "619c31df-433b-4a04-9337-fba50c704e2d": {
+          "x": 680,
+          "y": 0,
+          "size": {
+            "width": 320,
+            "height": 220
+          }
+        },
+        "c6513611-b29d-4a9d-b50a-8d66e3d22477": {
+          "x": 1060,
+          "y": 0,
+          "size": {
+            "width": 320,
+            "height": 220
+          }
+        },
+        "ea83ad54-ec48-4f8e-90bc-a2f7512ea65d": {
+          "x": 1440,
+          "y": 0,
+          "size": {
+            "width": 320,
+            "height": 220
+          }
+        },
+        "ec65d6d3-51b5-405d-ad3f-0c000500cc37": {
+          "x": 1820,
+          "y": 0,
+          "size": {
+            "width": 320,
+            "height": 220
+          }
+        },
+        "eeac9708-c673-4c45-ab60-4b525224c6e5": {
+          "x": 680,
+          "y": 280,
+          "size": {
+            "width": 320,
+            "height": 220
+          }
+        },
+        "167755b9-991f-4714-a408-c7f8a9712a39": {
+          "x": 1060,
+          "y": 280,
+          "size": {
+            "width": 320,
+            "height": 220
+          }
+        },
+        "d603b328-5900-4d5a-b396-85e987ec3bab": {
+          "x": 1440,
+          "y": 280,
+          "size": {
+            "width": 320,
+            "height": 220
+          }
+        },
+        "86e1b000-d0ff-4878-9793-b7df66c2d54c": {
+          "x": 1820,
+          "y": 280,
+          "size": {
+            "width": 320,
+            "height": 220
+          }
+        },
+        "a9eb7826-0633-4d2e-86cc-9a5da7888b15": {
+          "x": 680,
+          "y": 560,
+          "size": {
+            "width": 320,
+            "height": 220
+          }
+        },
+        "f46d40ef-82eb-4c86-84b2-13df9e8c938f": {
+          "x": 1060,
+          "y": 560,
+          "size": {
+            "width": 320,
+            "height": 220
+          }
+        }
+      },
+      "graphs": [
+        {
+          "id": "5245bbf2-8d13-4b8e-931a-7cf9b3ee2768",
+          "title": "Read next",
+          "color": "#f28e2b",
+          "headShape": "arrow",
+          "edges": [
+            {
+              "from": "8caa7142-6c20-4a6c-94c6-174fac367b74",
+              "to": "619c31df-433b-4a04-9337-fba50c704e2d"
+            },
+            {
+              "from": "619c31df-433b-4a04-9337-fba50c704e2d",
+              "to": "c6513611-b29d-4a9d-b50a-8d66e3d22477"
+            },
+            {
+              "from": "c6513611-b29d-4a9d-b50a-8d66e3d22477",
+              "to": "ea83ad54-ec48-4f8e-90bc-a2f7512ea65d"
+            },
+            {
+              "from": "ea83ad54-ec48-4f8e-90bc-a2f7512ea65d",
+              "to": "ec65d6d3-51b5-405d-ad3f-0c000500cc37"
+            },
+            {
+              "from": "ec65d6d3-51b5-405d-ad3f-0c000500cc37",
+              "to": "eeac9708-c673-4c45-ab60-4b525224c6e5"
+            },
+            {
+              "from": "eeac9708-c673-4c45-ab60-4b525224c6e5",
+              "to": "167755b9-991f-4714-a408-c7f8a9712a39"
+            },
+            {
+              "from": "167755b9-991f-4714-a408-c7f8a9712a39",
+              "to": "d603b328-5900-4d5a-b396-85e987ec3bab"
+            },
+            {
+              "from": "d603b328-5900-4d5a-b396-85e987ec3bab",
+              "to": "86e1b000-d0ff-4878-9793-b7df66c2d54c"
+            },
+            {
+              "from": "86e1b000-d0ff-4878-9793-b7df66c2d54c",
+              "to": "a9eb7826-0633-4d2e-86cc-9a5da7888b15"
+            },
+            {
+              "from": "a9eb7826-0633-4d2e-86cc-9a5da7888b15",
+              "to": "f46d40ef-82eb-4c86-84b2-13df9e8c938f"
+            }
+          ]
+        }
+      ],
+      "activeGraph": "5245bbf2-8d13-4b8e-931a-7cf9b3ee2768"
+    }
+  ],
+  "defaultMap": "8c9ec6bb-b62a-4b47-8e13-c23e4bbe2004"
+}

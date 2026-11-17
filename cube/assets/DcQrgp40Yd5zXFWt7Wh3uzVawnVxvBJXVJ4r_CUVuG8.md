@@ -1,0 +1,8 @@
+- "It presupposes, in short, the existence of a complete ethical code in which all the different human values are allotted their due place." (p. 98)
+- "It is this recognition of the individual as the ultimate judge of his ends, the belief that as far as possible his own views ought to govern his actions, that forms the essence of the individualist position." (p. 99)
+- "The effect of the people’s agreeing that there must be central planning, without agreeing on the ends, will be rather as if a group of people were to commit themselves to take a journey together without agreeing where they want to go: with the result that they may all have to make a journey which most of them do not want at all." (p. 101)
+- "Every member of the legislative assembly might prefer some particular plan for the direction of economic activity to no plan, yet no one plan may appear preferable to a majority to no plan at all." (p. 102)
+- "It is the price of democracy that the possibilities of conscious control are restricted to the fields where true agreement exists and that in some fields things must be left to chance." (p. 105)
+- "If “capitalism” means here a competitive system based on free disposal over private property, it is far more important to realize that only within this system is democracy possible." (p. 105)
+- "Democracy is essentially a means, a utilitarian device for safeguarding internal peace and individual freedom." (p. 106)
+- "it is not the source but the limitation of power which prevents it from being arbitrary." (p. 106)

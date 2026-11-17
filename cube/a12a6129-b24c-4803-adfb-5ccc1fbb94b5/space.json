@@ -1,0 +1,93 @@
+{
+  "version": 1,
+  "id": "a12a6129-b24c-4803-adfb-5ccc1fbb94b5",
+  "title": "Serfdom fm03 · Introduction (Hayek)",
+  "maps": [
+    {
+      "id": "2909b33a-65cd-4932-9315-8c26674478eb",
+      "title": "Note",
+      "kind": "positioned",
+      "positions": {
+        "042c15cd-21f6-4c85-a3ae-7504515d5248": {
+          "x": 0,
+          "y": 0,
+          "size": {
+            "width": 560,
+            "height": 420
+          },
+          "content": {
+            "open": true
+          }
+        },
+        "d4a016ed-c6af-4e39-854f-eb0f6662b5c0": {
+          "x": 640,
+          "y": 0
+        },
+        "1734f8b7-7cc1-4e0c-93f7-1f057a7ed4c3": {
+          "x": 980,
+          "y": 0
+        },
+        "bd380e7b-f44b-47dc-af31-2c5064bfea9a": {
+          "x": 1320,
+          "y": 0
+        },
+        "8581308f-66aa-4f69-9284-e0fdca8d3534": {
+          "x": 640,
+          "y": 220
+        },
+        "bd296174-03a8-4462-b1c2-6505a0a60adb": {
+          "x": 980,
+          "y": 220
+        },
+        "75e8f0ea-0846-4273-9309-c50505ddcf2b": {
+          "x": 1320,
+          "y": 220
+        },
+        "1a6bd446-4c0c-4b7e-a564-7a12d354d30e": {
+          "x": 640,
+          "y": 440
+        }
+      },
+      "graphs": [
+        {
+          "id": "d8f1a461-6934-423e-841b-6c6ab5f06b20",
+          "title": "Analysis",
+          "color": "#4e79a7",
+          "headShape": "arrow",
+          "edges": [
+            {
+              "from": "042c15cd-21f6-4c85-a3ae-7504515d5248",
+              "to": "d4a016ed-c6af-4e39-854f-eb0f6662b5c0"
+            },
+            {
+              "from": "d4a016ed-c6af-4e39-854f-eb0f6662b5c0",
+              "to": "1734f8b7-7cc1-4e0c-93f7-1f057a7ed4c3"
+            },
+            {
+              "from": "1734f8b7-7cc1-4e0c-93f7-1f057a7ed4c3",
+              "to": "bd380e7b-f44b-47dc-af31-2c5064bfea9a"
+            },
+            {
+              "from": "042c15cd-21f6-4c85-a3ae-7504515d5248",
+              "to": "8581308f-66aa-4f69-9284-e0fdca8d3534"
+            },
+            {
+              "from": "bd380e7b-f44b-47dc-af31-2c5064bfea9a",
+              "to": "bd296174-03a8-4462-b1c2-6505a0a60adb"
+            },
+            {
+              "from": "d4a016ed-c6af-4e39-854f-eb0f6662b5c0",
+              "to": "75e8f0ea-0846-4273-9309-c50505ddcf2b"
+            },
+            {
+              "from": "75e8f0ea-0846-4273-9309-c50505ddcf2b",
+              "to": "1a6bd446-4c0c-4b7e-a564-7a12d354d30e"
+            }
+          ]
+        }
+      ],
+      "activeGraph": "d8f1a461-6934-423e-841b-6c6ab5f06b20"
+    }
+  ],
+  "defaultMap": "2909b33a-65cd-4932-9315-8c26674478eb"
+}

@@ -1,0 +1,8 @@
+- Does the main text warrant Knight's summary (p. 241)? Test his two-part statement against the chapters on planning and democracy and on why the worst get on top.
+- Is Knight right that the book neglects the real shortcomings of the pre-1914 free economy (p. 242)? Check what the main chapters concede about monopoly, unemployment and security.
+- Where, if anywhere, does the book give the demarcation Marschak asks for between good planning and planning proper (p. 243)?
+- Does the mixed-economy record Friedman describes (pp. 250-252) confirm, refute or simply fall outside the thesis? Decide what the thesis predicts for a state taking 45 percent of income without central planning.
+- Which of Friedman's two checks (liberal tradition, inefficiency) does Hayek's own argument allow for, given his 1956 denial that tradition is a safeguard (fm02, p. 46)?
+- How much of the 1933 memo's account of Nazi economic intentions survived the regime's actual practice, given Caldwell's notes 2 and 6 (pp. 254-255)? Compare with how the main historical chapters handle the same material.
+- What exactly was changed for the American edition (p. 246)? The definitive edition's apparatus elsewhere may record variants.
+- Is the 600,000 figure for the condensation reliable? Scoon (p. 247) and Friedman (p. 254) both give it; Caldwell flags further discussion in his introduction (p. 256).

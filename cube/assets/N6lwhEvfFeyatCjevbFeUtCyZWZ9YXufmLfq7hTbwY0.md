@@ -1,0 +1,8 @@
+- Hayek: "The purpose of this book has not been to sketch a detailed program of a desirable future order of society." (p. 234)
+- Hayek: "It is at least doubtful whether at this stage a detailed blueprint of a desirable internal order of society would be of much use—or whether anyone is competent to furnish it." (p. 235)
+- Hayek: "The important thing now is that we shall come to agree on certain principles and free ourselves from some of the errors which have governed us in the recent past." (p. 235)
+- Hayek: "The first need is to free ourselves of that worst form of contemporary obscurantism which tries to persuade us that what we have done in the recent past was all either wise or inevitable." (p. 235)
+- Hayek: "It is not those who believe in inevitable tendencies who show this courage" (p. 235)
+- Hayek: "Though we neither can wish nor possess the power to go back to the reality of the nineteenth century, we have the opportunity to realize its ideals—and they were not mean." (p. 235)
+- Hayek: "The guiding principle that a policy of freedom for the individual is the only truly progressive policy remains as true today as it was in the nineteenth century." (p. 236)
+- Hayek, Bibliographical Note: "The earliest and still the most important of these works is that by von Mises, originally published in 1922." (p. 236)

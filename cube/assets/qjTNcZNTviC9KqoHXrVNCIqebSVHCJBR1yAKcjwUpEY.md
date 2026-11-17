@@ -1,0 +1,5 @@
+- How sensitive are the r > g projections in ch10 to the UN central population scenario, given the wide range between low and high scenarios (endnote 7, p. 440)?
+- Is the 1.5% frontier cap (p. 70) robust if one uses per hour growth, given that hours per head fell by about half over the long run (endnote 11, p. 441)? Productivity growth has been roughly twice per capita growth.
+- What evidence would distinguish the claim that catch-up would have happened regardless of policy (p. 74) from the alternative that post-war institutions sped catch-up?
+- If long-run price indices are partly arbitrary (p. 76), how much uncertainty does that add to historical real returns r, and thus to the size of r − g?
+- The "nearly 100,000" multiplier (p. 58) is understated by about eight times; does the online appendix use the correct figure, and are there other arithmetic slips in the long-run tables?

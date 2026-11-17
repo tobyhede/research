@@ -1,0 +1,101 @@
+{
+  "version": 1,
+  "id": "30974c72-0369-4599-9069-047974d9b3cc",
+  "title": "Capital ch14 · Rethinking the Progressive Income Tax",
+  "maps": [
+    {
+      "id": "e691a83b-3c9a-44d5-9249-9ee70a3df298",
+      "title": "Note",
+      "kind": "positioned",
+      "positions": {
+        "702c10fa-f793-43a5-8257-8edb6a61e23c": {
+          "x": 0,
+          "y": 0,
+          "size": {
+            "width": 560,
+            "height": 420
+          },
+          "content": {
+            "open": true
+          }
+        },
+        "e50e67b1-ce52-4213-8eab-30b2e08e6a19": {
+          "x": 640,
+          "y": 0
+        },
+        "3b44ed81-0583-4714-b1e3-de490a170cd0": {
+          "x": 980,
+          "y": 0
+        },
+        "a2a40c60-e59f-4bbb-ae7f-59c6170eda36": {
+          "x": 1320,
+          "y": 0
+        },
+        "0d41dee9-3046-49ce-baf5-b105fcfc6035": {
+          "x": 640,
+          "y": 220
+        },
+        "84d5e20e-2afd-451d-88a6-cd32dcff1fc6": {
+          "x": 980,
+          "y": 220
+        },
+        "cbcfa1dd-4dd4-448a-b08f-ae4a3ff98c63": {
+          "x": 1320,
+          "y": 220
+        },
+        "0fca5322-d624-4a7a-a658-c6951f7aa386": {
+          "x": 640,
+          "y": 440
+        },
+        "5bdc642a-fed6-4709-b54a-9e93c3a99215": {
+          "x": 980,
+          "y": 440
+        }
+      },
+      "graphs": [
+        {
+          "id": "540a808f-f0a1-4e0c-a69a-ca20b430d7e8",
+          "title": "Analysis",
+          "color": "#4e79a7",
+          "headShape": "arrow",
+          "edges": [
+            {
+              "from": "702c10fa-f793-43a5-8257-8edb6a61e23c",
+              "to": "e50e67b1-ce52-4213-8eab-30b2e08e6a19"
+            },
+            {
+              "from": "e50e67b1-ce52-4213-8eab-30b2e08e6a19",
+              "to": "3b44ed81-0583-4714-b1e3-de490a170cd0"
+            },
+            {
+              "from": "3b44ed81-0583-4714-b1e3-de490a170cd0",
+              "to": "a2a40c60-e59f-4bbb-ae7f-59c6170eda36"
+            },
+            {
+              "from": "3b44ed81-0583-4714-b1e3-de490a170cd0",
+              "to": "0d41dee9-3046-49ce-baf5-b105fcfc6035"
+            },
+            {
+              "from": "702c10fa-f793-43a5-8257-8edb6a61e23c",
+              "to": "84d5e20e-2afd-451d-88a6-cd32dcff1fc6"
+            },
+            {
+              "from": "a2a40c60-e59f-4bbb-ae7f-59c6170eda36",
+              "to": "cbcfa1dd-4dd4-448a-b08f-ae4a3ff98c63"
+            },
+            {
+              "from": "e50e67b1-ce52-4213-8eab-30b2e08e6a19",
+              "to": "0fca5322-d624-4a7a-a658-c6951f7aa386"
+            },
+            {
+              "from": "0fca5322-d624-4a7a-a658-c6951f7aa386",
+              "to": "5bdc642a-fed6-4709-b54a-9e93c3a99215"
+            }
+          ]
+        }
+      ],
+      "activeGraph": "540a808f-f0a1-4e0c-a69a-ca20b430d7e8"
+    }
+  ],
+  "defaultMap": "e691a83b-3c9a-44d5-9249-9ee70a3df298"
+}

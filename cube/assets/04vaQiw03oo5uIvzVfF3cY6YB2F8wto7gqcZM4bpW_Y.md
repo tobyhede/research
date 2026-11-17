@@ -1,0 +1,4 @@
+- **The values argument (ch05).** Directing all economic activity does require ranking ends that people rank differently, and the choice of ends cannot be delegated as a technical matter. This is an argument from the nature of the task and does not depend on the German history. Verdict: sound against comprehensive planning.
+- **The form of state action matters, apart from its size.** The distinction between general announced rules and discretion over particular cases (p. 109) is a real one and usable.
+- **The second-kind security argument.** Protecting particular incomes shifts insecurity onto those outside the protected group (pp. 149-151). The mechanism is clear and stands by itself.
+- **The book is not a case against the state.** The text supports this beyond dispute (p. 85, p. 114, p. 144).

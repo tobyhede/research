@@ -1,0 +1,109 @@
+{
+  "version": 1,
+  "id": "b6e6f726-94b6-4ca9-a4ae-00e19af21b2e",
+  "title": "Capital · Part Three: The Structure of Inequality",
+  "maps": [
+    {
+      "id": "f405a959-f497-4565-b862-be3ef3d27789",
+      "title": "Part Three",
+      "kind": "positioned",
+      "positions": {
+        "c3500096-0b34-4066-8a80-aefcef96b150": {
+          "x": 0,
+          "y": 0,
+          "size": {
+            "width": 360,
+            "height": 180
+          },
+          "content": {
+            "shape": "pill"
+          }
+        },
+        "cf385b16-3635-4185-8cda-8b66a9f6016e": {
+          "x": 440,
+          "y": 0,
+          "size": {
+            "width": 300,
+            "height": 200
+          }
+        },
+        "9a3d3d2a-8714-4b10-9d6a-ca63b0d8b2af": {
+          "x": 780,
+          "y": 0,
+          "size": {
+            "width": 300,
+            "height": 200
+          }
+        },
+        "2fa7551b-d1fa-4232-8bd3-5ccbfaad1d36": {
+          "x": 1120,
+          "y": 0,
+          "size": {
+            "width": 300,
+            "height": 200
+          }
+        },
+        "bb808177-697c-47ae-81e2-bca25ad4ca45": {
+          "x": 1460,
+          "y": 0,
+          "size": {
+            "width": 300,
+            "height": 200
+          }
+        },
+        "16ebb287-f0da-44b1-baaf-0ad4295528f3": {
+          "x": 1800,
+          "y": 0,
+          "size": {
+            "width": 300,
+            "height": 200
+          }
+        },
+        "5e11d066-20f5-4812-bbfe-b0d7e44e05ba": {
+          "x": 2140,
+          "y": 0,
+          "size": {
+            "width": 300,
+            "height": 200
+          }
+        }
+      },
+      "graphs": [
+        {
+          "id": "492a8406-a1ea-46c4-8048-5cdb7da7a0a3",
+          "title": "Chapters",
+          "color": "#59a14f",
+          "headShape": "arrow",
+          "edges": [
+            {
+              "from": "c3500096-0b34-4066-8a80-aefcef96b150",
+              "to": "cf385b16-3635-4185-8cda-8b66a9f6016e"
+            },
+            {
+              "from": "cf385b16-3635-4185-8cda-8b66a9f6016e",
+              "to": "9a3d3d2a-8714-4b10-9d6a-ca63b0d8b2af"
+            },
+            {
+              "from": "9a3d3d2a-8714-4b10-9d6a-ca63b0d8b2af",
+              "to": "2fa7551b-d1fa-4232-8bd3-5ccbfaad1d36"
+            },
+            {
+              "from": "2fa7551b-d1fa-4232-8bd3-5ccbfaad1d36",
+              "to": "bb808177-697c-47ae-81e2-bca25ad4ca45"
+            },
+            {
+              "from": "bb808177-697c-47ae-81e2-bca25ad4ca45",
+              "to": "16ebb287-f0da-44b1-baaf-0ad4295528f3"
+            },
+            {
+              "from": "16ebb287-f0da-44b1-baaf-0ad4295528f3",
+              "to": "5e11d066-20f5-4812-bbfe-b0d7e44e05ba"
+            }
+          ]
+        }
+      ],
+      "activeGraph": "492a8406-a1ea-46c4-8048-5cdb7da7a0a3"
+    }
+  ],
+  "defaultMap": "f405a959-f497-4565-b862-be3ef3d27789"
+}

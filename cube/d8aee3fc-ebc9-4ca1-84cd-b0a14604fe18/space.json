@@ -1,0 +1,101 @@
+{
+  "version": 1,
+  "id": "d8aee3fc-ebc9-4ca1-84cd-b0a14604fe18",
+  "title": "Serfdom ch07 · Economic Control and Totalitarianism",
+  "maps": [
+    {
+      "id": "29e4c6a3-ca3b-48d1-851f-dfb4152ff675",
+      "title": "Note",
+      "kind": "positioned",
+      "positions": {
+        "82f33610-55b6-4d4b-891e-4f1a33acf6c4": {
+          "x": 0,
+          "y": 0,
+          "size": {
+            "width": 560,
+            "height": 420
+          },
+          "content": {
+            "open": true
+          }
+        },
+        "ea1f5f9e-0265-4f8d-8e84-d08ea2c11168": {
+          "x": 640,
+          "y": 0
+        },
+        "b7326481-890b-4d14-a141-93732e757634": {
+          "x": 980,
+          "y": 0
+        },
+        "b1a259a9-e39e-4af5-8c8a-9cf483652f9e": {
+          "x": 1320,
+          "y": 0
+        },
+        "db1f2d1f-5cef-439b-86c6-9ca7e8a523a3": {
+          "x": 640,
+          "y": 220
+        },
+        "26538059-a5d9-42a1-ad05-b00435c42b0c": {
+          "x": 980,
+          "y": 220
+        },
+        "63456acd-5c84-4f65-a177-9bb363cf8b3e": {
+          "x": 1320,
+          "y": 220
+        },
+        "f230b18a-3003-4b1c-b2b8-583e5ba1b671": {
+          "x": 640,
+          "y": 440
+        },
+        "d46a66d0-dfbf-4ba3-878f-808755287ec5": {
+          "x": 980,
+          "y": 440
+        }
+      },
+      "graphs": [
+        {
+          "id": "82d0a1f0-3671-4df6-94f5-f9bbf0bd68e9",
+          "title": "Analysis",
+          "color": "#4e79a7",
+          "headShape": "arrow",
+          "edges": [
+            {
+              "from": "82f33610-55b6-4d4b-891e-4f1a33acf6c4",
+              "to": "ea1f5f9e-0265-4f8d-8e84-d08ea2c11168"
+            },
+            {
+              "from": "ea1f5f9e-0265-4f8d-8e84-d08ea2c11168",
+              "to": "b7326481-890b-4d14-a141-93732e757634"
+            },
+            {
+              "from": "b7326481-890b-4d14-a141-93732e757634",
+              "to": "b1a259a9-e39e-4af5-8c8a-9cf483652f9e"
+            },
+            {
+              "from": "b7326481-890b-4d14-a141-93732e757634",
+              "to": "db1f2d1f-5cef-439b-86c6-9ca7e8a523a3"
+            },
+            {
+              "from": "82f33610-55b6-4d4b-891e-4f1a33acf6c4",
+              "to": "26538059-a5d9-42a1-ad05-b00435c42b0c"
+            },
+            {
+              "from": "b1a259a9-e39e-4af5-8c8a-9cf483652f9e",
+              "to": "63456acd-5c84-4f65-a177-9bb363cf8b3e"
+            },
+            {
+              "from": "ea1f5f9e-0265-4f8d-8e84-d08ea2c11168",
+              "to": "f230b18a-3003-4b1c-b2b8-583e5ba1b671"
+            },
+            {
+              "from": "f230b18a-3003-4b1c-b2b8-583e5ba1b671",
+              "to": "d46a66d0-dfbf-4ba3-878f-808755287ec5"
+            }
+          ]
+        }
+      ],
+      "activeGraph": "82d0a1f0-3671-4df6-94f5-f9bbf0bd68e9"
+    }
+  ],
+  "defaultMap": "29e4c6a3-ca3b-48d1-851f-dfb4152ff675"
+}

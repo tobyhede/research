@@ -1,0 +1,109 @@
+{
+  "version": 1,
+  "id": "667ba913-b291-42bf-b8e5-9594a674dd48",
+  "title": "Serfdom ch15 · The Prospects of International Order",
+  "maps": [
+    {
+      "id": "5a599915-e9d3-4f89-ba71-19737d461fb5",
+      "title": "Note",
+      "kind": "positioned",
+      "positions": {
+        "fc2507ae-68b2-458a-ab8d-7773b0ba2641": {
+          "x": 0,
+          "y": 0,
+          "size": {
+            "width": 560,
+            "height": 420
+          },
+          "content": {
+            "open": true
+          }
+        },
+        "dde91e16-c8e0-4743-a1a4-dbf7642b0cb3": {
+          "x": 640,
+          "y": 0
+        },
+        "7d261107-5fa2-4a35-ae65-f060f2257fa1": {
+          "x": 980,
+          "y": 0
+        },
+        "0556cf53-1ad5-4195-b72d-cbb351c30184": {
+          "x": 1320,
+          "y": 0
+        },
+        "a8d75315-0108-4c5f-9fcf-15774345cf71": {
+          "x": 640,
+          "y": 220
+        },
+        "b0417cd2-f92e-4b68-8e79-41713bf6ef8a": {
+          "x": 980,
+          "y": 220
+        },
+        "05b1cfcb-f521-4588-a77d-cbb74d58fd9c": {
+          "x": 1320,
+          "y": 220
+        },
+        "34bd0aa7-f945-48cb-9c59-08cd892cf0be": {
+          "x": 640,
+          "y": 440
+        },
+        "00e3640b-c5e6-4c40-b82e-405cc7f7dc3f": {
+          "x": 980,
+          "y": 440
+        },
+        "907491b0-eefd-40ab-9e25-168c7397d51a": {
+          "x": 1320,
+          "y": 440
+        }
+      },
+      "graphs": [
+        {
+          "id": "98b1b196-012c-4ae9-b551-1c603f6b5952",
+          "title": "Analysis",
+          "color": "#4e79a7",
+          "headShape": "arrow",
+          "edges": [
+            {
+              "from": "fc2507ae-68b2-458a-ab8d-7773b0ba2641",
+              "to": "dde91e16-c8e0-4743-a1a4-dbf7642b0cb3"
+            },
+            {
+              "from": "dde91e16-c8e0-4743-a1a4-dbf7642b0cb3",
+              "to": "7d261107-5fa2-4a35-ae65-f060f2257fa1"
+            },
+            {
+              "from": "7d261107-5fa2-4a35-ae65-f060f2257fa1",
+              "to": "0556cf53-1ad5-4195-b72d-cbb351c30184"
+            },
+            {
+              "from": "7d261107-5fa2-4a35-ae65-f060f2257fa1",
+              "to": "a8d75315-0108-4c5f-9fcf-15774345cf71"
+            },
+            {
+              "from": "fc2507ae-68b2-458a-ab8d-7773b0ba2641",
+              "to": "b0417cd2-f92e-4b68-8e79-41713bf6ef8a"
+            },
+            {
+              "from": "0556cf53-1ad5-4195-b72d-cbb351c30184",
+              "to": "05b1cfcb-f521-4588-a77d-cbb74d58fd9c"
+            },
+            {
+              "from": "dde91e16-c8e0-4743-a1a4-dbf7642b0cb3",
+              "to": "34bd0aa7-f945-48cb-9c59-08cd892cf0be"
+            },
+            {
+              "from": "34bd0aa7-f945-48cb-9c59-08cd892cf0be",
+              "to": "00e3640b-c5e6-4c40-b82e-405cc7f7dc3f"
+            },
+            {
+              "from": "fc2507ae-68b2-458a-ab8d-7773b0ba2641",
+              "to": "907491b0-eefd-40ab-9e25-168c7397d51a"
+            }
+          ]
+        }
+      ],
+      "activeGraph": "98b1b196-012c-4ae9-b551-1c603f6b5952"
+    }
+  ],
+  "defaultMap": "5a599915-e9d3-4f89-ba71-19737d461fb5"
+}

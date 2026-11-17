@@ -1,0 +1,8 @@
+- "In fact, the budgetary and political shocks of two wars proved far more destructive to capital than combat itself." (p. 106)
+- "Ultimately, the decline in the capital/income ratio between 1913 and 1950 is the history of Europe’s suicide, and in particular of the euthanasia of European capitalists." (p. 107)
+- "how else could one possibly add up hectares of farmland, square meters of real estate, and blast furnaces?" (p. 107)
+- "the stakeholder model inevitably implies a lower market valuation but not necessarily a lower social valuation." (p. 105)
+- "In other words, the price effect more than counterbalanced the volume effect" (p. 108)
+- "Africa, Asia, and Latin America, while the United States owned itself." (p. 112), completing the sentence that begins on p. 111 with Europe in 1913 owning a large part of the rest of the world.
+- "In the South we find a world where inequalities of ownership took the most extreme and violent form possible, since one half of the population owned the other half" (p. 115)
+- "Attributing a monetary value to the stock of human capital makes sense only in societies where it is actually possible to own other individuals fully and entirely" (p. 117)

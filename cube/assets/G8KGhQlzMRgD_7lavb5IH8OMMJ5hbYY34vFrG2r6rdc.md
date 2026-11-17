@@ -1,0 +1,18 @@
+- Most planners accept that a directed economy must be run on more or less dictatorial lines, and offer the consolation that this will apply only to economic matters (p. 121).
+- That consolation rests on the false belief that there are purely economic ends separate from the other ends of life (p. 121).
+- Money is an instrument of freedom; replacing money rewards with rewards in kind (distinctions, privileges, housing, travel) means whoever fixes the reward also fixes the form in which it is enjoyed (p. 122).
+- Economic matters seem unimportant only because, and only where, we are free to let economic losses fall on our least important wants (pp. 122-123).
+- To be controlled in economic pursuits is to be controlled in everything, since any purpose would have to be declared and approved (p. 123).
+- Whoever has sole control of the means must determine which ends are served, "in short, what men should believe and strive for" (p. 123).
+- The planner's power over private life does not depend on rationing; it comes from control of production, and would be nearly as complete if consumers were nominally free to spend (p. 124).
+- An authority directing the whole economy would be the most powerful monopolist conceivable, able to discriminate between persons to any degree (p. 124).
+- In a competitive society obstacles come from others wanting the same means, not from anyone's disapproval of our ends; in a directed economy the authority would certainly favour some ends and block others (p. 124).
+- Control over us as producers matters even more than as consumers; some freedom to choose work is probably more important than freedom to spend (pp. 124-125).
+- Planning must control entry to occupations or terms of remuneration or both, so "free choice of occupation" under planning is fictitious (pp. 125-126).
+- Fixing remuneration by category excludes people as effectively as direct exclusion and removes the ability of atypical people to make special arrangements (p. 126).
+- Under planning the individual becomes more than ever a mere means to abstractions such as "social welfare" (p. 126).
+- The alternative to things being available at a price is not free choice but orders, prohibitions, and "the favor of the mighty" (p. 126).
+- The claim of potential plenty is false; the productivity claim for planning is being abandoned by serious students; the only serious argument left for planning is distributive (pp. 127-128).
+- Securing a predetermined distribution requires planning the whole economic system (p. 128).
+- Central planning today would not be a return to pre-liberal regulation; because of the division of labour it would require direction of a far greater part of life than ever before (p. 128).
+- Political freedom is meaningless without economic freedom, but in the sense of freedom of economic activity, not freedom from economic care (p. 129).

@@ -1,0 +1,181 @@
+{
+  "version": 1,
+  "id": "44df4661-fdfb-4232-b431-3b4c451e047c",
+  "title": "Capital · Critique",
+  "maps": [
+    {
+      "id": "55ff76c9-e205-4ffe-a9fb-d451334cf439",
+      "title": "Is it true?",
+      "kind": "positioned",
+      "positions": {
+        "e7cbc420-de3d-4bc4-99aa-2322f4fc0a24": {
+          "x": 0,
+          "y": 0,
+          "size": {
+            "width": 360,
+            "height": 180
+          },
+          "content": {
+            "shape": "diamond"
+          }
+        },
+        "0827e89f-f776-47fc-a732-ed153b80671f": {
+          "x": 480,
+          "y": 0,
+          "size": {
+            "width": 560,
+            "height": 420
+          },
+          "content": {
+            "open": true
+          }
+        },
+        "04329bdc-1242-4e0a-9ab3-0ba98f4186d4": {
+          "x": 1100,
+          "y": 0,
+          "size": {
+            "width": 560,
+            "height": 420
+          },
+          "content": {
+            "open": true
+          }
+        },
+        "7767a973-c5a2-4f74-b9ce-66e26d42b886": {
+          "x": 1720,
+          "y": 0,
+          "size": {
+            "width": 560,
+            "height": 420
+          },
+          "content": {
+            "open": true
+          }
+        },
+        "09d380cb-eaf5-4e10-ab5c-7aa04bf734c0": {
+          "x": 480,
+          "y": 480,
+          "size": {
+            "width": 560,
+            "height": 420
+          },
+          "content": {
+            "open": true
+          }
+        },
+        "9495224e-4ee3-4fb4-b9c4-1285b889a1e1": {
+          "x": 1100,
+          "y": 480,
+          "size": {
+            "width": 560,
+            "height": 420
+          },
+          "content": {
+            "open": true
+          }
+        },
+        "99b73105-07ac-4b32-ab31-2978a013187f": {
+          "x": 1720,
+          "y": 480,
+          "size": {
+            "width": 560,
+            "height": 420
+          },
+          "content": {
+            "open": true
+          }
+        },
+        "c8b10570-f2eb-4181-ba4f-9dfeb0924066": {
+          "x": 0,
+          "y": 320
+        }
+      },
+      "graphs": [
+        {
+          "id": "500afe91-0794-41ab-ad21-5d4cd2ae69a3",
+          "title": "Verdict",
+          "color": "#e15759",
+          "headShape": "arrow",
+          "edges": [
+            {
+              "from": "e7cbc420-de3d-4bc4-99aa-2322f4fc0a24",
+              "to": "0827e89f-f776-47fc-a732-ed153b80671f"
+            },
+            {
+              "from": "e7cbc420-de3d-4bc4-99aa-2322f4fc0a24",
+              "to": "04329bdc-1242-4e0a-9ab3-0ba98f4186d4"
+            },
+            {
+              "from": "e7cbc420-de3d-4bc4-99aa-2322f4fc0a24",
+              "to": "7767a973-c5a2-4f74-b9ce-66e26d42b886"
+            },
+            {
+              "from": "e7cbc420-de3d-4bc4-99aa-2322f4fc0a24",
+              "to": "09d380cb-eaf5-4e10-ab5c-7aa04bf734c0"
+            },
+            {
+              "from": "e7cbc420-de3d-4bc4-99aa-2322f4fc0a24",
+              "to": "9495224e-4ee3-4fb4-b9c4-1285b889a1e1"
+            },
+            {
+              "from": "e7cbc420-de3d-4bc4-99aa-2322f4fc0a24",
+              "to": "99b73105-07ac-4b32-ab31-2978a013187f"
+            },
+            {
+              "from": "e7cbc420-de3d-4bc4-99aa-2322f4fc0a24",
+              "to": "c8b10570-f2eb-4181-ba4f-9dfeb0924066",
+              "title": "checked by"
+            }
+          ]
+        }
+      ],
+      "activeGraph": "500afe91-0794-41ab-ad21-5d4cd2ae69a3"
+    },
+    {
+      "id": "1c40fe3e-1c11-428d-9447-6a02abe5409c",
+      "title": "What of it?",
+      "kind": "positioned",
+      "positions": {
+        "e488351f-0483-473b-a804-59b9af35b9b0": {
+          "x": 0,
+          "y": 0,
+          "size": {
+            "width": 560,
+            "height": 420
+          },
+          "content": {
+            "open": true
+          }
+        },
+        "eb374ed6-a928-465e-a5d4-93cab564aa25": {
+          "x": 660,
+          "y": 0,
+          "size": {
+            "width": 560,
+            "height": 420
+          },
+          "content": {
+            "open": true
+          }
+        }
+      },
+      "graphs": [
+        {
+          "id": "b7204588-08ce-4efb-a856-a0dcc6605c7a",
+          "title": "So what",
+          "color": "#59a14f",
+          "headShape": "arrow",
+          "edges": [
+            {
+              "from": "e488351f-0483-473b-a804-59b9af35b9b0",
+              "to": "eb374ed6-a928-465e-a5d4-93cab564aa25",
+              "title": "try it"
+            }
+          ]
+        }
+      ],
+      "activeGraph": "b7204588-08ce-4efb-a856-a0dcc6605c7a"
+    }
+  ],
+  "defaultMap": "55ff76c9-e205-4ffe-a9fb-d451334cf439"
+}

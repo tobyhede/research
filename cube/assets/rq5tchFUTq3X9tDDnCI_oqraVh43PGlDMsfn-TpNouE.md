@@ -1,0 +1,4 @@
+- **Problem:** does capitalism, left to itself, make wealth steadily more concentrated (Marx), or does growth gradually reduce inequality (Kuznets)?
+- **Thesis:** when the return on capital (r) stays above the growth rate (g), inherited wealth grows faster than output and wages, and wealth concentrates. That was the normal state of affairs before 1914. The equal mid-twentieth century was an exception, produced by war and policy. Slow growth is now bringing the old pattern back. The remedy Piketty proposes is a progressive global tax on capital.
+- **Who benefits:** anyone arguing about inequality, taxation or wealth, who needs the data and the accounting behind the slogans.
+- **Worth reading?** Selectively. About half the book carries the argument. The rest is supporting data series, literary illustration and policy detail.

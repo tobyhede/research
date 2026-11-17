@@ -1,0 +1,93 @@
+{
+  "version": 1,
+  "id": "e0004038-918d-4aac-8688-441e78e1865a",
+  "title": "Capital ch08 · Two Worlds",
+  "maps": [
+    {
+      "id": "9f12c423-79f8-4572-bfda-1ea443e0c35b",
+      "title": "Note",
+      "kind": "positioned",
+      "positions": {
+        "172ef1b8-7b84-4c15-90f7-7d31da7456b6": {
+          "x": 0,
+          "y": 0,
+          "size": {
+            "width": 560,
+            "height": 420
+          },
+          "content": {
+            "open": true
+          }
+        },
+        "502e3cce-2851-4807-960d-92ee15a10d56": {
+          "x": 640,
+          "y": 0
+        },
+        "cd56ccf2-0392-4992-a9d0-a0117cdb22db": {
+          "x": 980,
+          "y": 0
+        },
+        "64aa5bb8-bcfc-4a6e-90d0-847a7c9861fe": {
+          "x": 1320,
+          "y": 0
+        },
+        "e72b8111-c3c7-4183-a62e-112c4f35cd48": {
+          "x": 640,
+          "y": 220
+        },
+        "4309831a-3486-4a9e-9625-3e26a44121bb": {
+          "x": 980,
+          "y": 220
+        },
+        "6c5d5f46-cb8e-4f0e-968b-b654fb730ba2": {
+          "x": 1320,
+          "y": 220
+        },
+        "9eec5f3a-e6fd-4b34-bbe0-335b09eb4e6b": {
+          "x": 640,
+          "y": 440
+        }
+      },
+      "graphs": [
+        {
+          "id": "ff5f577d-b61f-4968-af8b-508b6bd7495b",
+          "title": "Analysis",
+          "color": "#4e79a7",
+          "headShape": "arrow",
+          "edges": [
+            {
+              "from": "172ef1b8-7b84-4c15-90f7-7d31da7456b6",
+              "to": "502e3cce-2851-4807-960d-92ee15a10d56"
+            },
+            {
+              "from": "502e3cce-2851-4807-960d-92ee15a10d56",
+              "to": "cd56ccf2-0392-4992-a9d0-a0117cdb22db"
+            },
+            {
+              "from": "cd56ccf2-0392-4992-a9d0-a0117cdb22db",
+              "to": "64aa5bb8-bcfc-4a6e-90d0-847a7c9861fe"
+            },
+            {
+              "from": "172ef1b8-7b84-4c15-90f7-7d31da7456b6",
+              "to": "e72b8111-c3c7-4183-a62e-112c4f35cd48"
+            },
+            {
+              "from": "64aa5bb8-bcfc-4a6e-90d0-847a7c9861fe",
+              "to": "4309831a-3486-4a9e-9625-3e26a44121bb"
+            },
+            {
+              "from": "502e3cce-2851-4807-960d-92ee15a10d56",
+              "to": "6c5d5f46-cb8e-4f0e-968b-b654fb730ba2"
+            },
+            {
+              "from": "6c5d5f46-cb8e-4f0e-968b-b654fb730ba2",
+              "to": "9eec5f3a-e6fd-4b34-bbe0-335b09eb4e6b"
+            }
+          ]
+        }
+      ],
+      "activeGraph": "ff5f577d-b61f-4968-af8b-508b6bd7495b"
+    }
+  ],
+  "defaultMap": "9f12c423-79f8-4572-bfda-1ea443e0c35b"
+}

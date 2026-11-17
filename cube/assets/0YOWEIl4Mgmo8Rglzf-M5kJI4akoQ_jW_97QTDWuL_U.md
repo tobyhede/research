@@ -1,0 +1,9 @@
+- Does Hayek's text contain a tendency or dynamic claim (each step of planning creating pressure for the next) that is weaker than inevitability but stronger than Caldwell's "logical argument"? Chapters 5, 7 and 9 are the places to check prompted by the memo (p. 8) and the inevitability section (pp. 24-25).
+- Is Hayek's target in the book full central planning only, or also piecemeal planning and the redistributive state? Does he himself distinguish the welfare state from socialism in 1944, or is that a later distinction that Caldwell reads back (p. 26)?
+- How specific is Hayek about the line between acceptable and unacceptable state action in chapters 3, 6 and 9? Is the Keynes/Hansen objection (p. 20) fair to the 1944 text?
+- How much of the German history in chapter 12 survives Knight's objection (p. 19)? Does Hayek claim socialism was the cause, or one cause, of Naziism?
+- What exactly did the 1976 preface retract from the 1944 position on intervention (p. 28)?
+- Does the full text support Caldwell's claim that most elements were in place by 1939 (p. 10)? What is new in the book relative to the 1939 pamphlet (for instance chapters 10 and 11)?
+- Caldwell's "count them up" test (p. 26): is there any counter-case, and does Hayek himself propose an empirical test anywhere?
+- The 20 per cent nationalization figure (p. 26) is unsourced in this unit; verify before relying on it.
+- Footnote 105 (p. 37): is the similarity to Arrow's Impossibility Theorem real? Compare with the chapter 5 argument on the absence of an agreed scale of ends.

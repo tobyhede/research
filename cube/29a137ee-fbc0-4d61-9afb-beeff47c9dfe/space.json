@@ -1,0 +1,93 @@
+{
+  "version": 1,
+  "id": "29a137ee-fbc0-4d61-9afb-beeff47c9dfe",
+  "title": "Serfdom fm01 · Editorial Foreword and Editor's Introduction (Caldwell)",
+  "maps": [
+    {
+      "id": "3990c2cf-4a54-4b8f-8914-b1ea7624c685",
+      "title": "Note",
+      "kind": "positioned",
+      "positions": {
+        "bdc1bb35-132c-4ea9-af42-26c1c85fc14e": {
+          "x": 0,
+          "y": 0,
+          "size": {
+            "width": 560,
+            "height": 420
+          },
+          "content": {
+            "open": true
+          }
+        },
+        "91d458f1-a1dd-4045-b5ce-8e336e76d674": {
+          "x": 640,
+          "y": 0
+        },
+        "2013e440-8a9f-4273-9ff5-f9673a25d71e": {
+          "x": 980,
+          "y": 0
+        },
+        "ea86c69c-21d2-40ed-ac24-0dc8d075eddd": {
+          "x": 1320,
+          "y": 0
+        },
+        "842ab539-afbc-4e0d-9c0c-618115f6d4e5": {
+          "x": 640,
+          "y": 220
+        },
+        "d0e6b56e-cd4b-40e2-8ab3-bcbf5e663b2e": {
+          "x": 980,
+          "y": 220
+        },
+        "6d51bdb0-f5c2-4037-a4a9-c328feff630e": {
+          "x": 1320,
+          "y": 220
+        },
+        "63d62e6d-06f5-4221-8ef1-0d6c044d4475": {
+          "x": 640,
+          "y": 440
+        }
+      },
+      "graphs": [
+        {
+          "id": "4b1b5a4b-2021-4c52-a337-6745da47ba8c",
+          "title": "Analysis",
+          "color": "#4e79a7",
+          "headShape": "arrow",
+          "edges": [
+            {
+              "from": "bdc1bb35-132c-4ea9-af42-26c1c85fc14e",
+              "to": "91d458f1-a1dd-4045-b5ce-8e336e76d674"
+            },
+            {
+              "from": "91d458f1-a1dd-4045-b5ce-8e336e76d674",
+              "to": "2013e440-8a9f-4273-9ff5-f9673a25d71e"
+            },
+            {
+              "from": "2013e440-8a9f-4273-9ff5-f9673a25d71e",
+              "to": "ea86c69c-21d2-40ed-ac24-0dc8d075eddd"
+            },
+            {
+              "from": "bdc1bb35-132c-4ea9-af42-26c1c85fc14e",
+              "to": "842ab539-afbc-4e0d-9c0c-618115f6d4e5"
+            },
+            {
+              "from": "ea86c69c-21d2-40ed-ac24-0dc8d075eddd",
+              "to": "d0e6b56e-cd4b-40e2-8ab3-bcbf5e663b2e"
+            },
+            {
+              "from": "91d458f1-a1dd-4045-b5ce-8e336e76d674",
+              "to": "6d51bdb0-f5c2-4037-a4a9-c328feff630e"
+            },
+            {
+              "from": "6d51bdb0-f5c2-4037-a4a9-c328feff630e",
+              "to": "63d62e6d-06f5-4221-8ef1-0d6c044d4475"
+            }
+          ]
+        }
+      ],
+      "activeGraph": "4b1b5a4b-2021-4c52-a337-6745da47ba8c"
+    }
+  ],
+  "defaultMap": "3990c2cf-4a54-4b8f-8914-b1ea7624c685"
+}

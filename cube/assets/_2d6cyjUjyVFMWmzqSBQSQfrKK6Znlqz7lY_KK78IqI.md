@@ -1,0 +1,14 @@
+- The unwillingness to submit to rules not understood is "often a commendable attitude" (p. 208).
+- The impersonal forces "have often frustrated his individual efforts" and are "seemingly irrational" (pp. 208, 209).
+- Critics are "quite right" that we are behind in using the possibilities of social collaboration (pp. 209-210).
+- War and "other temporary disasters" justify subordinating almost everything to one purpose; it is "sensible temporarily to sacrifice freedom" (p. 210). **State authority accepted**: wartime direction of the economy, on condition that it is temporary.
+- The conquest of unemployment "must be the goal of our greatest endeavor" (p. 210).
+- Retraining "certainly ought to be provided on a liberal scale" (p. 211). **State action accepted.**
+- Some unemployment is the unavoidable accompaniment of free choice of jobs (p. 212).
+- "Let a uniform minimum be secured to everybody by all means" (p. 213). **State action accepted**, with the condition that group privileges and the right to exclude newcomers lapse.
+- Wartime restrictions cannot be removed "at one stroke"; a "carefully thought-out policy of gradual relaxation of controls", possibly over several years, is required (p. 219). **State authority accepted transitionally.**
+- The present generation "probably surpasses most of its predecessors" in indignation about inequities (p. 213).
+- Collectivism owes its birth to "lofty" ideals (p. 214).
+- Every generation reorders its values (p. 215).
+- The Swiss and Dutch share the individualist virtues (p. 216).
+- Recent improvements in social institutions exist but "count but little" beside the basic difference of two ways of life (p. 218).

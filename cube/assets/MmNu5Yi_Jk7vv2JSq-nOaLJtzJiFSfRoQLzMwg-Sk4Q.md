@@ -1,0 +1,19 @@
+- The belief that totalitarian horrors are accidental to the system consoles those who think it inevitable and weakens resistance; it is false (p. 154).
+- The worst features are not accidental by-products but phenomena totalitarianism is certain sooner or later to produce (p. 154).
+- As the democratic planner must choose between dictatorial powers and abandoning his plans, the dictator must choose between disregarding ordinary morals and failure; hence the unscrupulous succeed in a society tending toward totalitarianism (p. 154).
+- The ethics a system produces need not be the ethics that motivated its creation (p. 155).
+- Before democracy is suppressed, impatience with slow democratic procedure creates demand for a strong man or party organized on military lines; socialist parties in Central Europe had already familiarized the masses with such organization (p. 155).
+- Socialism can be put into practice only by methods most socialists disapprove; the old socialist parties were inhibited by democratic ideals, and in Germany and Italy fascism's success was preceded by socialists' refusal to take over government (p. 156).
+- A large, strong, homogeneous group is likely to be formed by the worst, not the best, elements, for three reasons: uniformity is found at lower moral and intellectual standards; the docile and gullible can be recruited; and agreement is easiest on a negative program against an enemy (pp. 156-157).
+- Hayek's qualification: this does not mean the majority have low moral standards, only that the largest group with very similar values is one with low standards (p. 156).
+- German anti-Semitism and anticapitalism spring from the same root (p. 157).
+- Collectivism can exist only as some particularism (nationalism, racialism, classism); collectivism on a world scale is unthinkable except in the service of a small ruling élite (p. 158).
+- Socialism is internationalist in theory and violently nationalist in practice; liberal socialism is purely theoretical; the practice of socialism is everywhere totalitarian (p. 158).
+- The concepts of humanity and internationalism are products of the individualist view of man and have no place in collectivist thought (p. 159).
+- Planners tend to be nationalists and imperialists; the Webbs and Shaw are the English example (pp. 159-160).
+- Collectivists must create power over men of unprecedented magnitude; concentrating power does not transfer it but heightens it; the competitive system is the only one designed to minimize power of man over man (pp. 160-161).
+- Substituting political for economic power substitutes inescapable power for limited power (p. 161).
+- Collectivist ethics has no general rules and makes the end justify the means; individualist ethics, like formal law, consists of general absolute rules (pp. 161-162).
+- The virtues cultivated under collectivism are those of the efficient instrument; the individualist virtues decline (pp. 162-163).
+- The masses in totalitarian states are not devoid of moral fervor; their moral emotion is comparable to that of great religious movements (p. 163).
+- Those who run the system, by contrast, must be personally committed to the leader and completely unprincipled; readiness to do bad things becomes a path to promotion (pp. 164-165).

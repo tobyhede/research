@@ -1,0 +1,5 @@
+- What are the certain principles (p. 235)? Synthesis should assemble them from the main chapters, since the Conclusion does not list them.
+- Is the unstated premise sound, that clearing obstacles suffices to release creative energy (p. 235), given the positive state functions the main chapters allow?
+- Does the refusal to offer a blueprint follow from Hayek's own argument about the limits of knowledge, or is it a limitation of the book, as Knight and Marschak took it (ap01, pp. 242-243)?
+- How does the attack on inevitable tendencies (p. 235) fit with any passages in the main text that describe planning's consequences as necessary?
+- Which works in the list did the reviewers and Hayek's critics regard as doing the constructive work, and do they agree with one another?

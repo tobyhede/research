@@ -1,0 +1,101 @@
+{
+  "version": 1,
+  "id": "99009dd6-7f91-40b9-a05c-40ea36977670",
+  "title": "Capital ch17 · Conclusion",
+  "maps": [
+    {
+      "id": "15869064-f2b3-4625-b360-c6180f18972e",
+      "title": "Note",
+      "kind": "positioned",
+      "positions": {
+        "051bd8d9-490a-4aa0-845a-57decd55ac4f": {
+          "x": 0,
+          "y": 0,
+          "size": {
+            "width": 560,
+            "height": 420
+          },
+          "content": {
+            "open": true
+          }
+        },
+        "a3811a7b-5fff-4c6b-96a5-c1c8683713fc": {
+          "x": 640,
+          "y": 0
+        },
+        "12438aa7-3e83-42af-8c61-686b1b7d4bc1": {
+          "x": 980,
+          "y": 0
+        },
+        "6b80da3d-094a-4d6f-846a-51d5a2990eda": {
+          "x": 1320,
+          "y": 0
+        },
+        "5d6abfb0-e408-4192-9606-b4b63d9df4b1": {
+          "x": 640,
+          "y": 220
+        },
+        "4d241fb9-878d-4841-8592-eb394e110473": {
+          "x": 980,
+          "y": 220
+        },
+        "8f120ccc-5053-46a6-847a-8973c435980f": {
+          "x": 1320,
+          "y": 220
+        },
+        "127970f7-0ee9-40c2-a3bd-d921a84f32df": {
+          "x": 640,
+          "y": 440
+        },
+        "e638c328-b034-4a90-9052-1e2953a9b479": {
+          "x": 980,
+          "y": 440
+        }
+      },
+      "graphs": [
+        {
+          "id": "e2d82b3b-b2ef-47dc-aa04-fa383719ba0a",
+          "title": "Analysis",
+          "color": "#4e79a7",
+          "headShape": "arrow",
+          "edges": [
+            {
+              "from": "051bd8d9-490a-4aa0-845a-57decd55ac4f",
+              "to": "a3811a7b-5fff-4c6b-96a5-c1c8683713fc"
+            },
+            {
+              "from": "a3811a7b-5fff-4c6b-96a5-c1c8683713fc",
+              "to": "12438aa7-3e83-42af-8c61-686b1b7d4bc1"
+            },
+            {
+              "from": "12438aa7-3e83-42af-8c61-686b1b7d4bc1",
+              "to": "6b80da3d-094a-4d6f-846a-51d5a2990eda"
+            },
+            {
+              "from": "12438aa7-3e83-42af-8c61-686b1b7d4bc1",
+              "to": "5d6abfb0-e408-4192-9606-b4b63d9df4b1"
+            },
+            {
+              "from": "051bd8d9-490a-4aa0-845a-57decd55ac4f",
+              "to": "4d241fb9-878d-4841-8592-eb394e110473"
+            },
+            {
+              "from": "6b80da3d-094a-4d6f-846a-51d5a2990eda",
+              "to": "8f120ccc-5053-46a6-847a-8973c435980f"
+            },
+            {
+              "from": "a3811a7b-5fff-4c6b-96a5-c1c8683713fc",
+              "to": "127970f7-0ee9-40c2-a3bd-d921a84f32df"
+            },
+            {
+              "from": "127970f7-0ee9-40c2-a3bd-d921a84f32df",
+              "to": "e638c328-b034-4a90-9052-1e2953a9b479"
+            }
+          ]
+        }
+      ],
+      "activeGraph": "e2d82b3b-b2ef-47dc-aa04-fa383719ba0a"
+    }
+  ],
+  "defaultMap": "15869064-f2b3-4625-b360-c6180f18972e"
+}

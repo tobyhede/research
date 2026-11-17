@@ -1,0 +1,8 @@
+- "Indeed, when security is understood in too absolute a sense, the general striving for it, far from increasing the chances of freedom, becomes the gravest threat to it." (p. 144)
+- "There is no reason why in a society which has reached the general level of wealth which ours has attained the first kind of security should not be guaranteed to all without endangering general freedom." (p. 144)
+- "But there is no incompatibility in principle between the state’s providing greater security in this way and the preservation of individual freedom." (p. 145)
+- "This demand for security is thus another form of the demand for a just remuneration— a remuneration commensurate with the subjective merits and not with the objective results of a man’s efforts." (p. 145)
+- "Certainty of a given income can, however, not be given to all if any freedom in the choice of one’s occupation is to be allowed. And, if it is provided for some, it becomes a privilege at the expense of others whose security is thereby necessarily diminished." (p. 146)
+- "Either both the choice and the risk rest with the individual or he is relieved of both." (p. 148)
+- "This security is, however, inseparable from the restrictions on liberty and the hierarchical order of military life—it is the security of the barracks." (p. 148)
+- "But if these endeavors are to be successful and are not to destroy individual freedom, security must be provided outside the market and competition be left to function unobstructed." (p. 152)

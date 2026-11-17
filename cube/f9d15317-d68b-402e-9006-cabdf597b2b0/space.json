@@ -1,0 +1,93 @@
+{
+  "version": 1,
+  "id": "f9d15317-d68b-402e-9006-cabdf597b2b0",
+  "title": "Capital ch11 · Merit and Inheritance in the Long Run",
+  "maps": [
+    {
+      "id": "cef2fa0a-e1e9-4226-a8f9-a5d19d3380b1",
+      "title": "Note",
+      "kind": "positioned",
+      "positions": {
+        "8c4d173f-b850-4101-a106-e75f168990eb": {
+          "x": 0,
+          "y": 0,
+          "size": {
+            "width": 560,
+            "height": 420
+          },
+          "content": {
+            "open": true
+          }
+        },
+        "54787b7a-76dc-4c46-8102-476c90940019": {
+          "x": 640,
+          "y": 0
+        },
+        "9f0eb3d1-4e5b-4fc7-a77e-d9188b152dd7": {
+          "x": 980,
+          "y": 0
+        },
+        "84f42779-f746-47da-bbee-88b74b450527": {
+          "x": 1320,
+          "y": 0
+        },
+        "eaf152b7-9c4d-489f-ab36-de3d2fa4eef5": {
+          "x": 640,
+          "y": 220
+        },
+        "7ad5e644-1fe4-479b-9231-d4f7f8b6cff9": {
+          "x": 980,
+          "y": 220
+        },
+        "5a21746a-0621-4403-bc61-30dae36c43b2": {
+          "x": 1320,
+          "y": 220
+        },
+        "fa90c95d-2c4c-4c19-89bb-3c528ec022b0": {
+          "x": 640,
+          "y": 440
+        }
+      },
+      "graphs": [
+        {
+          "id": "4cb44bbf-e974-4f58-a39b-61da2fe273cd",
+          "title": "Analysis",
+          "color": "#4e79a7",
+          "headShape": "arrow",
+          "edges": [
+            {
+              "from": "8c4d173f-b850-4101-a106-e75f168990eb",
+              "to": "54787b7a-76dc-4c46-8102-476c90940019"
+            },
+            {
+              "from": "54787b7a-76dc-4c46-8102-476c90940019",
+              "to": "9f0eb3d1-4e5b-4fc7-a77e-d9188b152dd7"
+            },
+            {
+              "from": "9f0eb3d1-4e5b-4fc7-a77e-d9188b152dd7",
+              "to": "84f42779-f746-47da-bbee-88b74b450527"
+            },
+            {
+              "from": "8c4d173f-b850-4101-a106-e75f168990eb",
+              "to": "eaf152b7-9c4d-489f-ab36-de3d2fa4eef5"
+            },
+            {
+              "from": "84f42779-f746-47da-bbee-88b74b450527",
+              "to": "7ad5e644-1fe4-479b-9231-d4f7f8b6cff9"
+            },
+            {
+              "from": "54787b7a-76dc-4c46-8102-476c90940019",
+              "to": "5a21746a-0621-4403-bc61-30dae36c43b2"
+            },
+            {
+              "from": "5a21746a-0621-4403-bc61-30dae36c43b2",
+              "to": "fa90c95d-2c4c-4c19-89bb-3c528ec022b0"
+            }
+          ]
+        }
+      ],
+      "activeGraph": "4cb44bbf-e974-4f58-a39b-61da2fe273cd"
+    }
+  ],
+  "defaultMap": "cef2fa0a-e1e9-4226-a8f9-a5d19d3380b1"
+}

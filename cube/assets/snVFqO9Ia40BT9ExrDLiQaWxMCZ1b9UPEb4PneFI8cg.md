@@ -1,0 +1,8 @@
+- "We have progressively abandoned that freedom in economic affairs without which personal and political freedom has never existed in the past." (p. 65)
+- "The subsequent elaboration of a consistent argument in favor of economic freedom was the outcome of a free growth of economic activity which had been the undesigned and unforeseen by-product of political freedom." (p. 66)
+- "The fundamental principle that in the ordering of our affairs we should make as much use as possible of the spontaneous forces of society, and resort as little as possible to coercion, is capable of an infinite variety of applications." (p. 67)
+- "There is, in particular, all the difference between deliberately creating a system within which competition will work as beneficially as possible and passively accepting institutions as they are." (p. 67)
+- "The attitude of the liberal toward society is like that of the gardener who tends a plant and, in order to create the conditions most favorable to its growth, must know as much as possible about its structure and the way it functions." (p. 68)
+- **Paraphrase:** Hayek identifies monetary policy and monopoly control among the unfinished tasks of government. He argues that public power can help or harm, and that better understanding could make its use more effective. (p. 68)
+- "The change amounts to a complete reversal of the trend we have sketched, an entire abandonment of the individualist tradition which has created Western civilization." (p. 69)
+- "For the next sixty years Germany became the center from which the ideas destined to govern the world in the twentieth century spread east and west." (p. 70)

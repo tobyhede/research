@@ -1,0 +1,7 @@
+- Which concessions does the 1976 Hayek think unwarranted (p. 55)? He does not say. Candidates in the main text should be listed (social insurance, minimum income, regulation of hours and safety, monetary policy) and marked as retracted-in-general but not individually.
+- Does the main text ever state the thesis without the conditional, so that Knight's and others' inevitability reading is fair? Compare the wording in chapters 5, 7 and 10 with the 1956 formulation (p. 48) and the 1976 denial (p. 55).
+- Is the psychological-change thesis (p. 46) actually prominent in the 1944 text, as Hayek says in 1956, or is it a later re-emphasis? Check where the book argues that institutions change character.
+- What observable outcome, at what horizon, would Hayek accept as refuting the thesis, given the generational timescale (p. 46) and the slower, indirect welfare-state route (p. 55)?
+- By what mechanism does redistribution through taxation tend to the same outcome as central planning (p. 55)? The prefaces assert it; later works are said to supply it (p. 54).
+- How far do the 1956 judgments on Britain (Rule of Law doubtful, edge of dictatorship, pp. 48-49) hold up, and does their failure to materialise count against the thesis or under the escape clause (p. 46)?
+- How does the claim that liberalism denies all privilege (p. 44) square with whatever the main chapters permit the state to do for particular groups?

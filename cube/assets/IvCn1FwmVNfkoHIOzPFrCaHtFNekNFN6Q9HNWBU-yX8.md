@@ -1,0 +1,13 @@
+All items are **[Application]**, derived from tools the book itself uses.
+
+- **Try now:** check claims about inequality against the book's two equations. Is capital large relative to income (β)? Is the after-tax return above growth (r > g)? [Ch 1, line 1796](https://github.com/tobyhede/research/blob/main/books/capital-in-the-twenty-first-century/source/source.txt#L1796) [Ch 5, line 5110](https://github.com/tobyhede/research/blob/main/books/capital-in-the-twenty-first-century/source/source.txt#L5110) Ask whether a statistic is income or wealth, labor or capital, survey or tax data, and whether it shows the top 1%. [Ch 7, line 7233](https://github.com/tobyhede/research/blob/main/books/capital-in-the-twenty-first-century/source/source.txt#L7233) [Ch 9, line 9996](https://github.com/tobyhede/research/blob/main/books/capital-in-the-twenty-first-century/source/source.txt#L9996)
+- **Conditions required:** the equations work only over decades and on whole economies. They say nothing about one person's portfolio or a single year. [Ch 5, line 5181](https://github.com/tobyhede/research/blob/main/books/capital-in-the-twenty-first-century/source/source.txt#L5181)
+- **Warning signs:** these signals suggest drift toward the patterns the book describes:
+  - growth per head below 1.5% alongside a rising wealth/income ratio
+  - a rising share of inherited wealth
+  - top shares rising in tax data while survey-based reports stay calm
+  - cuts in top marginal rates followed by jumps in executive pay
+
+  [Ch 2, line 3027](https://github.com/tobyhede/research/blob/main/books/capital-in-the-twenty-first-century/source/source.txt#L3027) [Ch 9, line 9996](https://github.com/tobyhede/research/blob/main/books/capital-in-the-twenty-first-century/source/source.txt#L9996) [Ch 14, line 15358](https://github.com/tobyhede/research/blob/main/books/capital-in-the-twenty-first-century/source/source.txt#L15358)
+- **Failure modes of the book's own advice:** policy rates are illustrative. Piketty says the 80% figure should not mislead by its apparent precision and leaves schedules to democratic deliberation. [Ch 14, line 15475](https://github.com/tobyhede/research/blob/main/books/capital-in-the-twenty-first-century/source/source.txt#L15475) [Ch 15, line 16017](https://github.com/tobyhede/research/blob/main/books/capital-in-the-twenty-first-century/source/source.txt#L16017)
+- **Seven-day experiment:** take your own country's latest figures for growth per head, the household wealth/income ratio and the top 10% wealth share. Compute β = s / g with its net saving rate and compare the result with the actual ratio. Write down whether r > g looks plausible after tax.

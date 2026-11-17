@@ -1,0 +1,37 @@
+- The demands for social reconstruction most strongly pressed are almost all economic; people are more than ever governed by economic doctrines, and by false ones: "potential plenty", inevitable monopoly, destruction of stocks, suppression of inventions (p. 208).
+- Destruction of stocks and suppression of inventions cannot happen under competition; they are made possible only by monopoly, usually government-aided (p. 208; p. 219).
+- What is new is unwillingness to sacrifice any demand to economic argument; man has come to hate and revolt against the impersonal forces to which he formerly submitted (p. 208).
+- This is part of a general unwillingness to submit to any rule whose rationale is not understood, "often a commendable attitude", but fatal where intelligibility cannot be had (p. 208).
+- A complex civilization necessarily rests on individuals adjusting to changes whose causes they cannot understand; no single mind can grasp the circumstances that determine anyone's income or occupation (pp. 208-209).
+- Even a planner could not explain a particular direction of labor or pay without vindicating the whole plan, so it could be explained only to a few (p. 209).
+- Submission to the impersonal forces of the market made the growth of civilization possible; it does not matter that the submission once rested on religious humility or exaggerated respect for early economists (p. 209).
+- It is much harder to understand rationally why one must submit than to submit from awe (p. 209).
+- The only alternative to submitting to the market's impersonal forces is submitting to "an equally uncontrollable and therefore arbitrary power of other men"; the new deliberate restraints will be more painful than the old (p. 209).
+- It is right that we lag in using the possibilities of social collaboration, but wrong that we must master social forces as we have mastered natural ones; that is the path to totalitarianism and to the destruction of civilization (pp. 209-210).
+- Individual freedom cannot be reconciled with the supremacy of a single purpose; the only exception is war and other temporary disasters (p. 210).
+- This applies even to the conquest of unemployment, which "must be the goal of our greatest endeavor" but not "at any price" (p. 210).
+- After the war many workers in war trades must move to lower-paid work; some would "under any system" have to accept a relative fall (pp. 210-211).
+- If unions prevent relative wage reductions, the alternatives are coercion (compulsory transfer) or unemployment until lower wages are accepted; a socialist society would face the same problem and would use coercion (p. 211).
+- Monetary policy can cure this only by a general and considerable inflation, which lowers real wages "in a concealed and underhand fashion" and does more harm than the ill it cures (p. 211).
+- Aiming always at the monetary maximum of employment is self-defeating: it requires progressive inflation, holds up reallocation of labor, lowers productivity and increases the share of workers employable only by artificial means (pp. 211-212).
+- Post-war Britain will be very poor; recovery needs restrained consumption, renewal of industrial apparatus, best use rather than mere full use of resources, and no attempt to cure poverty by redistribution rather than growth (p. 212).
+- The decisive factor in Continental totalitarianism, absent so far in England and America, was a large recently dispossessed middle class (p. 212).
+- Hope of avoiding the threatened fate rests largely on resuming rapid economic progress; this requires that no group's accustomed standard obstruct adjustment (p. 212).
+- A uniform minimum should be secured to all; with it, all claims to privileged group security and to excluding newcomers must lapse (p. 213).
+- "Damn economics, let us build up a decent world" is irresponsible; modern democracy will not bear a substantial peacetime fall in living standards or prolonged stationariness (p. 213).
+- Fifty years' approach to collectivism has probably lowered moral standards; stronger indignation at inequity is not matched in individual conduct (p. 213).
+- Morals exist only in the sphere of free individual decision and responsibility (pp. 213-214).
+- Collectivism's effect on individual conduct has been "almost entirely destructive", inevitably, since its main promise is relief from responsibility (p. 214).
+- People have become more tolerant of particular abuses and more indifferent to inequities in individual cases because they look to the state to set everything right (p. 214).
+- The passion for collective action may be collective indulgence in selfishness (p. 214).
+- Collectivism has nothing to put in place of the individualist virtues except obedience; periodic elections are no test of moral values (pp. 214-215).
+- Standards of collective action derive from rules of individual conduct, so they cannot rise while the latter relax (p. 215).
+- The values now demoted are all moral: liberty, independence, truth, intellectual honesty, peace, democracy, respect for the individual as a man; what is sacrosanct is the protected standard of this or that group (p. 215).
+- Group discrimination, indifference to injustice done by government in a group's interest, and compulsory transfer of populations are increasingly countenanced, even by supposed liberals (p. 215).
+- The declining virtues are those in which the Anglo-Saxons (and the Swiss and Dutch) excelled; collectivism's centralizing tendency destroys the institutions that formed them (p. 216).
+- Twenty years ago almost all Englishmen were liberals in the broad sense; abroad, Carlyle, Disraeli, the Webbs and Wells are popular among Nazis and totalitarians, while the tradition of Macaulay, Gladstone, Mill and Morley marks kindred spirits (p. 216).
+- British propaganda is ineffective because its directors have lost belief in the distinctive values of English civilization (p. 217).
+- The moral values on which the Left intelligentsia pride themselves are largely the product of the institutions they want to destroy (p. 217).
+- Offering Germans state socialism, Realpolitik, "scientific" planning or corporativism is offering a stale copy of their fathers' ideas; it concedes that the liberals were wrong (p. 217).
+- Germans whose values are nearest ours want protection against the monster state and freedom to rebuild "their own little worlds" (p. 218).
+- To win the war of ideologies the democracies must regain belief in their traditional values, not apologize or seek compromise between liberal values and totalitarian ideas (p. 218).

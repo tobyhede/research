@@ -1,0 +1,85 @@
+{
+  "version": 1,
+  "id": "a0313ef3-b291-4b6c-9209-8c290dd4b30e",
+  "title": "Capital · Part Two: The Dynamics of the Capital/Income Ratio",
+  "maps": [
+    {
+      "id": "686e58ab-90fc-46c3-becc-7f0e98e0142c",
+      "title": "Part Two",
+      "kind": "positioned",
+      "positions": {
+        "d8cca768-2047-44aa-a578-8d9d15e0eba3": {
+          "x": 0,
+          "y": 0,
+          "size": {
+            "width": 360,
+            "height": 180
+          },
+          "content": {
+            "shape": "pill"
+          }
+        },
+        "240318b8-2e32-4077-831a-c2f7259badfd": {
+          "x": 440,
+          "y": 0,
+          "size": {
+            "width": 300,
+            "height": 200
+          }
+        },
+        "86e533f9-3692-4a43-8423-18dc43140101": {
+          "x": 780,
+          "y": 0,
+          "size": {
+            "width": 300,
+            "height": 200
+          }
+        },
+        "5e774cae-bd75-490c-b0e1-23069ba2f399": {
+          "x": 1120,
+          "y": 0,
+          "size": {
+            "width": 300,
+            "height": 200
+          }
+        },
+        "1b46304c-19c6-4d91-8703-cc63d3bc5c02": {
+          "x": 1460,
+          "y": 0,
+          "size": {
+            "width": 300,
+            "height": 200
+          }
+        }
+      },
+      "graphs": [
+        {
+          "id": "e69211de-5384-4f77-86a2-5d1c153da4a6",
+          "title": "Chapters",
+          "color": "#59a14f",
+          "headShape": "arrow",
+          "edges": [
+            {
+              "from": "d8cca768-2047-44aa-a578-8d9d15e0eba3",
+              "to": "240318b8-2e32-4077-831a-c2f7259badfd"
+            },
+            {
+              "from": "240318b8-2e32-4077-831a-c2f7259badfd",
+              "to": "86e533f9-3692-4a43-8423-18dc43140101"
+            },
+            {
+              "from": "86e533f9-3692-4a43-8423-18dc43140101",
+              "to": "5e774cae-bd75-490c-b0e1-23069ba2f399"
+            },
+            {
+              "from": "5e774cae-bd75-490c-b0e1-23069ba2f399",
+              "to": "1b46304c-19c6-4d91-8703-cc63d3bc5c02"
+            }
+          ]
+        }
+      ],
+      "activeGraph": "e69211de-5384-4f77-86a2-5d1c153da4a6"
+    }
+  ],
+  "defaultMap": "686e58ab-90fc-46c3-becc-7f0e98e0142c"
+}

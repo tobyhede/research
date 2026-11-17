@@ -1,0 +1,93 @@
+{
+  "version": 1,
+  "id": "ca3595eb-22f7-4409-ad9f-49712e6e4d9f",
+  "title": "Capital ch01 · Income and Output",
+  "maps": [
+    {
+      "id": "04e5a064-d327-42c7-a484-6d75267ac7b9",
+      "title": "Note",
+      "kind": "positioned",
+      "positions": {
+        "6b5c59b2-9326-4793-9dd8-1352cc7b5ba2": {
+          "x": 0,
+          "y": 0,
+          "size": {
+            "width": 560,
+            "height": 420
+          },
+          "content": {
+            "open": true
+          }
+        },
+        "9a3fdcc0-c5bf-4af4-87b4-23da398647c9": {
+          "x": 640,
+          "y": 0
+        },
+        "6da21427-f75b-490f-84fb-6a232d3797ec": {
+          "x": 980,
+          "y": 0
+        },
+        "30a38f9a-b5c7-468f-b2bc-ecceb1979b17": {
+          "x": 1320,
+          "y": 0
+        },
+        "c8780768-c581-4fd1-ae51-ed439fdfb89e": {
+          "x": 640,
+          "y": 220
+        },
+        "f4c1dba0-be44-41a2-98aa-455a74838ee2": {
+          "x": 980,
+          "y": 220
+        },
+        "b66b5446-cf55-40e8-a371-68db4d9a4640": {
+          "x": 1320,
+          "y": 220
+        },
+        "4f357083-3eb4-4e86-b890-7e5667c62ef9": {
+          "x": 640,
+          "y": 440
+        }
+      },
+      "graphs": [
+        {
+          "id": "8c78c2d2-5497-4b22-a034-87f7c3c929d5",
+          "title": "Analysis",
+          "color": "#4e79a7",
+          "headShape": "arrow",
+          "edges": [
+            {
+              "from": "6b5c59b2-9326-4793-9dd8-1352cc7b5ba2",
+              "to": "9a3fdcc0-c5bf-4af4-87b4-23da398647c9"
+            },
+            {
+              "from": "9a3fdcc0-c5bf-4af4-87b4-23da398647c9",
+              "to": "6da21427-f75b-490f-84fb-6a232d3797ec"
+            },
+            {
+              "from": "6da21427-f75b-490f-84fb-6a232d3797ec",
+              "to": "30a38f9a-b5c7-468f-b2bc-ecceb1979b17"
+            },
+            {
+              "from": "6b5c59b2-9326-4793-9dd8-1352cc7b5ba2",
+              "to": "c8780768-c581-4fd1-ae51-ed439fdfb89e"
+            },
+            {
+              "from": "30a38f9a-b5c7-468f-b2bc-ecceb1979b17",
+              "to": "f4c1dba0-be44-41a2-98aa-455a74838ee2"
+            },
+            {
+              "from": "9a3fdcc0-c5bf-4af4-87b4-23da398647c9",
+              "to": "b66b5446-cf55-40e8-a371-68db4d9a4640"
+            },
+            {
+              "from": "b66b5446-cf55-40e8-a371-68db4d9a4640",
+              "to": "4f357083-3eb4-4e86-b890-7e5667c62ef9"
+            }
+          ]
+        }
+      ],
+      "activeGraph": "8c78c2d2-5497-4b22-a034-87f7c3c929d5"
+    }
+  ],
+  "defaultMap": "04e5a064-d327-42c7-a484-6d75267ac7b9"
+}

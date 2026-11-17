@@ -1,0 +1,7 @@
+- Is the selection argument (A1) an empirical prediction or a conceptual claim? What would count against it: democratic socialist governments that planned extensively without the predicted personnel? Synthesis should test against Hayek's own later prefaces.
+- Does A1 apply to any mass political movement (including liberal or nationalist-democratic ones), in which case it does not discriminate collectivism specifically?
+- Is the account of collectivist ethics (pp. 161-162) a fair description of any actual socialist moral theory, or a construction from raison d'état? Which socialists held that the good of the whole is the only criterion?
+- The treatment of anti-Semitism as derivative of anticapitalism (p. 157): how much does the book's thesis that Nazism is a species of socialism depend on it, and does ch12 give further support?
+- Does the claim that humanity and internationalism are individualist concepts with no place in collectivism (p. 159) survive the history of socialist internationalism, or does Hayek's theory/practice distinction (p. 158) make the claim unfalsifiable?
+- The power argument (A3) is among the most durable parts of the book. Does it address large private concentrations of economic power (monopoly, single-employer towns), which ch13 takes up?
+- National-character claims about Germans (pp. 162-163) sit uneasily with Hayek's insistence elsewhere that the cause is ideas and institutions, not German nature. Which is doing the work?

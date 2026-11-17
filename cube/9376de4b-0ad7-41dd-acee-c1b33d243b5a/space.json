@@ -1,0 +1,97 @@
+{
+  "version": 1,
+  "id": "9376de4b-0ad7-41dd-acee-c1b33d243b5a",
+  "title": "Capital · Part Four: Regulating Capital in the Twenty-First Century",
+  "maps": [
+    {
+      "id": "f275ce12-adc4-41b5-8910-ce84a19e022f",
+      "title": "Part Four",
+      "kind": "positioned",
+      "positions": {
+        "465d8815-2cf6-4aec-b2dc-da10f6c6d24a": {
+          "x": 0,
+          "y": 0,
+          "size": {
+            "width": 360,
+            "height": 180
+          },
+          "content": {
+            "shape": "pill"
+          }
+        },
+        "113d4a72-0c2b-4b1e-89a7-5e0f253c6876": {
+          "x": 440,
+          "y": 0,
+          "size": {
+            "width": 300,
+            "height": 200
+          }
+        },
+        "0c80d298-b29c-4830-8c9d-10cc46fb2810": {
+          "x": 780,
+          "y": 0,
+          "size": {
+            "width": 300,
+            "height": 200
+          }
+        },
+        "9f94983a-38a1-40e8-935c-8d22a53aaf00": {
+          "x": 1120,
+          "y": 0,
+          "size": {
+            "width": 300,
+            "height": 200
+          }
+        },
+        "d09d2781-0b99-4461-8603-5c5dc27bcb35": {
+          "x": 1460,
+          "y": 0,
+          "size": {
+            "width": 300,
+            "height": 200
+          }
+        },
+        "7fae26e2-17f2-4a5f-b13f-ab0c9e812aa2": {
+          "x": 1800,
+          "y": 0,
+          "size": {
+            "width": 300,
+            "height": 200
+          }
+        }
+      },
+      "graphs": [
+        {
+          "id": "d2e624d0-bb6a-4528-ba5f-a83cdbe51a4e",
+          "title": "Chapters",
+          "color": "#59a14f",
+          "headShape": "arrow",
+          "edges": [
+            {
+              "from": "465d8815-2cf6-4aec-b2dc-da10f6c6d24a",
+              "to": "113d4a72-0c2b-4b1e-89a7-5e0f253c6876"
+            },
+            {
+              "from": "113d4a72-0c2b-4b1e-89a7-5e0f253c6876",
+              "to": "0c80d298-b29c-4830-8c9d-10cc46fb2810"
+            },
+            {
+              "from": "0c80d298-b29c-4830-8c9d-10cc46fb2810",
+              "to": "9f94983a-38a1-40e8-935c-8d22a53aaf00"
+            },
+            {
+              "from": "9f94983a-38a1-40e8-935c-8d22a53aaf00",
+              "to": "d09d2781-0b99-4461-8603-5c5dc27bcb35"
+            },
+            {
+              "from": "d09d2781-0b99-4461-8603-5c5dc27bcb35",
+              "to": "7fae26e2-17f2-4a5f-b13f-ab0c9e812aa2"
+            }
+          ]
+        }
+      ],
+      "activeGraph": "d2e624d0-bb6a-4528-ba5f-a83cdbe51a4e"
+    }
+  ],
+  "defaultMap": "f275ce12-adc4-41b5-8910-ce84a19e022f"
+}

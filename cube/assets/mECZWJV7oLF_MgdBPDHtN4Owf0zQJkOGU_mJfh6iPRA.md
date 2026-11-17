@@ -1,0 +1,8 @@
+- "It is essential that the people should come to regard them as their own ends." (p. 168)
+- "They are destructive of all morals because they undermine one of the foundations of all morals: the sense of and the respect for truth." (p. 169)
+- "And the most efficient technique to this end is to use the old words but change their meaning." (p. 171)
+- "It is the confusion of freedom with power carried to the extreme." (p. 171)
+- "Facts and theories must thus become no less the object of an official doctrine than views about values." (p. 172)
+- "The probable effect on the people’s loyalty to the system becomes the only criterion for deciding whether a particular piece of information is to be published or suppressed." (p. 173)
+- "What is essential to make it serve its function as the prime mover of intellectual progress is not that everybody may be able to think or write anything but that any cause or idea may be argued by somebody." (p. 176)
+- "The tragedy of collectivist thought is that, while it starts out to make reason supreme, it ends by destroying reason because it misconceives the process on which the growth of reason depends." (p. 176)

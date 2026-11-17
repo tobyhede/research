@@ -1,0 +1,31 @@
+- The split of output between wages and profits has always been at the heart of distributional conflict (the Marikana massacre of 2012, Haymarket 1886, Fourmies 1891) (p. 31).
+- Conflict over the capital-labour split stems "first and foremost" from the extreme concentration of capital ownership; inequality of capital income always exceeds inequality of labour income (p. 32).
+- Some return to capital may be justified: investment must be financed, savers may deserve reward, and part of "capital income" is really entrepreneurial labour (p. 32).
+- The textbook claim that labour's share is stable at about two-thirds is wrong: the split moved a great deal in the twentieth century (pp. 32-33).
+- The shocks of 1914–1945 cut the capital share to historic lows in the 1950s; capital recovered, accelerated after Thatcher (1979) and Reagan (1980), and by 2010 "was prospering as it had not done since 1913" (p. 33).
+- Labour's share may rise slightly over the very long run, but capital's share (excluding human capital) today is "only slightly smaller" than in the early nineteenth century (pp. 33-34).
+- Capital's importance in rich countries today is mainly due to slower demographic and productivity growth, plus political regimes that favour private capital (p. 34).
+- Most countries today have national income within 1–2% of domestic product; wealth inequality is "a far greater domestic issue than it is an international one" (pp. 35-36).
+- Capital is not an immutable concept; the boundary of what can be privately owned shifts with society (slaves, the atmosphere, knowledge) (p. 37).
+- Capital in all its forms has a dual role, store of value and factor of production, so Piketty refuses to separate wealth from capital or to exclude housing (p. 38).
+- Each of the two types of capital, housing and professional capital, is about half the capital stock in developed countries (p. 38).
+- Market prices of capital are "largely arbitrary and uncertain", for all capital not just immaterial capital; yet total national wealth "obeys certain laws and conforms to certain regular patterns" (p. 39).
+- In rich countries in 2010: national income about 30,000 euros per head, private wealth about 180,000 (half housing, half financial and business assets), so β ≈ 6, α ≈ 30%, r ≈ 5% (pp. 40-42).
+- β says nothing about inequality within a country but measures the overall importance of capital, a "necessary first step" in studying inequality (p. 41).
+- α = r × β is a tautology but should be called the first fundamental law because it links the three central concepts of capitalism (p. 42).
+- Returns vary: stocks 7–8% over the long run, real estate and bonds 3–4%, rural land 4–5%, listed firms at 12–15 years of profits ≈ 6–8% before tax (pp. 42-44).
+- α = r × β does not explain how any of the three is determined; it only says they are not independent: "two degrees of freedom, not three" (pp. 44-45).
+- National accounts are "a social construct in perpetual evolution" reflecting each era's concerns: wealth estimates before 1914, income and output after the Depression, wealth again in the 1990s–2000s (pp. 45-47).
+- Official national accounts deal only with aggregates, so distributional sources must supplement them (pp. 47-48).
+- Europe and America produced 70–80% of world output from 1900 to 1980; this fell to about 50% by 2010 and may fall to 20–30%, in line with their share of population (p. 48).
+- The divergence in per capita output is over and convergence has begun, though it is far from complete and could be reversed (p. 48).
+- Global output per head in 2012 is about 10,000 euros (760 euros a month of income); regional incomes range from 150–250 euros a month (sub-Saharan Africa, India) to 2,500–3,000 euros (Western Europe, North America, Japan) (pp. 49-50).
+- Inequality between countries is harder to measure than inequality within them; PPPs carry margins of error of about 10% or more, and no single index captures multidimensional differences in living standards (pp. 50-51).
+- The rich-country share of world income was 46% at PPP but 57% at market exchange rates in 2012; the truth is probably closer to the first (p. 52).
+- The global income distribution is more unequal than the output distribution, because rich countries also own capital in poor ones: "the rich countries are doubly wealthy" (p. 52).
+- Africa is the only continent out of balance: income is about 5% below output, which implies nearly 20% of African capital is foreign-owned (p. 53).
+- In 1913 European powers owned an estimated one-third to one-half of the domestic capital of Asia and Africa and more than three-quarters of their industrial capital (p. 53).
+- The classical theory that capital mobility equalises marginal products and brings convergence fails logically (convergence of output does not imply convergence of income) and historically (the Asian catch-up countries financed themselves) (pp. 53-54).
+- Foreign ownership breeds alternation between expropriating governments and property-protecting governments; international inequality of capital ownership is "almost impossible to sustain without a colonial type of political domination" (pp. 54-55).
+- Gains from trade come mainly from knowledge diffusion and productivity, not from static specialisation gains (p. 55).
+- The principal mechanism of convergence is the diffusion of knowledge, which depends on investment in education and a stable legal framework (p. 55).

@@ -1,0 +1,8 @@
+- How independent are the fiscal and economic flows really (p. 277), given that μ comes from estate records? Does the online appendix estimate μ from any non-probate source (e.g. wealth-tax or survey data on the living)?
+- Was the simulation model (p. 289; note 21) calibrated on the 1820–2010 data it is said to match? If so, "successfully accounts for" is a fit, not a test.
+- The Rastignac comparison uses total-wealth concentration for inherited-wealth concentration (pp. 297-298) and assumes top heirs and top earners are different people. How much does the growing overlap (pp. 274-275) change the "roughly balanced" conclusion for today?
+- Is the claim that the elderly do not dissave (p. 290) robust outside France, especially where annuitised pensions are larger (15–20 percent in English-speaking countries, p. 284)?
+- What is the evidence behind "no evidence that education has really increased intergenerational mobility" (p. 306)? Note 53 defers to ch13; check there.
+- The democratic-legitimacy claim (p. 307) is a political-sociology thesis supported by the 1789 Declaration and Durkheim. What evidence, if any, does ch13 or the conclusion give that rentier inequality causes upheaval?
+- Britain's low rebound (pp. 310-311): data artefact or real behaviour? Piketty cannot say; a cross-book theme on inheritance should not treat the British figure as settled.
+- How do the petits-rentiers figures (12–15 percent of a cohort, pp. 306-307) depend on the 750,000-euro threshold (fifty years at 15,000 euros, p. 306), which counts retirement years as earning years?

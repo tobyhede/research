@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "id": "865a7a77-acd2-4327-9c6f-541087f6a6c2",
+  "title": "Library",
+  "maps": [
+    {
+      "id": "38b46dfd-3e74-49ee-af81-71da721412f7",
+      "title": "Library",
+      "kind": "positioned",
+      "positions": {
+        "a68d9440-66a4-4fa3-9170-cc46756a0be4": {
+          "x": 0,
+          "y": 0,
+          "size": {
+            "width": 560,
+            "height": 420
+          },
+          "content": {
+            "open": true
+          }
+        },
+        "c17e9e86-99cc-426f-a511-caed145f6672": {
+          "x": 700,
+          "y": 0,
+          "size": {
+            "width": 760,
+            "height": 520
+          },
+          "content": {
+            "open": true
+          }
+        },
+        "789cefd4-3b1d-49de-b494-82a146543063": {
+          "x": 1520,
+          "y": 0,
+          "size": {
+            "width": 760,
+            "height": 520
+          },
+          "content": {
+            "open": true
+          }
+        }
+      },
+      "graphs": [
+        {
+          "id": "a9347bdf-6d96-4f36-ab84-8b24b8a159d3",
+          "title": "Shelf",
+          "color": "#4e79a7",
+          "headShape": "arrow",
+          "edges": [
+            {
+              "from": "a68d9440-66a4-4fa3-9170-cc46756a0be4",
+              "to": "c17e9e86-99cc-426f-a511-caed145f6672"
+            },
+            {
+              "from": "a68d9440-66a4-4fa3-9170-cc46756a0be4",
+              "to": "789cefd4-3b1d-49de-b494-82a146543063"
+            }
+          ]
+        },
+        {
+          "id": "e0a1994d-bb12-42f0-8f81-f7e5c45c804a",
+          "title": "Chronology",
+          "color": "#9c9c9c",
+          "headShape": "vee",
+          "edges": [
+            {
+              "from": "c17e9e86-99cc-426f-a511-caed145f6672",
+              "to": "789cefd4-3b1d-49de-b494-82a146543063",
+              "title": "1944 → 2013"
+            }
+          ]
+        }
+      ],
+      "activeGraph": "a9347bdf-6d96-4f36-ab84-8b24b8a159d3"
+    }
+  ],
+  "defaultMap": "38b46dfd-3e74-49ee-af81-71da721412f7"
+}

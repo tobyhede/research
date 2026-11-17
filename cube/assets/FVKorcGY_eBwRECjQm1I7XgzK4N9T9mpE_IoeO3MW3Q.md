@@ -1,0 +1,1 @@
+Re-skimmed pp. 190–207 against this note. Page cites for the monopoly section corrected to follow the page markers (state-monopoly argument on p. 199, American plan on p. 200, dichotomy and Labour programme on p. 201). Quotes copied from the chapter file; none crosses a footnote marker or contains an ellipsis.

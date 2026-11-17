@@ -1,0 +1,7 @@
+- What method, data and capital concept (net or gross, market value or volume) produce the 1.3–1.6 elasticity? The book gives none (endnote 24, p. 453). Synthesis should treat σ > 1 as the least-supported load-bearing premise in Part Two.
+- How much of the 1970–2010 rise in α is housing rent, how much bargaining power, and how much substitution? The chapter shows all three (Figures 6.5–6.8, p. 160) but does not apportion them.
+- Is the pure-return series independent of the conclusion it supports? The informal-labor deduction is admitted to be arbitrary (p. 146) and is largest where observed returns depart from 4–5 percent.
+- Does the 30–40 percent global capital share forecast (p. 169) follow from his own elasticity range? My check under Argument F suggests his range supports about 30 percent; the upper figure assumes r does not fall.
+- Agricultural σ < 1 is inferred from the US–Europe land-value gap alone (p. 161). Does ch04's account of American land and slaves support it, or offer rival explanations?
+- If r stays near 4–5 percent pretax while the average tax on capital income is about 30 percent (p. 149), what is the after-tax r that should enter r > g in ch10? Check ch10 and ch12.
+- Is the Marx-as-g≈0 reading (p. 164) consistent with Marx's own mechanism? Compare with cross-book work on Marx if a themes file is built.

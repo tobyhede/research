@@ -1,0 +1,8 @@
+- Internal tension (my observation): naziism is a 'necessary outcome' of socialist trends and socialist ideals would 'lead straight' to tyranny (p. 58), yet nothing is inevitable (p. 56) (p. 58). The consistent reading is conditional: if the ideals are pursued to realisation, the result follows; whether they are pursued is open. Synthesis should check whether later chapters keep to the conditional form.
+- The promise to deal with the 'alleged inevitability of planning' (p. 59) is redeemed in ch. 4 (pp. 88-97).
+- 'Why in the end this victory has brought the most vicious elements among them to the top' (pp. 60-61) announces ch. 10 (Why the Worst Get on Top).
+- The 'rival socialist factions' reading of Nazi versus Left (p. 61) and the Prussianism-socialism kinship (p. 62) announce ch. 12 (The Socialist Roots of Naziism); 'features of Hitler's system recommended for imitation' (p. 60) announces ch. 13 (The Totalitarians in Our Midst).
+- The claim that wartime organisation is to be kept for peacetime 'creation' (p. 57) links to ch. 1's point that the war has only accelerated an older trend (p. 63).
+- 'Socialism' here is a loose sociological label for the climate of opinion (p. 59); ch. 3 narrows it to a method, central planning (pp. 80-82). The Introduction's sweeping 'we are all socialists' only fits the argument of the later chapters if the opinion-formers want planning in that narrow sense.
+- The denial that the argument rests 'mainly' on parallels (p. 58) should be held against chs. 12-13, which are built largely on German-English parallels.
+- Method link: ideas, not interests or material conditions, drive history (p. 57) (p. 59). The same assumption underlies ch. 1 and is argued against technological determinism in ch. 4.

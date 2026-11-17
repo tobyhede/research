@@ -1,0 +1,8 @@
+- The Pareto/r − g model is never written down in the book (note 25, p. 467). Does the online appendix specify the shock process, savings rule and death process? Without it, the 90/50 prediction (p. 264) and the thresholds (p. 265) cannot be assessed; synthesis should treat them as reported model outputs.
+- Is the sufficiency claim of note 26 (p. 467) also enough to rule out rivals (e.g. returns rising with wealth, closed elite marriage markets, political rents)? The chapter does not test alternatives.
+- How reliable is the US 1800 baseline, given that including enslaved people changes the top centile share so much (note 12, p. 466)? This affects the narrative that the New World was less unequal (p. 252).
+- The pretax return series for early periods is assumed (4.5 percent, p. 256). How sensitive is the claim that r was 10 to 20 times g (p. 255) to measurement of returns on land net of management labour and risk?
+- Does the claim that capital taxes leave the total capital stock unchanged (p. 271) survive a check against ch05's β series after 1950? Ch05 attributes β's low mid-century level partly to policy; here policy is said not to reduce the total.
+- Germany: is the estate-tax explanation (p. 272) more than a conjecture? Dell's thesis (note 38) should be checked if this is used in synthesis.
+- The 1945 solidarity tax is called "extremely high" (p. 269); note 35 gives up to 20 percent on wealth and 100 percent on nominal gains. How much did it actually contribute relative to the war shocks?
+- How do Piketty's 21st-century r and g assumptions (pp. 256-258, 272) square with ch02's growth projections and ch06's return trends? Check against those notes in synthesis.

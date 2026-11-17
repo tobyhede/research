@@ -1,0 +1,7 @@
+- Would a one-time 10–20% levy on large fortunes raise the projected 20% of GDP, given capital flight before enactment and the credibility problem of announcing it as one-time? The chapter scales the annual schedule by ten without discussing base erosion (p. 403).
+- Is inflation's incidence as he describes? Modern holdings of nominal assets (pension funds, insurers) are spread across the middle class; the chapter gives no incidence estimate beyond the 1945–1948 French case (pp. 405-406).
+- The causal claim that nineteenth-century debt service retarded British education and caused relative decline (p. 404) is offered as a possibility only. What evidence would support it?
+- How would a Eurozone budgetary parliament drawn from national parliaments (p. 416; note 28, p. 504) resolve creditor/debtor conflicts that national electorates have so far refused to delegate?
+- Note 41's "α = r if r = g" (p. 507) contradicts the main text's α = s (p. 420): is this a translation or typesetting error? Check against the French edition.
+- How does the discount-rate debate connect to the book's r? Piketty lines Nordhaus up with the return on capital and Stern with growth (p. 424), which maps the climate dispute onto r versus g; the analogy is suggestive but not developed.
+- What are the "intermediate forms" of property and governance (p. 425)? The chapter names the problem and the need for worker board seats (p. 426) but proposes no design. Later work (*Capital and Ideology*) may be where this is taken up.

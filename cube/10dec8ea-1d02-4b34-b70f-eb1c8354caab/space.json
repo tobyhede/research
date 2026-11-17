@@ -1,0 +1,101 @@
+{
+  "version": 1,
+  "id": "10dec8ea-1d02-4b34-b70f-eb1c8354caab",
+  "title": "Serfdom ch09 · Security and Freedom",
+  "maps": [
+    {
+      "id": "8ebb46ad-3f94-433e-a3b1-56854f7c812f",
+      "title": "Note",
+      "kind": "positioned",
+      "positions": {
+        "1f91c9f2-8259-4a6b-983d-4b28b8319c7c": {
+          "x": 0,
+          "y": 0,
+          "size": {
+            "width": 560,
+            "height": 420
+          },
+          "content": {
+            "open": true
+          }
+        },
+        "13b5c8f4-fb6b-4f03-a172-ba09024d0ac6": {
+          "x": 640,
+          "y": 0
+        },
+        "fddcad8b-06f2-4111-9bed-0a58e441096e": {
+          "x": 980,
+          "y": 0
+        },
+        "b9ed19fd-2b06-4ec2-b945-6055f3191eb2": {
+          "x": 1320,
+          "y": 0
+        },
+        "21e28ba7-f985-4c63-82f3-47300edf1eda": {
+          "x": 640,
+          "y": 220
+        },
+        "fca2f76a-4ca6-40bc-be09-dd07e14eae2a": {
+          "x": 980,
+          "y": 220
+        },
+        "5db22b45-0196-468f-ab56-7f9da7d6d29e": {
+          "x": 1320,
+          "y": 220
+        },
+        "c73707d1-fa93-432e-994f-789c38ce7797": {
+          "x": 640,
+          "y": 440
+        },
+        "6812990b-b680-4dac-883f-9996c2c4f037": {
+          "x": 980,
+          "y": 440
+        }
+      },
+      "graphs": [
+        {
+          "id": "2b8ae8b5-1e91-4dc1-92b2-c503ea71a853",
+          "title": "Analysis",
+          "color": "#4e79a7",
+          "headShape": "arrow",
+          "edges": [
+            {
+              "from": "1f91c9f2-8259-4a6b-983d-4b28b8319c7c",
+              "to": "13b5c8f4-fb6b-4f03-a172-ba09024d0ac6"
+            },
+            {
+              "from": "13b5c8f4-fb6b-4f03-a172-ba09024d0ac6",
+              "to": "fddcad8b-06f2-4111-9bed-0a58e441096e"
+            },
+            {
+              "from": "fddcad8b-06f2-4111-9bed-0a58e441096e",
+              "to": "b9ed19fd-2b06-4ec2-b945-6055f3191eb2"
+            },
+            {
+              "from": "fddcad8b-06f2-4111-9bed-0a58e441096e",
+              "to": "21e28ba7-f985-4c63-82f3-47300edf1eda"
+            },
+            {
+              "from": "1f91c9f2-8259-4a6b-983d-4b28b8319c7c",
+              "to": "fca2f76a-4ca6-40bc-be09-dd07e14eae2a"
+            },
+            {
+              "from": "b9ed19fd-2b06-4ec2-b945-6055f3191eb2",
+              "to": "5db22b45-0196-468f-ab56-7f9da7d6d29e"
+            },
+            {
+              "from": "13b5c8f4-fb6b-4f03-a172-ba09024d0ac6",
+              "to": "c73707d1-fa93-432e-994f-789c38ce7797"
+            },
+            {
+              "from": "c73707d1-fa93-432e-994f-789c38ce7797",
+              "to": "6812990b-b680-4dac-883f-9996c2c4f037"
+            }
+          ]
+        }
+      ],
+      "activeGraph": "2b8ae8b5-1e91-4dc1-92b2-c503ea71a853"
+    }
+  ],
+  "defaultMap": "8ebb46ad-3f94-433e-a3b1-56854f7c812f"
+}

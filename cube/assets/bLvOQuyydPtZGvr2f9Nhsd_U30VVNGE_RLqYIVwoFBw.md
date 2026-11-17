@@ -1,0 +1,15 @@
+- Labor-income inequality is not always equitable, and social justice is not just labor vs inherited wealth (p. 174).
+- Rare cases exist where aiming to inherit a fortune would still be well advised (p. 174).
+- The questions will be answered "with the imperfect data at my disposal" (p. 174).
+- The class labels are "arbitrary and open to challenge" (p. 179), and the middle-40 definition is "highly contestable" (p. 180).
+- Any small set of categories is "doomed to be crudely schematic"; the reality is a continuous distribution (p. 180).
+- The decile approach "will not allow us to eliminate every problem or settle every question" (p. 182).
+- The Fed survey underestimates top fortunes (p. 185).
+- The "ideal society" with low wealth inequality is a "virtual example" and how to reach it "remains to be seen" (p. 185); endnote 14 notes that even it leaves the top 1 percent 20 times richer on average than the bottom half (p. 455).
+- There are "no grounds for asserting" that the top decile can never take more than 50 percent of income (p. 190); historical data "are far from perfect" (p. 190).
+- The 2030 US projection carries "no certainty" (p. 184).
+- The rentier/supermanager contrast is "naïve and overdrawn" (p. 192).
+- Whether US top labor incomes are meritocratic is left open: "the opposite conclusion is equally possible" (p. 191).
+- Gini coefficients "are sometimes useful" (p. 192); interdecile ratios "can be useful" (pp. 193-194).
+- Precautionary and life-cycle saving exist and life-cycle saving matters "especially in aging societies" (pp. 176-177).
+- Treating pensions as labor income is a convention; without it labor inequality would be "noticeably—and to some extent artificially—greater" (endnote 9, p. 455).

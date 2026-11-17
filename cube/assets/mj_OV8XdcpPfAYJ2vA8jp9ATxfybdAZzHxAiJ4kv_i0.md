@@ -1,0 +1,24 @@
+- The book claims answers that are "imperfect and incomplete" but rest on data covering three centuries and more than twenty countries, plus a new theoretical framework (p. 3).
+- When r exceeds g, as in the nineteenth century and likely again in the twenty-first, capitalism "automatically generates arbitrary and unsustainable inequalities" that undermine meritocratic values (p. 3).
+- Democracy can regain control over capitalism without protectionism or nationalism; the policy chapters aim at this (p. 3).
+- Debate on distribution has long rested on "an abundance of prejudice and a paucity of fact" (p. 3). Novels (Austen, Balzac) carry real intuitive knowledge about the hierarchy of wealth (pp. 3-4).
+- There will always be a subjective, political dimension to inequality that no science can remove; social science can still inform debate and "unmask certain preconceived or fraudulent notions" (p. 4).
+- Malthus and Young read fragmentary evidence through fear of revolution; Young's account was "overdetermined by his fear of revolution in France" (pp. 5-6).
+- Ricardo's land-rent prediction failed because agriculture's share of income fell, but his scarcity principle stays relevant for urban property and oil (pp. 6-7).
+- Marx's prediction failed because wages rose from the late nineteenth century and because he "totally neglected the possibility of durable technological progress" (p. 10). His accumulation principle still holds a "key insight": under low growth accumulated wealth can reach destabilising proportions (p. 10).
+- Kuznets's 1913–1948 US series were accurate and well documented (pp. 11-12, 15), but his 1955 curve was speculative, driven by Cold War aims, and wrong about the cause: the 1914–1945 compression was due to wars and shocks, not intersectoral mobility (pp. 13-14).
+- US income concentration in the 2000s regained, and slightly exceeded, the level of the 1910s (p. 14).
+- Economists neglected distribution because of Kuznets's optimism and the "undue enthusiasm" for representative-agent models (p. 15).
+- First major result: distrust economic determinism. The 1910–1950 fall in inequality came from war and the policies adopted to cope with it; the post-1980 rise came largely from political shifts in taxation and finance (p. 19).
+- Second major result, "the heart of the book": wealth distribution has forces pushing both toward convergence and divergence, and "no natural, spontaneous process" stops the divergent forces from prevailing permanently (p. 19).
+- The US rise in top income shares is mainly an explosion of very high *labour* incomes for top managers; Piketty prefers the explanation that they largely set their own pay over a productivity explanation (pp. 21-22).
+- The European U-curve in private wealth (6–7 years of income around 1910, 2–3 by 1950, 4–6 by 2010) is mainly explained by the return of slow growth (pp. 22-23).
+- When r > g, inherited wealth grows faster than output; heirs need save only part of their capital income for it to outgrow the economy (p. 23).
+- Divergence can be reinforced by saving rates rising with wealth, returns rising with fortune size, arbitrary returns, and Ricardian scarcity (p. 23).
+- Piketty's model is less apocalyptic than Marx's: divergence is "not perpetual and is only one of several possible future directions" (p. 23).
+- r > g "has nothing to do with any market imperfection"; a progressive global tax on capital could counter it but would need international coordination (p. 24).
+- The book relies mainly on the US, Japan, Germany, France and Britain; France matters for its estate records, its early demographic transition, and its test of legal equality (pp. 24-26).
+- French data show wealth was as concentrated under the Republic as in aristocratic Britain, so "equality of rights in the marketplace cannot ensure equality of rights tout court" (p. 26).
+- Piketty frames economics as a social science: he attacks the discipline's "childish passion for mathematics" (p. 27) and calls the book "as much a work of history as of economics" (p. 28).
+- Income, capital, growth and r are "theoretical constructs rather than mathematical certainties"; a small set of equations is enough to account for the history (pp. 28-29).
+- The title is provisional: logically it should have been "Capital at the Dawn of the Twenty-First Century", and the future is "deeply political, chaotic, and unpredictable" (p. 30).

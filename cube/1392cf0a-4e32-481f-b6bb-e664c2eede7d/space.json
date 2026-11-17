@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "id": "1392cf0a-4e32-481f-b6bb-e664c2eede7d",
+  "title": "Capital · Part One: Income and Capital",
+  "maps": [
+    {
+      "id": "e84a311f-e124-40f6-aa25-9501652e0c2f",
+      "title": "Part One",
+      "kind": "positioned",
+      "positions": {
+        "ca76c6f7-4480-44e5-80f0-deac00c821fe": {
+          "x": 0,
+          "y": 0,
+          "size": {
+            "width": 360,
+            "height": 180
+          },
+          "content": {
+            "shape": "pill"
+          }
+        },
+        "53ce8352-985b-4e8a-ba93-16707000e72e": {
+          "x": 440,
+          "y": 0,
+          "size": {
+            "width": 300,
+            "height": 200
+          }
+        },
+        "98b5eb34-c96d-4ae4-a73a-01c895dedfc9": {
+          "x": 780,
+          "y": 0,
+          "size": {
+            "width": 300,
+            "height": 200
+          }
+        }
+      },
+      "graphs": [
+        {
+          "id": "229f80f6-90f6-4788-825c-c8ac9467ca95",
+          "title": "Chapters",
+          "color": "#59a14f",
+          "headShape": "arrow",
+          "edges": [
+            {
+              "from": "ca76c6f7-4480-44e5-80f0-deac00c821fe",
+              "to": "53ce8352-985b-4e8a-ba93-16707000e72e"
+            },
+            {
+              "from": "53ce8352-985b-4e8a-ba93-16707000e72e",
+              "to": "98b5eb34-c96d-4ae4-a73a-01c895dedfc9"
+            }
+          ]
+        }
+      ],
+      "activeGraph": "229f80f6-90f6-4788-825c-c8ac9467ca95"
+    }
+  ],
+  "defaultMap": "e84a311f-e124-40f6-aa25-9501652e0c2f"
+}

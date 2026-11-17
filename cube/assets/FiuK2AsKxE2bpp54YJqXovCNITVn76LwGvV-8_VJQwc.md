@@ -1,0 +1,19 @@
+- No historical development is inevitable and man knows no laws that history must obey; for that very reason one can learn from the past how to avoid repeating it (p. 56).
+- The book is the product of twice watching a similar evolution of ideas, first in the German-speaking world and then, twenty to twenty-five years later, in England and America (pp. 56-57).
+- England and the United States are in some danger of repeating Germany's fate; the danger is not immediate and present conditions are still remote from Germany's, but the road gets harder to leave the further one goes (p. 57).
+- The resemblance is not to Hitler's Germany but between the present current of ideas in the democracies and German thought during and after the First World War (p. 57).
+- The shared symptoms: the wish to keep wartime organisation for peacetime purposes, contempt for nineteenth-century liberalism, spurious realism and cynicism, fatalistic acceptance of inevitable trends (p. 57).
+- In Germany it was largely people of good will, admired in the democracies, who prepared the way for the forces that now stand for everything they detest (p. 58).
+- Fascism and naziism were not a reaction against the socialist trends of the preceding period but a necessary outcome of them (p. 58).
+- Many who sincerely hate naziism work for ideals whose realisation would lead straight to the same tyranny (p. 58).
+- The argument does not rest mainly on country parallels, which are deceptive, and it does not claim the development is inevitable (p. 58).
+- The socialism in question is not a party matter: the people whose views count in the democracies are all, in some measure, socialists (p. 59).
+- The move toward socialism happens because nearly everybody wants it; no objective facts make it inevitable (p. 59).
+- A second reason for the inquiry is the war itself: the democracies lack a clear statement of their positive ideals and so cannot answer enemy propaganda or plan the peace (pp. 59-60).
+- Both Left and Right were deceived in thinking the Nazi party served the capitalists and opposed all socialism (p. 60).
+- The theory that Germans as such are inherently vicious is untenable and discreditable; the real problem is how a particular set of ideas won over the last seventy years and why its victory brought the most vicious elements to the top (pp. 60-61).
+- Blaming German wickedness is dangerous because it becomes the excuse for imposing the very institutions that produced that wickedness (p. 61).
+- Socialist exiles and correspondents cannot see German events in perspective; the fact that socialists were the only numerically significant opposition to the Nazis shows only that practically all Germans had become socialists (p. 61).
+- The Nazi Right versus Left conflict is the kind that always arises between rival socialist factions (p. 61).
+- German refugees with semi-Fascist views are socialists several stages further along than English and American socialists, not specimens of Germanness (p. 61).
+- Prussianism helped German socialists, but it was the prevalence of socialist views, not Prussianism, that Germany shared with Italy and Russia, and National Socialism arose from the masses, not from the Prussian-tradition classes (p. 62).

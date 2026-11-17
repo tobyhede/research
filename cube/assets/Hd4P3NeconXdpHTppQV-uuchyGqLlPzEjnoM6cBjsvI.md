@@ -1,0 +1,25 @@
+- **Quotation from an opponent/authority**: Harold Nicolson on Conservative backbenchers being "socialists at heart" (p. 190; source p. 202). One remark in the Spectator carries a claim about a whole party.
+- **Historical generalization, unsupported**: Fabians' sympathy with Conservatives (p. 190); the editor supplies the supporting instances (Boer War, education, imperial preference) (p. 202).
+- **Quotation as mirror**: Keynes's 1915 review of Jaffé on the "militarisation of our industrial life" (p. 191; source p. 202). Hayek then asks rhetorically whether any passage is not mirrored in current English literature; no English text is set beside it. Hayek concedes one disanalogy: no English author has "dared openly to disparage individual happiness" (p. 191).
+- **Bare assertion**: "there is scarcely a leaf out of Hitler's book" not recommended by someone (p. 192); "hundreds of others" hold the views of the chosen authors (p. 192). The only example in the footnote is an unnamed speaker at an unnamed "recent conference" (p. 203).
+- **Assertion with an inference about refugees**: former socialists who became Nazis should be compared with those "whose conversion would not in any case have been prevented by their ancestry"; few non-Jewish Left refugees (pp. 202-203). No figures.
+- **Quotations from Carr** (pp. 193-195), sourced by the editor (pp. 203-204). See the reliability list below.
+- **Historical example**: German "political professors", citing Schnabel (p. 195; p. 204); du Bois-Reymond's 1870 "intellectual bodyguard of the House of Hohenzollern" speech (p. 204); Brady on the ease with which Nazis coordinated natural scientists (pp. 204-205). Brady is the one piece of independent testimony for the claim that natural scientists were the most compliant; the phrase "It is well known" (p. 195) outruns a single witness, and Brady himself notes that dismissed natural scientists were "primarily Jewish", which complicates "submitted more readily".
+- **Quotation from an ally**: Benda on the superstition of science competent in morality (p. 196).
+- **Quotations from Waddington** (pp. 196-197), page references supplied by the editor (pp. 205-206).
+- **Mechanism argument**: the dynamics of monopoly, vested interests, state capture and the incentives of a state that owns monopolies (pp. 198-200). This is the analytically strongest part of the chapter and carries no empirical support beyond passing references to German industrialists (p. 198) and American public utilities (p. 200).
+- **Citation**: W. Arthur Lewis on the Crofter case for the role of law and courts in monopoly (p. 206).
+- **Quotation from opponents**: Laski's "mad competitive system" and the Labour conference resolution on retaining wartime controls; "The Old World and the New Society" on a planned society being freer (pp. 201, 207). The editor prints the resolution in full (p. 207), which lets the reader see that the resolution itself asserts that "political democracy and personal liberty can be combined" with planning; Hayek does not engage that claim here.
+- **Bare assertion**: Labour's scheme is "indistinguishable" from German socialist dreams "in detail and even wording", and its catchwords are "bodily taken over from the German ideology" (p. 201). No German text is quoted for comparison.
+
+**Reliability of Hayek's quotations and citations, per the editor's notes**
+
+- Epigraph: Hayek's own source notes gave the Times date as February 24, 1940; it is February 24, 1937 (p. 202).
+- Carr, "who makes morality a function of politics": the editor could not find the phrase; the nearest is "who regard ethics as a function of politics" on another page (p. 203). So a phrase Hayek puts in quotation marks is a paraphrase.
+- Carr on society and state: Hayek omits the clause "within the national community"; the editor adds that Carr may have been reporting what the national community believed, not his own view (p. 203). This bears directly on the Schmitt comparison at p. 193, the chapter's sharpest charge.
+- Carr on autarchy: Carr wrote "promotion", Hayek printed "production" (pp. 203-204). Minor.
+- Carr's section heading is "The Moral Function of War" (singular) per the editor; Hayek gives "Functions" (pp. 195, 204). The three excerpts come from two different pages (p. 204), so the sentence at p. 195 is a composite.
+- The Hegel-and-Marx quotation at p. 193 contains Hayek's bracketed insertions "[which]" and "[whose]", and Hayek says Carr "frankly confessed himself an adherent"; the quoted words describe the school, and the adherence is Hayek's characterization (p. 193).
+- The "wrong side" charge is expressly Hayek's inference: "although he does not explicitly say so" (p. 193).
+- Benda is quoted from the English translation (p. 205). Hayek's note spells the physiologist "du Bois-Raymond" and then "du Bois-Reymond" (p. 204).
+- Waddington's "best authorities": the editor identifies them as Time magazine surveys, a Gollancz book and Boyd Orr's diet survey (pp. 205-206), which a reader may or may not regard as "political tracts of questionable scientific standing" (p. 197).

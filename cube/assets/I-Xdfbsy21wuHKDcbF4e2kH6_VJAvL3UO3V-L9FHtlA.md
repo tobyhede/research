@@ -1,0 +1,13 @@
+- The Rule of Law "can never be perfectly achieved"; the aim is to reduce executive discretion "as much as possible" (p. 109).
+- "Every law restricts individual freedom to some extent" (p. 109).
+- The formal/substantive distinction is "most difficult to draw precisely in practice" (p. 110), and at the border "the distinction, however clear in principle, becomes blurred in practice" (p. 115).
+- The Rule of Law "produces economic inequality" (p. 113), and giving people the same objective opportunities does not give them the same subjective chance (p. 113).
+- A rule applied without exception may be felt "to be unjust" in a particular instance (p. 114).
+- **State activity explicitly accepted**: "every state must act and every action of the state interferes with something or other" (p. 114); controlling weights and measures and preventing fraud and deception (p. 114); suppressing violence, with strike pickets as the example of culpable inaction (p. 114); "building regulations or factory laws", which "may be wise or unwise" but do not conflict with liberal principles if permanent and not used to favour or harm particular people (p. 115).
+- He admits such regulations have known short-run effects on particular people, and says only that these "are in general not (or at least ought not to be) the guiding consideration" (p. 115).
+- "Laissez faire" is rejected as a description of liberal principles (p. 114).
+- A planned society need not be lawless or illegal; its acts may all be legal (p. 115).
+- Plenary powers "may be inevitable in wartime" (p. 118).
+- The constitutional form in which limits on legislation are held (bill of rights, code, tradition) "matters comparatively little" (p. 116).
+- The economic argument is "only briefly" stated (p. 111).
+- Carl Schmitt's contrast between the Rechtsstaat and the "just state" is "not altogether false" (Hayek's note 5, p. 119).

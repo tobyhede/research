@@ -1,0 +1,11 @@
+- Fulfils ch. 1's programme: the framework-building liberalism of pp. 67-68 is here given content (pp. 83-85), and 'conscious direction' (p. 69) becomes the definition of planning (p. 82).
+- Narrows the 'socialism' of the Introduction (p. 59) and ch. 2 (p. 74). My observation: the Introduction's claim that all opinion-formers are socialists (p. 59) and ch. 2's claim that democratic socialism is unachievable (p. 78) are only supported by later chapters if 'socialism' there means central direction of all economic activity under a single plan (p. 82). A socialist who seeks equality through taxation and social services within competition falls outside the definition, and by p. 84 inside what Hayek accepts.
+- Scope of the target: the definition says 'all economic activity according to a single plan' (p. 82), a total system. The no-middle-way argument (pp. 86-87) is what extends the critique from the total system to partial measures. If that argument fails, the book's later chapters apply only to comprehensive planning. This is the main load-bearing joint for synthesis.
+- The means-neutrality premise (p. 81) underwrites the use of German and Russian evidence in chs. 10-13.
+- The demarcation test, general equal rules versus control of particular prices and quantities (pp. 83-84), anticipates the Rule of Law distinction of ch. 6 between formal rules and substantive commands.
+- 'Extensive system of social services' (p. 84) should be read with ch. 9 (Security and Freedom) for how much Hayek actually concedes.
+- The corporatist or syndicalist stage (p. 86) links to ch. 4's account of monopoly as a product of policy (pp. 89-91) and to ch. 13.
+- The role of prices as registers of changing circumstances (pp. 83-84) is developed in ch. 4 (pp. 91-92).
+- Tension with the anti-inevitability stance of the Introduction (p. 56) (p. 58): 'inevitable first result' (p. 86) and 'must become progressively more complete' (p. 86) are conditional inevitabilities (given continued hostility to competition).
+- 'Coercion' is used for the state's interference and for authority's allocation (p. 83) but market outcomes are treated as non-coercive by definition; this rests on the ch. 2 definition of freedom (p. 74).
+- The individualism of the chapter title is never defined here; the reader must carry the definition from p. 65.

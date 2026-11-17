@@ -1,0 +1,10 @@
+- The ideas were a minority strand before 1914 and are easily exaggerated (p. 178).
+- Defeat, suffering and nationalism are admitted as partial causes ("not merely") (p. 178).
+- The authors were powerful writers, not cranks (p. 178).
+- Marxism contained liberal elements, internationalism and democracy (pp. 178-179); the nationalist element receded while Marxism directed the labor movement (p. 179).
+- Sombart's outburst was at the time too much even for most Germans (p. 180).
+- Plenge at first hoped to reconcile liberty and organization (p. 181).
+- Rathenau would have shuddered had he realized the consequences of his economics (p. 182).
+- Lensch's historical account of Bismarckian protection and cartelization is interesting and in many respects accurate (pp. 182-183); his remark on the mutual transformation of state and Social Democracy contains much truth (p. 184).
+- Opinions may differ on how far Spengler can be regarded as a socialist (p. 184).
+- Hayek's own note concedes that Kolnai's study covers these thinkers only after the ideas had been taken over by nationalists (p. 188, note 27), which is to say the standard account locates them on the nationalist Right.

@@ -1,0 +1,93 @@
+{
+  "version": 1,
+  "id": "6c239b6c-dca0-468f-8af9-b7177d0b456d",
+  "title": "Capital ch09 · Inequality of Labor Income",
+  "maps": [
+    {
+      "id": "5ef783da-ba24-46b4-a16c-f9fdad730f81",
+      "title": "Note",
+      "kind": "positioned",
+      "positions": {
+        "ddc66f05-c918-462d-a472-8c8652ba982a": {
+          "x": 0,
+          "y": 0,
+          "size": {
+            "width": 560,
+            "height": 420
+          },
+          "content": {
+            "open": true
+          }
+        },
+        "c0729a1e-f4d2-4803-889b-9c2d89f25f44": {
+          "x": 640,
+          "y": 0
+        },
+        "bb76c010-1492-4824-8fed-d373e062c1c3": {
+          "x": 980,
+          "y": 0
+        },
+        "e36bef08-7719-428f-a4bc-1709c23e2936": {
+          "x": 1320,
+          "y": 0
+        },
+        "3e593d89-bff3-4a66-8dfd-be5c9a9aca13": {
+          "x": 640,
+          "y": 220
+        },
+        "4d9c56f6-abee-4ab9-9cb9-a973e4059024": {
+          "x": 980,
+          "y": 220
+        },
+        "6d529467-9c09-4521-a4df-50e4ec9e40c0": {
+          "x": 1320,
+          "y": 220
+        },
+        "1b1a0f27-c32c-4498-b92d-49ff1488d7e7": {
+          "x": 640,
+          "y": 440
+        }
+      },
+      "graphs": [
+        {
+          "id": "10627081-db29-457c-9631-339045e92fad",
+          "title": "Analysis",
+          "color": "#4e79a7",
+          "headShape": "arrow",
+          "edges": [
+            {
+              "from": "ddc66f05-c918-462d-a472-8c8652ba982a",
+              "to": "c0729a1e-f4d2-4803-889b-9c2d89f25f44"
+            },
+            {
+              "from": "c0729a1e-f4d2-4803-889b-9c2d89f25f44",
+              "to": "bb76c010-1492-4824-8fed-d373e062c1c3"
+            },
+            {
+              "from": "bb76c010-1492-4824-8fed-d373e062c1c3",
+              "to": "e36bef08-7719-428f-a4bc-1709c23e2936"
+            },
+            {
+              "from": "ddc66f05-c918-462d-a472-8c8652ba982a",
+              "to": "3e593d89-bff3-4a66-8dfd-be5c9a9aca13"
+            },
+            {
+              "from": "e36bef08-7719-428f-a4bc-1709c23e2936",
+              "to": "4d9c56f6-abee-4ab9-9cb9-a973e4059024"
+            },
+            {
+              "from": "c0729a1e-f4d2-4803-889b-9c2d89f25f44",
+              "to": "6d529467-9c09-4521-a4df-50e4ec9e40c0"
+            },
+            {
+              "from": "6d529467-9c09-4521-a4df-50e4ec9e40c0",
+              "to": "1b1a0f27-c32c-4498-b92d-49ff1488d7e7"
+            }
+          ]
+        }
+      ],
+      "activeGraph": "10627081-db29-457c-9631-339045e92fad"
+    }
+  ],
+  "defaultMap": "5ef783da-ba24-46b4-a16c-f9fdad730f81"
+}

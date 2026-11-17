@@ -1,0 +1,6 @@
+- What evidence shows no skill discontinuity between "the 9 percent" and "the 1 percent" (p. 228)? The claim is central to rejecting skill-biased change but is not sourced in the chapter or notes.
+- Can firm size, stock-market valuation and the global market for executives explain the US/continental difference, or does the institutional story survive controls for them? The chapter grants the size point (p. 242) without testing it.
+- If norms "only shift the difficulty" (p. 241), what would count as evidence that norms changed first and pay followed, rather than the reverse?
+- How does supermanager income become inherited wealth, and on what timescale? This is the bridge needed to fold the US labor-income story back into the capital-centred thesis (ch10–ch12).
+- Does the top-tax-rate mechanism in ch14 rest on the same pay-for-luck evidence, or on separate cross-country regressions? Can it separate bargaining from labor-supply responses?
+- How reliable are the China and India series given the data deterioration Piketty himself documents (pp. 237-238, notes 31 and 33)?

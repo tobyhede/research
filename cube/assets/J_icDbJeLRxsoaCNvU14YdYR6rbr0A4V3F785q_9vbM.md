@@ -1,0 +1,18 @@
+| Term | First used | Author's meaning |
+| --- | --- | --- |
+| Rule of Law | p. 109 | Government "in all its actions is bound by rules fixed and announced beforehand" (p. 109), so individuals can foresee how coercive power will be used and plan accordingly. Later tightened: a limit on the *scope of legislation* itself, restricting it to formal law (p. 116). Not the same as legality: an act can be fully legal and still violate it (pp. 115-116). Hayek's note 2 says he uses the "wider and older" meaning, not the narrower technical English sense that grew out of Dicey (p. 118). |
+| Arbitrary government | p. 109 | The opposite of the Rule of Law: coercive power used ad hoc, by discretion, not determined by pre-established rules. Central direction of economic activity is "a particular case" of it (p. 109). |
+| Formal rules / formal law | pp. 109-110 | General rules, set in advance for long periods, defined "without reference to time and place or particular people", instrumental to whatever ends individuals choose. The decisive criterion: we do not know their concrete effects or whom they will help (p. 110). Likened to the Highway Code and to signposts (p. 110). |
+| Substantive rules | p. 110 | Rules or orders that aim at particular ends or particular people and decide whose interests count for more; like "ordering people where to go" (p. 110). Hayek admits the line is "most difficult to draw precisely in practice" (p. 110). |
+| Planning (of the collectivist kind) | p. 109 | Government directing "the use of the means of production to particular ends" (p. 109); deciding how many pigs, which mines, what price for shoes (p. 110). Contrasted with fixing a permanent framework of laws. |
+| Impartiality | p. 111 | Having "no answer to certain questions"; possible for a legislator only because the effects of general rules on particular people cannot be foreseen. |
+| "Moral" state | p. 112 | A state that imposes its views on all moral questions on its members; in this sense the Nazi state is "moral" and the liberal state is not. A deliberately non-evaluative use. |
+| Fairness / reasonableness | pp. 112-113 | Vague formulas that cannot decide between competing claims once gains and losses are both visible; their spread in legislation marks the decline of the Rule of Law. |
+| Rule of status | p. 113 | Law fixing how well off particular people shall be and what they may do; planning is a return to it. The Rule of Law, more than contract, is its true opposite. |
+| Formal equality (equality before the law) | p. 113 | Absence of legal privileges for people designated by authority; the same rules for all. |
+| Substantive / material equality | p. 113 | Equal results or equal subjective chances for different people; requires treating people differently and so conflicts with formal equality. |
+| Distributive justice | p. 113 | A "substantive ideal" of who should have what; any policy "aiming directly" at it destroys the Rule of Law. |
+| Privilege | p. 114 | A right reserved to particular people designated by authority (land reserved to nobility; licences to produce or sell). Property that all can acquire under the same rules is not privilege. |
+| Laissez faire | p. 114 | "A highly ambiguous and misleading description" of liberal policy. The real question is not action versus inaction but whether state action is foreseeable. |
+| Rights of man / individual rights | p. 116 | What recognised limits on legislation amount to: "the inalienable right of the individual, inviolable rights of man". |
+| Delegation | p. 116 | Reused from ch05: under planning, law must give boards power to decide "on principles which cannot be stated in generic form". |

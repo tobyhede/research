@@ -1,0 +1,26 @@
+- International planning "would avert some of the obvious dangers raised by planning on a national scale" (p. 222).
+- People will make sacrifices for fellow nationals, including so that "nobody should sink below a certain level" (p. 222); the national minimum is thus treated as morally feasible within a nation.
+- English standards of decency in international affairs are "as high, if not higher" than elsewhere (p. 223).
+- There is "urgent need for amelioration of economic conditions" in the Danube region, on humanitarian, economic and peace grounds, and this needs a new political setting (p. 225).
+- "By all means let us assist the poorer people as much as we can in their own efforts" (p. 226). Assistance accepted; direction rejected.
+- The opponents are right that states cannot regain "unfettered sovereignty in the economic sphere" (p. 228).
+- **International authority accepted** (pp. 228-232), with conditions:
+  - a power to restrain nations from action harmful to neighbours, with a set of rules defining what a state may do and an authority able to enforce them (pp. 228-229);
+  - powers "mainly of a negative kind", above all to say "No" to restrictive measures (p. 229);
+  - a political, not an economic, authority, "not mixed up in the economic game" (p. 229);
+  - only the "minimum of powers" needed for peace, those of the laissez-faire state (p. 229);
+  - "strictly circumscribed by the Rule of Law" (p. 229);
+  - federal in form, with "strictly defined powers" transferred and all else left to member countries (p. 229);
+  - "very powerful" for enforcing the common law, with a constitution that prevents tyranny at both levels (p. 231);
+  - the great powers must first submit to the rules themselves (p. 231);
+  - it should also limit the powers of the state over the individual (p. 231);
+  - states renounce "a clearly defined part of political sovereignty" (p. 228).
+- Federation is not "an obstacle to all planning"; it leaves "the way free for all desirable planning" and international planning "where true agreement can be reached" (p. 230).
+- Fusing countries into one centralized state is "more impracticable" and of doubtful desirability (p. 229).
+- Many claims made for "Federal Union" were "ill-considered and often extremely silly" (p. 229).
+- Nineteenth-century liberals "may not have been fully aware" how essential federation was to their principles (p. 230).
+- Limiting power "occasionally may also prevent its use for desirable purposes" (p. 231).
+- Applying the federal principle is "a task of extreme difficulty" (p. 232).
+- There is "an imperative need" for a comprehensive world body, "some new League of Nations" (p. 232).
+- Regional federations leave war between blocs possible (p. 232).
+- War cannot be made impossible; only the risk of friction can be reduced (pp. 232-233).

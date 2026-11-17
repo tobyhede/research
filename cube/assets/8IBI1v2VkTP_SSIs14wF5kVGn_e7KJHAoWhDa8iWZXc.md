@@ -1,0 +1,17 @@
+- Socialism displaced liberalism among progressives not because the liberal warnings were forgotten but because people were persuaded of the opposite of what the liberals predicted (p. 74).
+- Socialism in its beginnings was frankly authoritarian; its French founders held that their ideas needed a strong dictatorial government and regarded freedom of thought as the root-evil of nineteenth-century society (p. 74).
+- Only under the democratic currents before 1848 did socialism ally itself with freedom (p. 74).
+- Tocqueville saw that democracy, an individualist institution, is in irreconcilable conflict with socialism (p. 74).
+- To allay suspicion and harness the craving for freedom, socialism promised a 'new freedom', economic freedom, without which political freedom was said to be not worth having (p. 74).
+- The promise works by a change in the meaning of the word: from freedom from coercion by other men to freedom from necessity (pp. 74-75).
+- Freedom in the new sense is another name for power or wealth; the demand for it is the old demand for equal distribution of wealth under a new name (p. 75).
+- The shared word let socialists claim the liberals' name; few noticed the difference in sense or asked whether the two freedoms could be combined (p. 75).
+- The socialist belief that socialism brings freedom is genuine and sincere (p. 75).
+- The promise of more freedom lured liberals along the socialist road and blinded them to the conflict between the basic principles of socialism and liberalism (p. 75).
+- Observers who expected otherwise have been struck by the similarity of conditions under fascism and communism, and have begun to ask whether both tyrannies come from the same tendencies (p. 75).
+- Many Nazi and Fascist leaders, from Mussolini down, began as socialists; conversion between communist and Nazi was easy and well known in Germany (pp. 76-77).
+- Communists and Nazis fought each other most because they competed for the same type of mind; for both the real enemy is the old-type liberal, while each sees the other, and the socialist, as a potential recruit (p. 77).
+- Liberalism was already dead in Germany when Hitler came to power, and socialism had killed it (p. 77).
+- Most socialists in the democracies still believe profoundly in the liberal ideal of freedom and would recoil if convinced their programme would destroy it (pp. 77-78).
+- Democratic socialism is not only unachievable; striving for it produces something so different that few who wish it would accept the consequences (p. 78).
+- The reasons why the development is not accidental are not given in this chapter; they need a full examination of the transformation (p. 78).

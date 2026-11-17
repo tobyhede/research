@@ -1,0 +1,36 @@
+- The catch-up of emerging countries is under way and is not primarily due to rich-country investment; the twenty-first century may return to a low-growth regime (p. 55).
+- Growth must be split into population growth and per capita growth; around 2013, world growth above 3% meant per capita growth of barely 2% because population still grew about 1% (pp. 55-56).
+- From 1700 to 2012 world output grew 1.6% a year, half from population (0.8%) and half from output per head (0.8%) (p. 56).
+- Before 1700 growth was below 0.1% a year in both components; whatever the uncertainty, it cannot have exceeded 0.1–0.2% without implying an implausibly small population in year 0 or living standards below subsistence (pp. 56-57).
+- Growth above 1–1.5% a year cannot be sustained indefinitely without vertiginous population increases (p. 57).
+- 1% a year looks like stagnation year to year but transforms society over a generation (p. 57).
+- The central thesis of the book is that a small gap between r and g can, over time, powerfully destabilise the structure of inequality (p. 58).
+- World population growth went from about 0.4% (eighteenth century) and 0.6% (nineteenth) to 1.4% in the twentieth, with a record 1.9% in 1950–1970 (pp. 58-59). The UN central forecast has it falling to 0.4% by the 2030s and 0.1% in the 2070s (p. 59).
+- Population growth after 2050 will come entirely from Africa; Europe and Asia will likely shrink, which would be unprecedented in peacetime (pp. 59-60).
+- Fertility decisions are largely unpredictable; the UN forecast is only a "central scenario" (pp. 60-61), though for Europe and Asia over the next decades it is "the most reasonable forecast" (p. 62).
+- Strong population growth weakens inherited wealth, as with immigration in America; very fast per capita growth does the same (pp. 62-63).
+- A stagnant or falling population, or a stagnant economy, raises the influence of capital from past generations; with low growth, r is plausibly well above g (p. 63).
+- Inheritance-dominated societies "can arise and subsist only in low-growth regimes"; inherited wealth will make a comeback, already visible in Europe (p. 63).
+- Growth also raises social mobility by creating new occupations, but this is "less important and more ambiguous" and need not reduce income inequality (pp. 63-64).
+- The idea that modern growth rewards natural talent has long been used to justify inequality (Dunoyer, 1845), often without checking facts (p. 64).
+- World per capita income rose from under 70 euros a month in 1700 to 760 in 2012, about tenfold; in rich countries from about 100 to over 2,500, more than twentyfold (pp. 64-65, 70).
+- Per capita growth was barely 0.1% in the eighteenth century, 0.9% in the nineteenth and 1.6% in the twentieth worldwide; Western Europe 0.2%, 1.1% and 1.9% (p. 65).
+- Growth in purchasing power is mainly a change in the structure of consumption, not "more of the same"; long-run average price indices mislead (pp. 65-66).
+- Purchasing power rose sixfold for carrots (France, 1900–2010), tenfold for oranges, twentyfold for bananas, less than fourfold for bread or meat, fortyfold for bicycles (1890–1970), and not at all for haircuts (pp. 66-68).
+- A single index of living standards across centuries is "futile and reductive", but growth is real; generational growth rates (3%, 35%, 143% per generation for 0.1%, 1%, 3% a year) keep their meaning (pp. 67-68).
+- Services are now 70–80% of employment in rich countries and too diverse to be a meaningful category: health and education about 20%, retail/hotels/leisure about 20%, business, financial, real-estate and transport services about 20%, government and security nearly 10% (pp. 68-69).
+- National accounts value free public services at cost, which is consistent but has biases: private insurance that costs more for the same quality inflates GDP, and privatisation would raise GDP artificially because public capital earns no imputed return (pp. 69-70).
+- Past growth rarely exceeded 1–1.5% a year; faster growth (3–4%) only came with catch-up (p. 70). Between 1990 and 2012 per capita growth was 1.6% in Western Europe, 1.4% in North America and 0.7% in Japan (pp. 70-71).
+- Piketty refuses to predict growth but assumes 1.2% per capita for rich countries, more optimistic than Robert Gordon's projection of below 0.5% in 2050–2100; even this requires new energy sources (p. 71).
+- 1% per capita growth is fast: over thirty years it changes lifestyles and employment, and implies a quarter to a third of today's output and jobs did not exist thirty years ago (pp. 71-72).
+- Growth can create new fortunes but makes inherited wealth less decisive; growth of 1% cannot meet democratic and meritocratic hopes, which need specific institutions (p. 72).
+- The Trente Glorieuses were catch-up after Europe fell behind in 1914–1945; North America never had them, growing 1.5–2% a year throughout 1820–2012 (pp. 72-73).
+- Neither post-1945 state intervention nor post-1980 liberalisation deserves praise or blame for growth; catch-up would have happened anyway, and liberalisation "neither increased growth nor decreased it" (p. 74).
+- Under the median scenario, global per capita growth exceeds 2.5% in 2012–2050, then falls toward 1.2%; global output growth falls to about 1.5% in the second half of the century (pp. 75-76).
+- The median scenario is optimistic in two ways (continued frontier productivity growth and unbroken convergence to 2050); "the two bell curves of global growth are in large part already determined" (p. 76).
+- Inflation matters for the wealth distribution: it eliminated the post-war public debt, redistributed chaotically in the twentieth century, and its absence underpinned the nineteenth-century wealth society (p. 77).
+- Before 1914 inflation was zero or close to it (at most 0.2–0.3% a year in 1700–1820 and 1820–1913); the assignats were a short exception (pp. 77-78).
+- The franc germinal kept the old silver parity; the same parity held 1726–1914; a pound was worth 20–25 francs for two centuries (pp. 77-78).
+- Stable money and slow growth gave novels fixed monetary markers: Austen's characters needed 500–1,000 pounds a year (20–30 times the average of about 30 pounds), Balzac's 10–20,000 francs (vs an average of 400–500) (pp. 79-80).
+- World War I ended this; inflation in 1913–1950 was over 13% a year in France (prices ×100), 17% in Germany (×300), about 3% in Britain and the US (×3) (pp. 80-81).
+- Even 2% inflation is very different from zero; specific sums of money vanished from literature after 1914–1945 (pp. 81-82).

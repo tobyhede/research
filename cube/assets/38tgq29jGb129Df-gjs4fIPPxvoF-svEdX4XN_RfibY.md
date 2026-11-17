@@ -1,0 +1,6 @@
+- What sources underlie Tables 7.1–7.3 for each society? The text gives only the France 2010–2011 and US Federal Reserve figures; the rest is in the online appendix. The table contents are not reproduced in this source file and should be checked in a print edition.
+- Is wealth concentration really "nearly as great within each age cohort" (p. 177)? This is the decisive evidence against the life-cycle explanation and is sourced only to the online appendix (endnote 12, p. 455).
+- How does the US 2030 projection (top decile about 60 percent of income, p. 191) get made? It appears to be a trend extrapolation; check ch08–ch09.
+- Does "justification rather than magnitude" (p. 191) give Piketty a normative standard, or only a theory of what is politically sustainable? Track how Part Four uses it.
+- If income and wealth hierarchies differ and are only positively correlated (pp. 182-183), how is the correlation measured historically? The claim of negative correlation in traditional societies (p. 182) is asserted without data.
+- What explains the rise of the patrimonial middle class (p. 189: "essential to understand why it occurred")? ch10 should answer this; note whether the answer is war shocks, taxation, housing prices, or all three.

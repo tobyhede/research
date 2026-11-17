@@ -1,0 +1,7 @@
+- Does A1 require comprehensive planning, or would it apply to partial planning and wartime mobilization in democracies? Hayek's wartime analogy (p. 173) suggests degrees; synthesis should ask where he thinks the threshold lies.
+- How well does the prediction of control over abstract science hold up historically (Lysenko, Deutsche Physik) versus counter-cases (Soviet mathematics and physics flourishing under planning)? Hayek's evidence is selective quotation.
+- Is the charge against Mannheim fair to Mannheim's actual argument? Later synthesis comparing books should check Man and Society directly.
+- Hayek's own book redefines contested words (liberalism, planning, socialism, freedom). By what criterion is his usage restoration and his opponents' usage perversion? He appeals to what Europe always understood (via Drucker, p. 177, note 7) and to "liberty as we understand it" (p. 171), without a criterion.
+- The concluding epistemic argument (p. 176): is it independent of the rest of the book? If reason's growth is unplannable, that is an argument against any enforced orthodoxy, including a liberal one. Does Hayek accept that implication elsewhere?
+- What is the status of "the standing of those proclaiming it" as a warrant for belief (p. 174), and how does it differ from authority laying down truth?
+- Editor's corrections accumulate in this chapter (Carr epigraph wording, Mannheim page, Drucker pages, one unattributable quotation). Worth noting for the overall assessment of Hayek's handling of sources.

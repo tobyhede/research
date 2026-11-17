@@ -1,0 +1,93 @@
+{
+  "version": 1,
+  "id": "8063f896-a9b4-402e-bc91-81525e8dc4cc",
+  "title": "Serfdom ch16 · Conclusion and Bibliographical Note",
+  "maps": [
+    {
+      "id": "84c4de46-be59-4e8e-a61b-19ec8e3678a5",
+      "title": "Note",
+      "kind": "positioned",
+      "positions": {
+        "2d1687de-0132-483b-a6af-305dec5eb998": {
+          "x": 0,
+          "y": 0,
+          "size": {
+            "width": 560,
+            "height": 420
+          },
+          "content": {
+            "open": true
+          }
+        },
+        "914ad25b-0335-4c3b-8184-da61cf91a203": {
+          "x": 640,
+          "y": 0
+        },
+        "e3cf729b-ec49-4549-9da1-2cec7bc998fe": {
+          "x": 980,
+          "y": 0
+        },
+        "e3dd3f55-644e-4824-86c6-16832c90d5b8": {
+          "x": 1320,
+          "y": 0
+        },
+        "3d344627-13e4-4ee4-915e-da35dc87d3ba": {
+          "x": 640,
+          "y": 220
+        },
+        "3fe1b364-2b1f-47ff-a91b-d0d055f9a48e": {
+          "x": 980,
+          "y": 220
+        },
+        "493fefa0-aedb-4f0b-8148-dbc72f2302f9": {
+          "x": 1320,
+          "y": 220
+        },
+        "881aa6fe-9286-436d-bb75-265557f1b27a": {
+          "x": 640,
+          "y": 440
+        }
+      },
+      "graphs": [
+        {
+          "id": "0548036c-4eb0-493b-8887-309b6ba0e984",
+          "title": "Analysis",
+          "color": "#4e79a7",
+          "headShape": "arrow",
+          "edges": [
+            {
+              "from": "2d1687de-0132-483b-a6af-305dec5eb998",
+              "to": "914ad25b-0335-4c3b-8184-da61cf91a203"
+            },
+            {
+              "from": "914ad25b-0335-4c3b-8184-da61cf91a203",
+              "to": "e3cf729b-ec49-4549-9da1-2cec7bc998fe"
+            },
+            {
+              "from": "e3cf729b-ec49-4549-9da1-2cec7bc998fe",
+              "to": "e3dd3f55-644e-4824-86c6-16832c90d5b8"
+            },
+            {
+              "from": "2d1687de-0132-483b-a6af-305dec5eb998",
+              "to": "3d344627-13e4-4ee4-915e-da35dc87d3ba"
+            },
+            {
+              "from": "e3dd3f55-644e-4824-86c6-16832c90d5b8",
+              "to": "3fe1b364-2b1f-47ff-a91b-d0d055f9a48e"
+            },
+            {
+              "from": "914ad25b-0335-4c3b-8184-da61cf91a203",
+              "to": "493fefa0-aedb-4f0b-8148-dbc72f2302f9"
+            },
+            {
+              "from": "493fefa0-aedb-4f0b-8148-dbc72f2302f9",
+              "to": "881aa6fe-9286-436d-bb75-265557f1b27a"
+            }
+          ]
+        }
+      ],
+      "activeGraph": "0548036c-4eb0-493b-8887-309b6ba0e984"
+    }
+  ],
+  "defaultMap": "84c4de46-be59-4e8e-a61b-19ec8e3678a5"
+}

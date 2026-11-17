@@ -1,0 +1,17 @@
+| Term | First used | Author's meaning |
+| --- | --- | --- |
+| Primary income | p. 197 | Income before taxes and transfers. All of Part Three measures inequality of primary income; redistribution is left to Part Four (p. 197). |
+| Upper decile / top centile / top thousandth shares | pp. 196-197 | Share of *national income* (from national accounts, as denominator) received by the top 10, 1 or 0.1 percent of tax units (from income-tax returns, as numerator). Wage-share series use total wages as denominator (p. 197). |
+| "The 9 percent" | p. 201 | The upper decile excluding the top centile (P90–99). Lives mainly on labor income: about 80–90 percent at P90–95, 70–80 percent at P95–99 (p. 201); pay "usually 2 to 3 times the average wage" (p. 201). A typical labor/capital split of 80–20, mostly rent or imputed rent (p. 203). |
+| "The 1 percent" | p. 203 | The top centile, in which capital income becomes progressively more important as one climbs, "more or less rapidly and massively, depending on the period" (p. 203). |
+| Two worlds (of the top decile) | p. 203 | The claim that the top decile "always encompasses" these two different groups, with a porous but systematic boundary (p. 203). Gives the chapter its title. |
+| Mixed income | pp. 199, 202 | Income of non-wage (self-employed) workers, combining pay for labor and return on business capital; doctors, lawyers, restaurateurs (p. 202). Shown separately from labor and capital in Figures 8.3–8.4. |
+| Rentier | p. 200 | "people who own enough capital to live on the annual income from their wealth" (p. 200). |
+| Society of rentiers / society of managers | p. 200 | A society whose top centile is dominated by rentiers versus one whose top, including the top centile, consists mainly of highly paid people living on labor income (p. 200). Piketty immediately offers the "more correct" restatement: from "superrentiers" to "a less extreme form of rentier society" (p. 200). |
+| Supermanagers | p. 212 | "top executives of large firms who have managed to obtain extremely high, historically unprecedented compensation packages for their labor" (p. 219). Contrasted with "superstars" (athletes, actors, artists) (p. 219). |
+| Supersalaries | p. 217 | Section heading for the "extremely high remunerations at the summit of the wage hierarchy, particularly among top managers of large firms" (p. 217). |
+| Capital gains | p. 205 | Realised gains on asset sales, treated as capital income. Excluded from the French series, well measured in US tax data; US series are shown with and without them (p. 205). Stock options are counted as *wages* at exercise; any later gain is a capital gain (p. 220, and note 44). |
+| Procyclical inequality | p. 209 | Inequality that moves with the business cycle: profit share and top pay rise in booms, fall in slumps; war is an extreme slump (p. 209). |
+| Clash of temporalities | p. 207 | Section heading: the need to keep long-run (30–40+ years) and short/medium-run (10–15 years) movements in view at once (pp. 207-209). |
+| WTID | p. 204 | World Top Incomes Database: the collaborative tax-based series behind the figures. Uncorrected for under-declared capital income (p. 204). |
+| Cohabitation (in the upper centile) | p. 218 | The top centile mixes very high capital incomes and very high labor incomes; "the latter do not supplant the former" (p. 219). Borrowed from Wolff and Zacharias (p. 218, note 39). |

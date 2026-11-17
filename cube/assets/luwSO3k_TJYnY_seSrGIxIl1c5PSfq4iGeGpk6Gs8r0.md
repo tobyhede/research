@@ -1,0 +1,9 @@
+- Direction of dependence between freedoms (my observation): on p. 65 economic freedom is the condition of personal and political freedom; on p. 66 economic freedom arose as a by-product of political freedom. The two can be reconciled as historical origin versus continuing condition, but Hayek does not reconcile them, and the causal claim that carries the book (lose economic freedom, lose the rest) is the p. 65 one. Tested in ch. 7.
+- 'Freedom' is declared too worn to use and replaced by 'tolerance' (p. 65); ch. 2 then makes the definition of freedom the central issue (pp. 74-75). The individualism of p. 65 is restated in ch. 3 as respect for individual ends within a framework.
+- The framework-versus-laissez-faire distinction (pp. 67-68) is the seed of ch. 3's list of accepted state activity (pp. 83-85). The gardener image (p. 68) should be compared with the 'planning for competition' formula at p. 87.
+- 'Conscious direction to deliberately chosen goals' (p. 69) is the proto-definition of planning made precise at p. 82.
+- The engineering habit of mind (p. 69) returns in ch. 4 as the technical specialist's idealism (pp. 94-96).
+- The German-provenance thesis (pp. 70-71) continues the Introduction (pp. 57-58) (pp. 61-62) and is the frame for ch. 12.
+- Mannheim (p. 70) is flagged as a recurring target ('more than once').
+- Tension with the Introduction: there the democracies are 'still so remote' from German conditions (p. 57); here England 'transformed its economic system beyond recognition' in 1931-39 (p. 71). Synthesis should note that Hayek treats 1930s British protection and cartelisation as already a decisive departure.
+- The 'success of liberalism caused its decline' thesis (pp. 68-69) implies the decline had no good reasons; yet Hayek concedes real 'dark spots' (p. 67) and privileges defended in liberal language (p. 69). How much of the critique of nineteenth-century liberalism does he grant?

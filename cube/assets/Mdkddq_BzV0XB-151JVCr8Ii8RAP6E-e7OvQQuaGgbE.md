@@ -1,0 +1,39 @@
+- The abandonment of nineteenth-century liberalism has cost most in international relations, where the retreat began (pp. 220-221).
+- Independent national planning is harmful in aggregate even economically and produces international friction; there is little hope of peace while every country may adopt whatever measures suit its immediate interest (p. 221).
+- National planning makes economic relations into relations between nations as trading bodies and so into sources of friction and envy between whole nations (p. 221).
+- Substituting negotiation between states for competition replaces a metaphorical struggle with a contest of force between armed states subject to no law; such transactions "must end in clashes of power" (p. 221).
+- If existing trends continue, victory over National Socialism will produce "a world of many national socialisms" (p. 221).
+- International planning avoids some dangers of national planning but creates greater ones (p. 222).
+- As the scale of planning grows, agreement on the order of ends decreases and reliance on force grows (p. 222).
+- People will sacrifice for fellow nationals whose ways are familiar; no common ideals of distributive justice exist across even western Europe (p. 222).
+- Most people fail to see the difficulty because they assume they will do the deciding for others (pp. 222-223).
+- Planning a vast area of many peoples by democratic procedure is impossible; international planning "cannot be anything but a naked rule of force" (p. 223).
+- German brutality toward smaller peoples is not simply special wickedness; "it is the nature of the task they have assumed which makes these things inevitable" (p. 223).
+- Even an unselfish dominant power would be committed to force; and unselfishness is unlikely, as English proposals to shape European reconstruction to British industry show (pp. 223-224).
+- It is a delusion that working-class solidarity would overcome international conflicts of interest; under world planning class strife would become strife between the working classes of different countries (p. 224).
+- Minimum-wage protection demanded by richer workers deprives poor-country workers of their only means of improvement (p. 224).
+- In a planned international system rich nations would be hated and envied far more than in a free economy (p. 224).
+- "Planning to equalize standards of life" (e.g. a TVA for the Danube Basin) means fixing an order of priority among peoples' claims, for which no basis exists; in practice the large nations would decide, and earn common hatred (pp. 224-226).
+- Taking on such moral responsibility by force puts one "in a position in which it becomes impossible to act morally" and corrupts the victors (p. 226).
+- An international authority can be just and useful if it merely keeps order and creates conditions for peoples to develop their own lives (p. 226).
+- Conferring "merely" specific economic powers on international bodies does not escape the difficulty: economic planning is not a technical task; control of an essential commodity or service is one of the most far-reaching powers; autonomous international monopolies would be "the worst of all conceivable rackets" (pp. 226-227).
+- A raw-material controller would be master of the fate of industries and countries (p. 227).
+- Nations may abide by formal rules they have agreed, but "will never submit" to direction by international planning or to having the rank of their needs fixed by majority vote (pp. 227-228).
+- The "realists" who favour such schemes expect great powers to use "international" authorities to impose their will on small nations; this is the only condition under which international planning is practicable (p. 228).
+- For small states this means more complete subjection than renouncing a defined part of political sovereignty (p. 228).
+- Advocates of a centrally directed New Order for Europe, Carr foremost, disregard the rights of small nations (p. 228).
+- No order or peace is possible if states "regain unfettered sovereignty in the economic sphere" (p. 228).
+- What is needed is a power to restrain nations from harming neighbours: rules defining what a state may do and an authority to enforce them; its powers are "mainly of a negative kind" (pp. 228-229).
+- The need is for an international political authority, not economic authorities; the powers to devolve are the minimum needed to keep peace, "essentially the powers of the ultra-liberal 'laissez faire' state", strictly bound by the Rule of Law (p. 229).
+- The need for such authority grows as states become economic actors (p. 229).
+- Federation is the only form of association of peoples that creates international order without undue strain on their desire for independence, and the only way international law can become real (pp. 229-230).
+- Federal division of power limits both the whole and the member states; many fashionable kinds of planning would become impossible, but desirable planning would remain free (p. 230).
+- Within a federation, centralization within states may be reversed and powers devolved to local authorities (p. 230).
+- Federation was the ideal of almost all nineteenth-century liberals (p. 230).
+- "We shall not rebuild civilization on the large scale"; democracy has never worked well without much local self-government; small countries are the model (p. 231).
+- The supernational authority must be very powerful in enforcing common law and so constituted that neither it nor national authorities can become tyrannical; limiting power may sometimes prevent its use for good (p. 231).
+- The great powers acquire the moral right to impose rules on others by first submitting to them themselves (p. 231).
+- An international authority that limits the state's power over the individual is one of the best safeguards of peace (p. 231).
+- A comprehensive world organization ("some new League of Nations") is needed, but must not be overloaded; the League was weak because it tried to be world-wide (p. 232).
+- Close federal union is at first practicable only in a region as narrow as part of western Europe; wider cooperation is possible among the British Empire, western Europe and probably the United States (p. 232).
+- War between blocs remains possible; measures that would make war altogether impossible "may well be worse than even war itself" (pp. 232-233).

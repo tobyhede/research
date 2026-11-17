@@ -1,0 +1,4 @@
+- **Problem:** in 1944 nearly every party in Britain wanted to keep wartime economic planning for peacetime. Hayek asks what that does to freedom.
+- **Thesis:** comprehensive central planning cannot be combined with democracy, the Rule of Law or personal freedom, whatever the planners intend. The book is a warning about a tendency, not a prediction.
+- **Who benefits:** anyone who argues about the limits of state power, on either side. Critics of Hayek get the real argument; admirers get the concessions that are usually left out.
+- **Worth reading?** Yes, selectively. Six chapters carry the argument. The German intellectual history and the 1940s British polemic can be skipped.

@@ -1,0 +1,93 @@
+{
+  "version": 1,
+  "id": "126b2f7e-5c26-4d25-bbe4-789f57aeae24",
+  "title": "Capital ch04 · From Old Europe to the New World",
+  "maps": [
+    {
+      "id": "e47c4590-2eea-4c16-9cb8-cb5d06b86f2a",
+      "title": "Note",
+      "kind": "positioned",
+      "positions": {
+        "c4220933-7816-471f-9309-1fcb031cd0b8": {
+          "x": 0,
+          "y": 0,
+          "size": {
+            "width": 560,
+            "height": 420
+          },
+          "content": {
+            "open": true
+          }
+        },
+        "b99ddc30-af0b-4511-b6f2-4d9ca2e9eaf4": {
+          "x": 640,
+          "y": 0
+        },
+        "f69b2c85-89eb-41d6-a01d-f850242cdd9c": {
+          "x": 980,
+          "y": 0
+        },
+        "c56cdec7-bb93-4d5c-b8af-dc67228cad4a": {
+          "x": 1320,
+          "y": 0
+        },
+        "f81a409a-2ced-40ee-93c8-6f129f96790b": {
+          "x": 640,
+          "y": 220
+        },
+        "998e7f94-e2e2-443e-bb99-0fd7accf3588": {
+          "x": 980,
+          "y": 220
+        },
+        "a2304357-5634-42c9-a66c-34bfa376adf2": {
+          "x": 1320,
+          "y": 220
+        },
+        "6560c943-00c1-41fd-a49e-e324ab472c49": {
+          "x": 640,
+          "y": 440
+        }
+      },
+      "graphs": [
+        {
+          "id": "d8e9acdc-ca79-4936-bf46-357d423dc971",
+          "title": "Analysis",
+          "color": "#4e79a7",
+          "headShape": "arrow",
+          "edges": [
+            {
+              "from": "c4220933-7816-471f-9309-1fcb031cd0b8",
+              "to": "b99ddc30-af0b-4511-b6f2-4d9ca2e9eaf4"
+            },
+            {
+              "from": "b99ddc30-af0b-4511-b6f2-4d9ca2e9eaf4",
+              "to": "f69b2c85-89eb-41d6-a01d-f850242cdd9c"
+            },
+            {
+              "from": "f69b2c85-89eb-41d6-a01d-f850242cdd9c",
+              "to": "c56cdec7-bb93-4d5c-b8af-dc67228cad4a"
+            },
+            {
+              "from": "c4220933-7816-471f-9309-1fcb031cd0b8",
+              "to": "f81a409a-2ced-40ee-93c8-6f129f96790b"
+            },
+            {
+              "from": "c56cdec7-bb93-4d5c-b8af-dc67228cad4a",
+              "to": "998e7f94-e2e2-443e-bb99-0fd7accf3588"
+            },
+            {
+              "from": "b99ddc30-af0b-4511-b6f2-4d9ca2e9eaf4",
+              "to": "a2304357-5634-42c9-a66c-34bfa376adf2"
+            },
+            {
+              "from": "a2304357-5634-42c9-a66c-34bfa376adf2",
+              "to": "6560c943-00c1-41fd-a49e-e324ab472c49"
+            }
+          ]
+        }
+      ],
+      "activeGraph": "d8e9acdc-ca79-4936-bf46-357d423dc971"
+    }
+  ],
+  "defaultMap": "e47c4590-2eea-4c16-9cb8-cb5d06b86f2a"
+}

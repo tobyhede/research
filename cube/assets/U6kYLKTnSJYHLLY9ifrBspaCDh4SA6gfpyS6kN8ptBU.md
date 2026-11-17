@@ -1,0 +1,8 @@
+- "The intellectual history of the last sixty or eighty years is indeed a perfect illustration of the truth that in social evolution nothing is inevitable but thinking makes it so." (p. 91)
+- "Far from being appropriate only to comparatively simple conditions, it is the very complexity of the division of labor under modern conditions which makes competition the only method by which such coordination can be adequately brought about." (p. 91)
+- "It enables entrepreneurs, by watching the movement of comparatively few prices, as an engineer watches the hands of a few dials, to adjust their activities to those of their fellows." (p. 92)
+- "The more complicated the whole, the more dependent we become on that division of knowledge between individuals whose separate efforts are coordinated by the impersonal mechanism for transmitting the relevant information known by us as the price system." (p. 92)
+- "But the argument for freedom is precisely that we ought to leave room for the unforeseeable free growth." (p. 94)
+- "While there is nothing in modern technological developments which forces us toward comprehensive economic planning, there is a great deal in them which makes infinitely more dangerous the power a planning authority would possess." (p. 94)
+- "It would be foolish to deny that the instances of planned or semiplanned societies which we know do furnish illustrations in point, good things which the people of these countries owe entirely to planning." (p. 95)
+- "His plea is for a method which effects such coordination without the need for an omniscient dictator." (p. 96)

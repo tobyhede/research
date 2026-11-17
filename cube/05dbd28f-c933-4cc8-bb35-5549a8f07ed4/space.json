@@ -1,0 +1,93 @@
+{
+  "version": 1,
+  "id": "05dbd28f-c933-4cc8-bb35-5549a8f07ed4",
+  "title": "Capital ch03 · The Metamorphoses of Capital",
+  "maps": [
+    {
+      "id": "35de37a3-6626-4aa7-8997-ee2d09b88304",
+      "title": "Note",
+      "kind": "positioned",
+      "positions": {
+        "47cb9fa6-93ae-4278-98fc-545f8e8136b9": {
+          "x": 0,
+          "y": 0,
+          "size": {
+            "width": 560,
+            "height": 420
+          },
+          "content": {
+            "open": true
+          }
+        },
+        "e83c7f79-bf87-4d8c-81e7-67bb068c7ba1": {
+          "x": 640,
+          "y": 0
+        },
+        "06561925-af19-4a9b-92f6-bbc27ca1f96e": {
+          "x": 980,
+          "y": 0
+        },
+        "4546b2e6-c076-4643-ae4d-1d4b638b0481": {
+          "x": 1320,
+          "y": 0
+        },
+        "060b4f4d-699e-481a-8254-0c772b5c6a5b": {
+          "x": 640,
+          "y": 220
+        },
+        "0135fc66-a09a-4f77-b81e-3eaa280ef188": {
+          "x": 980,
+          "y": 220
+        },
+        "e501b748-9219-4d4a-9aa9-a11071d53c37": {
+          "x": 1320,
+          "y": 220
+        },
+        "8e22b851-beae-40b2-b4ca-c1f38f37b9f0": {
+          "x": 640,
+          "y": 440
+        }
+      },
+      "graphs": [
+        {
+          "id": "6801393e-07f1-474d-9941-6fbccad3773c",
+          "title": "Analysis",
+          "color": "#4e79a7",
+          "headShape": "arrow",
+          "edges": [
+            {
+              "from": "47cb9fa6-93ae-4278-98fc-545f8e8136b9",
+              "to": "e83c7f79-bf87-4d8c-81e7-67bb068c7ba1"
+            },
+            {
+              "from": "e83c7f79-bf87-4d8c-81e7-67bb068c7ba1",
+              "to": "06561925-af19-4a9b-92f6-bbc27ca1f96e"
+            },
+            {
+              "from": "06561925-af19-4a9b-92f6-bbc27ca1f96e",
+              "to": "4546b2e6-c076-4643-ae4d-1d4b638b0481"
+            },
+            {
+              "from": "47cb9fa6-93ae-4278-98fc-545f8e8136b9",
+              "to": "060b4f4d-699e-481a-8254-0c772b5c6a5b"
+            },
+            {
+              "from": "4546b2e6-c076-4643-ae4d-1d4b638b0481",
+              "to": "0135fc66-a09a-4f77-b81e-3eaa280ef188"
+            },
+            {
+              "from": "e83c7f79-bf87-4d8c-81e7-67bb068c7ba1",
+              "to": "e501b748-9219-4d4a-9aa9-a11071d53c37"
+            },
+            {
+              "from": "e501b748-9219-4d4a-9aa9-a11071d53c37",
+              "to": "8e22b851-beae-40b2-b4ca-c1f38f37b9f0"
+            }
+          ]
+        }
+      ],
+      "activeGraph": "6801393e-07f1-474d-9941-6fbccad3773c"
+    }
+  ],
+  "defaultMap": "35de37a3-6626-4aa7-8997-ee2d09b88304"
+}

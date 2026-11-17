@@ -1,0 +1,6 @@
+- **Top marginal income tax rate**
+  - *Design*: about 80% on incomes above $500,000 or $1 million (top 0.5–1%) (p. 376); 50–60% above $200,000 for revenue (p. 377). Optimal estimate 82% (Piketty's note 50) (p. 494).
+  - *Justification*: top pay above that level is bargained, not produced, so taxing it away costs no output and spreads growth more widely (p. 376); restore progressivity needed for fiscal consent (p. 363) and for public support of globalization (p. 364).
+  - *Evidence*: the Piketty-Saez-Stantcheva cross-country and firm-level results (pp. 373-376) (Piketty's notes 38-40, 46) (pp. 493-494).
+  - *Objections anticipated*: (1) marginal-productivity / supply-side: answered with the growth comparison and luck/talent results (pp. 373-376); (2) flight of talent: answered by country size and history (p. 377); (3) competition and governance could cure excessive pay: "seems unrealistic" (p. 376); (4) precision of the estimate: conceded, deferred to democratic deliberation (p. 376); (5) small open economies: conceded, deferred to international coordination in ch15 (pp. 376-377).
+- **More steeply progressive tax on the bottom 90%**: instead of 40–45% / 45–50% for the bottom 50% / next 40%, 30–35% / 50–55% (Piketty's note 9) (p. 489); justified by the effect of globalization on the least skilled (pp. 363-364).

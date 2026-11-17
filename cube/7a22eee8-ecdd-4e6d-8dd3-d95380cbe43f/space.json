@@ -1,0 +1,93 @@
+{
+  "version": 1,
+  "id": "7a22eee8-ecdd-4e6d-8dd3-d95380cbe43f",
+  "title": "Capital ch02 · Growth: Illusions and Realities",
+  "maps": [
+    {
+      "id": "b03c5aaa-5e01-4ed0-8d47-601f4e147776",
+      "title": "Note",
+      "kind": "positioned",
+      "positions": {
+        "3a1e5e3e-6f61-4b15-a249-d4c71756eb17": {
+          "x": 0,
+          "y": 0,
+          "size": {
+            "width": 560,
+            "height": 420
+          },
+          "content": {
+            "open": true
+          }
+        },
+        "cc5e07ba-7c81-4d6c-873f-c02ac81eaad4": {
+          "x": 640,
+          "y": 0
+        },
+        "c5b0db7e-ae76-49b9-a10a-3834b63fd3dd": {
+          "x": 980,
+          "y": 0
+        },
+        "62c9ff5b-532f-439a-8a48-6fc68cdb8508": {
+          "x": 1320,
+          "y": 0
+        },
+        "c305888d-05c9-47d6-bf88-dea9f6d7e58e": {
+          "x": 640,
+          "y": 220
+        },
+        "4bc15596-2552-49ea-a2c6-6ac58e5f6bd6": {
+          "x": 980,
+          "y": 220
+        },
+        "87f590c5-dee8-42e9-b665-97527a893ef3": {
+          "x": 1320,
+          "y": 220
+        },
+        "01e15514-f6c0-4a95-8972-3049507dddca": {
+          "x": 640,
+          "y": 440
+        }
+      },
+      "graphs": [
+        {
+          "id": "0acbba5c-62c1-44a4-ae89-fbd70d479759",
+          "title": "Analysis",
+          "color": "#4e79a7",
+          "headShape": "arrow",
+          "edges": [
+            {
+              "from": "3a1e5e3e-6f61-4b15-a249-d4c71756eb17",
+              "to": "cc5e07ba-7c81-4d6c-873f-c02ac81eaad4"
+            },
+            {
+              "from": "cc5e07ba-7c81-4d6c-873f-c02ac81eaad4",
+              "to": "c5b0db7e-ae76-49b9-a10a-3834b63fd3dd"
+            },
+            {
+              "from": "c5b0db7e-ae76-49b9-a10a-3834b63fd3dd",
+              "to": "62c9ff5b-532f-439a-8a48-6fc68cdb8508"
+            },
+            {
+              "from": "3a1e5e3e-6f61-4b15-a249-d4c71756eb17",
+              "to": "c305888d-05c9-47d6-bf88-dea9f6d7e58e"
+            },
+            {
+              "from": "62c9ff5b-532f-439a-8a48-6fc68cdb8508",
+              "to": "4bc15596-2552-49ea-a2c6-6ac58e5f6bd6"
+            },
+            {
+              "from": "cc5e07ba-7c81-4d6c-873f-c02ac81eaad4",
+              "to": "87f590c5-dee8-42e9-b665-97527a893ef3"
+            },
+            {
+              "from": "87f590c5-dee8-42e9-b665-97527a893ef3",
+              "to": "01e15514-f6c0-4a95-8972-3049507dddca"
+            }
+          ]
+        }
+      ],
+      "activeGraph": "0acbba5c-62c1-44a4-ae89-fbd70d479759"
+    }
+  ],
+  "defaultMap": "b03c5aaa-5e01-4ed0-8d47-601f4e147776"
+}

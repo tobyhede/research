@@ -8,3 +8,7 @@ Book files, extracted text, generated readers, and notes are committed together.
 | --- | --- | --- | --- |
 | The Road to Serfdom | F. A. Hayek | [brief](books/road-to-serfdom/brief.md) · [interactive reader](books/road-to-serfdom/brief.html) | [synthesis](books/road-to-serfdom/deep-read/synthesis.md) · [map](books/road-to-serfdom/deep-read/map.md) · [terms](books/road-to-serfdom/deep-read/terms.md) · [notes](books/road-to-serfdom/deep-read/notes/) |
 | Capital in the Twenty-First Century | Thomas Piketty | [brief](books/capital-in-the-twenty-first-century/brief.md) · [interactive reader](books/capital-in-the-twenty-first-century/brief.html) | [synthesis](books/capital-in-the-twenty-first-century/deep-read/synthesis.md) · [map](books/capital-in-the-twenty-first-century/deep-read/map.md) · [terms](books/capital-in-the-twenty-first-century/deep-read/terms.md) · [notes](books/capital-in-the-twenty-first-century/deep-read/notes/) |
+
+## Cube
+
+[`cube/`](cube/) is an InfinityCube Aggregate directory of every book, one Space per level of abstraction: Library → Book → Argument, Chapters, Lexicon, Critique → Chapter. Rebuild it with `node scripts/build-cube.mjs`, then open it with `pnpm cube run <abs path>/cube` from an InfinityCube clone.

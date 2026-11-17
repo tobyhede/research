@@ -1,0 +1,26 @@
+- α moves "transparently" from β via α = r × β, so the central question becomes how r is determined (p. 143).
+- In Britain and France α was 35–40 percent in the late eighteenth and nineteenth centuries, 20–25 percent in the mid-twentieth, and 25–30 percent in the late twentieth and early twenty-first; the matching average return was 5–6, 7–8, then 4–5 percent (p. 143).
+- α traces the same U-curve as β but a shallower one: r is higher when β is lower, "which seems natural" (p. 143).
+- Returns vary by asset and by size of fortune, and the variation tends to amplify inequality (pp. 143-144).
+- Estimates of capital stocks are more reliable than estimates of income flows, both historically and today; hence the book's emphasis on β rather than on the capital-labor split (p. 146).
+- The pure return on capital has oscillated around 4–5 percent (range 3–6) in France and Britain from the eighteenth century to the twenty-first with no pronounced trend, though it may have slipped to 3–4 percent today, a fall of about one-quarter to one-fifth (p. 147).
+- Nineteenth-century novels take the 5 percent conversion of capital into rent for granted; higher returns on active investments were largely pay for labor (pp. 147-148).
+- Taxes (average around 30 percent on capital income today) are the main reason for the gap between the pure pretax return and what owners receive (p. 149).
+- Low-yield deposits are a small share of total wealth and barely affect the average return; housing yields 3–4 percent and financial assets more (pp. 149-150).
+- Inflation mainly redistributes wealth between asset categories and among owners; its effect on the average return is "fairly limited" (pp. 151-152).
+- r is set by two forces: technology (what capital is used for) and abundance of capital (p. 153).
+- Diminishing marginal productivity is obvious; the question is how fast r falls when β rises (p. 155).
+- If r falls less than proportionally as β rises, α rises; British and French history suggests this second case holds in the long run (pp. 155-156).
+- Both cases are theoretically possible; which holds depends on the elasticity of substitution (p. 156), and the relevant line is σ = 1 (p. 157).
+- The Cobb-Douglas assumption of a stable α became popular partly because it gives "a fairly peaceful and harmonious view of the social order" (p. 158), but a stable α would not imply harmony or a stable β (p. 158).
+- Stable-share claims (Bowley 1920, Cobb-Douglas 1928, Keynes 1939) rested on short periods; the debate was politicized on both sides (pp. 158-159).
+- The book claims to be the first to set the capital-labor split in the long-run context of β since the eighteenth century (p. 159).
+- Over the very long run σ seems to have been greater than one, because capital keeps finding new uses (p. 160); historical data give 1.3–1.6, but future technology need not match the past (p. 160).
+- The 1970–2010 rise in α in rich countries is consistent both with σ > 1 and with stronger bargaining power of capital (p. 160); "no self-corrective mechanism" prevents β and α rising together (p. 161).
+- In traditional agricultural societies, where capital was mostly land, σ was "significantly less than one"; this is the only explanation for low land values in land-rich America (p. 161).
+- The long-run fall in α from 35–40 to 25–30 percent can be read as technology favouring human capital, but it is not "a change of civilization", and α could return to early-nineteenth-century levels through rising β even if technology barely changes (pp. 161-162).
+- Medium-term swings are large: α rose about 10 points in Britain 1800–1860 (Engels' pause), then fell 1870–1900 (p. 163); French profits rose 1945–1968, fell 1968–1983, rose after 1983, and housing rent's share rose steadily from 1945 (pp. 163-164).
+- Marx's falling rate of profit corresponds to a real logical difficulty when g ≈ 0, and structural growth is the "only logical exit" (pp. 164-165); Marx's use of statistics was anecdotal and ignored contemporary capital-stock estimates (p. 166).
+- The Cambridge capital controversy was clouded by lack of long-run data; Solow's substitutable-factor model "definitively carried the day" in the 1970s (pp. 166-168).
+- Conclusions for the twenty-first century: low growth brings capital back (p. 168); global β could reach 6–7 at g = 1.5 percent and 10 at 1 percent with s = 10 percent (p. 169); with β of 7–8 and r of 4–5 percent, α could reach 30–40 percent, "and it might rise even higher" (p. 169).
+- "there is no natural force that inevitably reduces the importance of capital" (p. 169); modern growth avoided Marx's apocalypse but did not reduce capital's macroeconomic weight relative to labor (p. 170).

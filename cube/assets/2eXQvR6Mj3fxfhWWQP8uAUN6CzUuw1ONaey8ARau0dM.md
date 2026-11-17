@@ -1,0 +1,13 @@
+| Term | First used | Author's meaning |
+| --- | --- | --- |
+| individualism | p. 65 | Respect for the individual man as man: recognition of his own views and tastes as supreme in his own sphere, however narrowly circumscribed, plus the belief that men should develop their own gifts and bents. Explicitly not egotism or selfishness. Rooted in Christianity and classical antiquity, fully developed in the Renaissance. Contrast term: socialism and 'all other forms of collectivism'. |
+| freedom / liberty | p. 65 | Words 'so worn with use and abuse' that Hayek hesitates to use them; 'tolerance' is offered as the one word still carrying the full meaning. Historically: freeing the individual from ties binding him to customary or prescribed ways in his ordinary activities (p. 66). |
+| economic freedom / freedom in economic affairs | p. 65 | The freedom 'without which personal and political freedom has never existed in the past'. Historically an undesigned by-product of political freedom (p. 66); also called industrial freedom or liberty (p. 66) (p. 68). |
+| liberalism | p. 67 | Not a fixed creed. Its fundamental principle: in ordering our affairs, make as much use as possible of the spontaneous forces of society and resort as little as possible to coercion. Compatible with, and requiring, deliberate creation of a framework in which competition works beneficially. |
+| laissez faire | p. 64, p. 68 | A rough rule of thumb, wrongly presented by some liberals as an exceptionless rule; distinguished from liberalism proper and blamed for much of the harm to the liberal cause. |
+| spontaneous forces (of society) | p. 67 | The uncontrolled efforts of individuals which produce a complex order nobody designed (p. 66); what liberal policy assists and supplements. |
+| collectivism | p. 65 | Genus of which socialism is one form; used here without definition as the opposite of individualism defined in ch. 3 (p. 81). |
+| socialism | p. 65 | The destination of the modern trend; equated, via Tocqueville and Acton, with slavery. Still undefined. |
+| 'conscious' direction / planning | p. 69 | Replacing the impersonal, anonymous market mechanism by collective direction of all social forces to deliberately chosen goals. First statement of what will be defined as planning in ch. 3. |
+| 'positive' action | p. 68 | Deliberate use of government powers to improve the institutional framework (monetary system, monopoly, and other tasks); liberalism was slow at it and so came to be seen as a 'negative' creed. |
+| 'Western' (German sense) | p. 71 | West of the Rhine: liberalism, democracy, capitalism, individualism, free trade, internationalism, love of peace, as despised by German thinkers before the Nazis. |

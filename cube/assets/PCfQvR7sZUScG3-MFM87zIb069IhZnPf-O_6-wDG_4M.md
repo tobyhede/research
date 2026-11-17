@@ -1,0 +1,33 @@
+- Few planners say merely that planning is desirable; most say it is forced on us by circumstances (p. 88).
+- The claim that technology spontaneously eliminates competition is a myth accepted by iteration and is devoid of foundation (p. 88).
+- The tendency toward monopoly and planning is the product of opinions fostered for half a century, not of objective facts beyond our control (p. 88).
+- The belief in technological necessity derives mainly from the Marxist doctrine of the concentration of industry (p. 88).
+- The growth of monopoly over the last fifty years is not disputed, though its extent is often greatly exaggerated (p. 88).
+- The argument from economies of scale picks out one effect of technical progress, ignores opposite effects and gets little support from the facts (p. 89).
+- The Temporary National Economic Committee found scant support for the view that the efficiency of large-scale production causes the disappearance of competition; monopoly is frequently the product of collusive agreement and public policy (p. 89).
+- Aspiring monopolists regularly seek and often get the help of state power (p. 89).
+- Monopoly appeared first not in the most advanced economy but in the young industrial countries, the United States and Germany, in the last third of the nineteenth century (p. 90).
+- In Germany cartels and syndicates were systematically fostered by deliberate policy from 1878, by protection, inducements and finally compulsion (p. 90).
+- The doctrine of inevitable 'monopoly capitalism' spread largely through German socialist theoreticians, Sombart in particular, generalising from their own country (p. 90).
+- British industry was on the whole competitive until 1931; monopolies grew at an amazing rate only after the turn to general protection (p. 90).
+- In Germany, the prototype, the suppression of competition was deliberate policy in the service of the ideal now called planning (p. 91).
+- In social evolution nothing is inevitable but thinking makes it so (p. 91).
+- Complexity does create some problems competition cannot solve, such as those of a modern town and of public utilities, but these are not what the planners have in mind (p. 91).
+- It is the very complexity of the modern division of labour that makes competition the only adequate method of coordination (p. 91).
+- Central planning would be easy if conditions were simple enough for one person or board to survey all the relevant facts; decentralisation becomes imperative when they are not (p. 91).
+- Coordination among decentralised agents can be effected only by arrangements that convey to each the information he needs; no single centre can know or collect the details of constantly changing supply and demand (p. 92).
+- The price system under competition is such an apparatus and no other system even promises to do the same (p. 92).
+- The price system does this only if competition prevails, that is, if producers adapt to prices and cannot control them (p. 92).
+- The industrial system could never have reached its present differentiation and complexity under conscious central planning; further complexity makes non-conscious coordination more important, not less (p. 92).
+- A third argument holds that new technical possibilities can be used only if protection against competition, a monopoly, is granted; it is often special pleading or a confusion of engineering excellence with social desirability (pp. 92-93).
+- In a residual group of cases that argument has some force: compulsory standardisation might raise abundance enough to compensate for lost choice (p. 93).
+- Such cases still do not make central direction inevitable; they present a choice between gaining an advantage by compulsion and forgoing or postponing it (p. 93).
+- Forgoing such gains may be the price of freedom, and it preserves a stimulus to progress, since we cannot predict from which variant something better will develop (pp. 93-94).
+- The argument for freedom is to leave room for unforeseeable growth, and it holds even where compulsion would seem to bring only advantages (p. 94).
+- Nothing in modern technology forces comprehensive planning, but much in it makes a planning authority's power far more dangerous (p. 94).
+- Technical experts lead the planners because almost any one technical ideal could be realised quickly if it were made humanity's sole aim, and its frustration makes the specialist revolt against the existing order (p. 94).
+- A planned society would certainly further some objectives more than at present, and existing planned societies show good things owed entirely to planning (p. 95).
+- Technical excellence out of line with general conditions is evidence of misdirected resources, not of the superiority of planning; the German motor roads are the example (p. 95).
+- Everyone is in some measure a specialist who believes his own scale of values would prevail; each wants planning for his own aim, and adopting planning would only expose the conflict between the aims (pp. 95-96).
+- The single-minded idealists who most want to plan would be the most dangerous planners and the most intolerant of the planning of others (p. 96).
+- Coordination cannot become a specialism; the economist does not claim the knowledge a coordinator would need, and asks for a method that coordinates without an omniscient dictator (p. 96).

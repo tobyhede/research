@@ -1,0 +1,15 @@
+- All collectivist systems share one feature: organising the whole of society for a single end and denying autonomous individual spheres; in that sense they are all totalitarian (p. 97).
+- "Common good" and similar terms cannot determine a course of action, because welfare cannot be measured on a single scale; a single plan presupposes a complete ranking of all ends, that is, a complete ethical code (pp. 97-98).
+- No such code exists, and morals have historically moved the other way, towards fewer and more general rules that only mark the limits of individual choice (p. 98).
+- No mind could survey all needs and weigh them; this limit of knowledge and imagination, not egoism, is the foundation of individualism (pp. 98-99).
+- Common action is legitimate where individual ends coincide; the state's sphere is set by the extent of agreement, and agreement becomes less likely as the scope of action widens (pp. 99-100).
+- Once the state sector passes a certain share of the whole it indirectly controls almost everything, so common action cannot be extended indefinitely while leaving the individual free (p. 100).
+- A democracy that adopts planning has agreed only on the mechanism, not on the ends; the absence of agreement shows as soon as a particular plan must be drawn up (pp. 100-101).
+- Majority rule cannot produce a comprehensive plan: there need be no majority for any one of a legion of possible plans, and a plan cannot be assembled by voting clause by clause (p. 102).
+- The work is therefore delegated to experts, who must impose their own scale of preferences, because the ends cannot be specified apart from the plan (pp. 102-103).
+- Delegation is the first step only; separate delegated plans do not make a whole, and the demand grows for a government or individual freed from democratic procedure (pp. 103-104).
+- Parliamentary "ultimate control" over a planned economy is illusory: parliament can accept or reject the plan as a whole, criticise, and choose who holds near-absolute power, but cannot direct (p. 105).
+- Democracy is possible only within a competitive system based on private property; under a collectivist creed it destroys itself (p. 105).
+- Democracy is a means, not an end; it can be oppressive, and autocracy has sometimes allowed more cultural freedom than some democracies (p. 106).
+- Planning leads to dictatorship because dictatorship is the most effective instrument of coercion, and therefore essential to large-scale central planning (p. 106).
+- Power is made non-arbitrary by its limitation, not by its democratic source (p. 106).

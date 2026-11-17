@@ -1,0 +1,101 @@
+{
+  "version": 1,
+  "id": "ee4b3103-4c95-4a52-aefc-ddf9e7249995",
+  "title": "Serfdom ch11 · The End of Truth",
+  "maps": [
+    {
+      "id": "e71da570-9c8e-4c22-a861-752e28b2aeb1",
+      "title": "Note",
+      "kind": "positioned",
+      "positions": {
+        "0850d77c-a6fc-4127-9c76-59a79dfb8ad4": {
+          "x": 0,
+          "y": 0,
+          "size": {
+            "width": 560,
+            "height": 420
+          },
+          "content": {
+            "open": true
+          }
+        },
+        "f1595e4e-ca8a-4108-927c-82594c9cb360": {
+          "x": 640,
+          "y": 0
+        },
+        "23437a72-1c14-4a38-989c-2b5b38bad12b": {
+          "x": 980,
+          "y": 0
+        },
+        "5b8dbf94-991a-41bd-99df-e29eb24fc389": {
+          "x": 1320,
+          "y": 0
+        },
+        "9171cd6c-fce0-43fd-a73a-21bc6b40091d": {
+          "x": 640,
+          "y": 220
+        },
+        "a3c07ca6-7399-4d21-a038-804fd1eac369": {
+          "x": 980,
+          "y": 220
+        },
+        "f7cf854f-ef8a-4e5f-9982-64fe8692eb08": {
+          "x": 1320,
+          "y": 220
+        },
+        "d0320f60-4e45-4930-9ccc-120276b96b72": {
+          "x": 640,
+          "y": 440
+        },
+        "0c807763-c21f-4a51-a06c-0271723610e5": {
+          "x": 980,
+          "y": 440
+        }
+      },
+      "graphs": [
+        {
+          "id": "8d4cd007-b447-403e-bdee-cce8635e5556",
+          "title": "Analysis",
+          "color": "#4e79a7",
+          "headShape": "arrow",
+          "edges": [
+            {
+              "from": "0850d77c-a6fc-4127-9c76-59a79dfb8ad4",
+              "to": "f1595e4e-ca8a-4108-927c-82594c9cb360"
+            },
+            {
+              "from": "f1595e4e-ca8a-4108-927c-82594c9cb360",
+              "to": "23437a72-1c14-4a38-989c-2b5b38bad12b"
+            },
+            {
+              "from": "23437a72-1c14-4a38-989c-2b5b38bad12b",
+              "to": "5b8dbf94-991a-41bd-99df-e29eb24fc389"
+            },
+            {
+              "from": "23437a72-1c14-4a38-989c-2b5b38bad12b",
+              "to": "9171cd6c-fce0-43fd-a73a-21bc6b40091d"
+            },
+            {
+              "from": "0850d77c-a6fc-4127-9c76-59a79dfb8ad4",
+              "to": "a3c07ca6-7399-4d21-a038-804fd1eac369"
+            },
+            {
+              "from": "5b8dbf94-991a-41bd-99df-e29eb24fc389",
+              "to": "f7cf854f-ef8a-4e5f-9982-64fe8692eb08"
+            },
+            {
+              "from": "f1595e4e-ca8a-4108-927c-82594c9cb360",
+              "to": "d0320f60-4e45-4930-9ccc-120276b96b72"
+            },
+            {
+              "from": "d0320f60-4e45-4930-9ccc-120276b96b72",
+              "to": "0c807763-c21f-4a51-a06c-0271723610e5"
+            }
+          ]
+        }
+      ],
+      "activeGraph": "8d4cd007-b447-403e-bdee-cce8635e5556"
+    }
+  ],
+  "defaultMap": "e71da570-9c8e-4c22-a861-752e28b2aeb1"
+}

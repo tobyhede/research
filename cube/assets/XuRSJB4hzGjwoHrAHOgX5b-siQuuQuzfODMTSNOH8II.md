@@ -1,0 +1,17 @@
+- Competition and justice "may have little else in common" beyond impartiality (p. 130).
+- In competition "chance and good luck are often as important as skill and foresight" (p. 131); rewards do not follow merit (p. 131).
+- "In a system of free enterprise chances are not equal" because of private property and inheritance (p. 131). Inheritance is necessary to free enterprise "perhaps not with the same necessity" as property (p. 131).
+- **Accepted aim of policy**: "There is, indeed, a strong case for reducing this inequality of opportunity as far as congenital differences permit and as it is possible to do so without destroying the impersonal character of the process" (p. 131). No measures are named.
+- The opportunities of the poor "are much more restricted than those open to the rich"; the probability of a poor man reaching great wealth is "much smaller" (p. 131).
+- The price the poor worker pays for following his inclinations may be high "and to many appear too high" (pp. 131-132).
+- "It is true that in periods of prolonged mass unemployment the effect on many may be very similar" to designed inequality; "there are other and better methods to prevent that scourge than central direction" (p. 134). **State action against mass unemployment is thus accepted in principle**, unspecified here.
+- "It may be bad to be just a cog in an impersonal machine" (p. 134).
+- The ideal of justice of most socialists would be satisfied by abolishing property income alone; he calls this "true" (p. 132).
+- "It is impossible to direct industry without exercising some influence on distribution" and planners would prefer general rules of equity (p. 133): he grants the planners' good intentions and reluctance.
+- Lasswell's "who gets what, when, and how" is "in a way" "not untrue": "all government affects the relative position of different people" and in so far as government does anything it affects distribution (p. 135). This concedes that the liberal state is not distributively neutral in effect.
+- The word "greater equality" names a real sentiment; he calls the distinction "not a quibble about words" (p. 136).
+- Whether absolute equality would be practicable (incentives) is set aside (p. 136).
+- "There is a great deal of truth" in the description of fascism as middle-class socialism (p. 140); the lower middle class saw organised labour as exploiters "not without some justification" (p. 141).
+- Labour socialism "had grown in a democratic and liberal world" and took over "many of the ideals of liberalism" (p. 141).
+- The Soviet income evidence is admitted to be "little information" (p. 142).
+- The Lenin attribution is hedged: "I believe it was Lenin himself" (p. 135).

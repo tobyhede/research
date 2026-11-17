@@ -1,0 +1,13 @@
+| Term | First used | Author's meaning |
+| --- | --- | --- |
+| Rhenish capitalism / stakeholder model | pp. 104-105 | A model in which firms are owned not only by shareholders but by "stakeholders": worker representatives with real board votes, regional governments, consumer and environmental groups (pp. 104-105). It "inevitably implies a lower market valuation but not necessarily a lower social valuation" (p. 105). Reused in ch05 to explain a Tobin's Q below 1 (pp. 136-137). |
+| Shareholder model | p. 105 | "Anglo-Saxon market capitalism", in which all power lies in theory with shareholders (p. 105). |
+| Book value | p. 104 | A firm's cumulative investments minus its debt (p. 104). Using it instead of stock-market value would raise German private wealth from about four to five or six years of national income (p. 104). Defined more fully in ch05 (p. 135). |
+| Volume effect vs price effect | p. 108 | Changes in β from quantities (saving, foreign asset losses, destruction) versus changes in relative asset prices (real estate, shares) (p. 108). Applied to land on pp. 108-109: an abundant asset can have so low a price that its total value is lower than if it were scarcer. |
+| Physical destruction | p. 105 | War damage to buildings, factories and infrastructure; shown to explain only a fraction of the 1913–1950 fall (pp. 105-106). |
+| Euthanasia of European capitalists | p. 107 | Piketty's summary of 1913–1950, adapting Keynes's "euthanasia of the rentier" (ch03, p. 97): "the history of Europe's suicide" (p. 107). |
+| Patrimonial capitalism | p. 111 | Capitalism in which inherited private fortunes are again large relative to income; Europe "in the avant-garde" of it in the early twenty-first century (p. 111). Developed in ch05 (p. 125) and Part Three. |
+| Net national wealth | p. 111 | Domestic capital minus foreign-owned assets net of residents' foreign assets; used to state how far a country is "owned" by itself, e.g. the US 98 percent US-owned in 1913 (p. 111). |
+| Slave capital | p. 114 | The market value of slaves, estimated from probate, tax and census data and slave-market prices (p. 114). Counting it as capital "is obviously a dubious thing to do" but measures its importance to slave owners (p. 115). |
+| First law applied to slaves (β = α / r) | p. 116 | Rewriting α = r × β: if slaves yield 60 percent of national income and r = 5 percent, slave capital is twelve years of income (pp. 116-117). |
+| Human capital | p. 117 | Capitalised labour income. Piketty rejects monetary estimates of it (e.g. World Bank "wealth of nations" reports) as obvious by construction and meaningful only where people can be owned (pp. 117-118). |

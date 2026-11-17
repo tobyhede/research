@@ -1,0 +1,8 @@
+- "Man has come to hate, and to revolt against, the impersonal forces to which in the past he submitted, even though they have often frustrated his individual efforts." (p. 208)
+- "the only alternative to submission to the impersonal and seemingly irrational forces of the market is submission to an equally uncontrollable and therefore arbitrary power of other men" (p. 209)
+- "The only exception to the rule that a free society must not be subjected to a single purpose is war and other temporary disasters when subordination of almost everything to the immediate and pressing need is the price at which we preserve our freedom in the long run." (p. 210)
+- "to aim always at the maximum of employment achievable by monetary means is a policy which is certain in the end to defeat its own purposes" (p. 212)
+- "The one thing modern democracy will not bear without cracking is the necessity of a substantial lowering of the standards of living in peacetime or even prolonged stationariness of its economic conditions." (p. 213)
+- "Only where we ourselves are responsible for our own interests and are free to sacrifice them has our decision moral value. We are neither entitled to be unselfish at someone else’s expense nor is there any merit in" (p. 213)
+- "Collectivism has nothing to put in their place, and in so far as it already has destroyed them it has left a void filled" (p. 214)
+- Hayek's footnote on demobilization: "Nothing would discredit the system of free enterprise more than the acute, though probably short-lived, dislocation and instability such an attempt would produce." (p. 219)

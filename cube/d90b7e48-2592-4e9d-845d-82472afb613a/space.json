@@ -1,0 +1,93 @@
+{
+  "version": 1,
+  "id": "d90b7e48-2592-4e9d-845d-82472afb613a",
+  "title": "Serfdom ch04 · The \"Inevitability\" of Planning",
+  "maps": [
+    {
+      "id": "8151fc43-ef61-4a2a-9fb2-ec1a8536411f",
+      "title": "Note",
+      "kind": "positioned",
+      "positions": {
+        "9e1c043f-ada7-4f58-98be-a1118b8bc3f4": {
+          "x": 0,
+          "y": 0,
+          "size": {
+            "width": 560,
+            "height": 420
+          },
+          "content": {
+            "open": true
+          }
+        },
+        "5fb4a853-7689-42c5-bb08-10fa5fb2530b": {
+          "x": 640,
+          "y": 0
+        },
+        "c45f9c38-bc06-48c0-aa7f-a73aab5a5a79": {
+          "x": 980,
+          "y": 0
+        },
+        "de4acb6c-cb07-40b2-adba-a40f39143009": {
+          "x": 1320,
+          "y": 0
+        },
+        "49290a20-e553-410c-8bfb-f21081899e68": {
+          "x": 640,
+          "y": 220
+        },
+        "52e9ff4b-09d3-466f-af7a-ff13b7746d72": {
+          "x": 980,
+          "y": 220
+        },
+        "8abe800c-175f-4078-90fb-8602ab6302ed": {
+          "x": 1320,
+          "y": 220
+        },
+        "1cbda0ad-ac7b-4a93-a407-424b3eb6be7b": {
+          "x": 640,
+          "y": 440
+        }
+      },
+      "graphs": [
+        {
+          "id": "2bb7fa54-6f76-4396-a216-16cdf153f49c",
+          "title": "Analysis",
+          "color": "#4e79a7",
+          "headShape": "arrow",
+          "edges": [
+            {
+              "from": "9e1c043f-ada7-4f58-98be-a1118b8bc3f4",
+              "to": "5fb4a853-7689-42c5-bb08-10fa5fb2530b"
+            },
+            {
+              "from": "5fb4a853-7689-42c5-bb08-10fa5fb2530b",
+              "to": "c45f9c38-bc06-48c0-aa7f-a73aab5a5a79"
+            },
+            {
+              "from": "c45f9c38-bc06-48c0-aa7f-a73aab5a5a79",
+              "to": "de4acb6c-cb07-40b2-adba-a40f39143009"
+            },
+            {
+              "from": "9e1c043f-ada7-4f58-98be-a1118b8bc3f4",
+              "to": "49290a20-e553-410c-8bfb-f21081899e68"
+            },
+            {
+              "from": "de4acb6c-cb07-40b2-adba-a40f39143009",
+              "to": "52e9ff4b-09d3-466f-af7a-ff13b7746d72"
+            },
+            {
+              "from": "5fb4a853-7689-42c5-bb08-10fa5fb2530b",
+              "to": "8abe800c-175f-4078-90fb-8602ab6302ed"
+            },
+            {
+              "from": "8abe800c-175f-4078-90fb-8602ab6302ed",
+              "to": "1cbda0ad-ac7b-4a93-a407-424b3eb6be7b"
+            }
+          ]
+        }
+      ],
+      "activeGraph": "2bb7fa54-6f76-4396-a216-16cdf153f49c"
+    }
+  ],
+  "defaultMap": "8151fc43-ef61-4a2a-9fb2-ec1a8536411f"
+}

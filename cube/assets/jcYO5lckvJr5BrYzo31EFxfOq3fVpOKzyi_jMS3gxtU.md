@@ -1,0 +1,24 @@
+**A. Definitions as choices: what "capital" includes (pp. 36-39)**
+
+- **Premises**: (pp. 36-37) Human capital cannot be owned by another or permanently traded in non-slave societies. (p. 38) It is hard to separate the value of land from improvements, or of natural resources from investment in them. (p. 38) Gold and housing are both stores of value and productive. (p. 39) Immaterial capital is priced through stock-market capitalisation.
+- **Conclusion**: (pp. 36-39) Capital is all non-human, marketable wealth at market value; "capital" and "wealth" are synonyms.
+- **Assessment**: These are defensible choices, but each has consequences later. (1) Using market value means β moves with asset prices as well as with saving and investment, so β can rise from capital gains (especially housing) without any change in the physical stock. (2) Including housing makes β and α sensitive to rents and house prices, a point later critics press on the capital-share story. (3) Excluding human capital from capital makes "labour income" absorb the return to skills, which affects how Piketty reads the rising human capital hypothesis (fm01, p. 19). Piketty is explicit about the choices and admits the line between "accumulation and appropriation" still needs examining (p. 38).
+
+**B. The first fundamental law and how it is used (pp. 41-45)**
+
+- **Derivation**: Capital income = r × capital (by definition of r as the average return). Divide both sides by national income: capital income / national income = r × capital / national income, i.e. α = r × β. Nothing is assumed beyond the definitions.
+- **Worked numbers**: (p. 42) β = 600%, r = 5% gives α = 30%. Per head (p. 42): 30,000 euros of income = 21,000 labour + 9,000 capital; 9,000 / 180,000 = 5%. Firm examples (p. 44): capital 5m, value added 1m, profits 0.4m gives β = 5, α = 40%, r = 8%; capital 3m, profits 0.3m gives β = 3, α = 30%, r = 10%.
+- **Conclusion**: (pp. 44-45) The law says nothing about how β, α or r are determined, only that one of the three follows from the other two.
+- **Critical point**: In practice r is not observed directly but calculated: "With a capital/income ratio on the order of 600 percent, this meant that the rate of return on capital was around 5 percent" (p. 42). And when α is hard to measure (mixed self-employment income), Piketty proposes to "apply a plausible average rate of return to the capital/income ratio" (p. 43). So the identity is run in both directions: r inferred from α and β, or α inferred from r and β. That is legitimate for an identity, but it means r > g, the book's central inequality, rests on an r that is often a residual of national accounts, not a separately measured return. Anyone checking r > g later (ch06, ch10) should ask which way the identity was used.
+
+**C. National accounts are constructs (pp. 45-48)**
+
+- **Premises**: (pp. 45-46) Early estimates (Petty, King, Boisguillebert, Vauban, Lavoisier) served tax-reform aims. (p. 46) Before 1914 wealth estimates dominated; (pp. 46-47) after the Depression, income and output took over and wealth estimates were sidelined. (p. 47) Wealth accounts returned in the 1990s–2000s, still imperfect (natural capital, environment).
+- **Conclusion**: (p. 47) National accounts "always reflect the preoccupations of the era"; they should not be fetishised, but used critically they remain "an indispensable tool" (p. 47).
+- **Assessment**: This is the book's main statement of methodological humility about the denominator of β and α. It also explains why Piketty can build long β series: he splices pre-1914 private estimates (Giffen, de Foville, Colson) onto post-1990 official balance sheets (p. 47). That splice is a key source risk for Part Two.
+
+**D. Capital mobility does not explain convergence (pp. 53-55)**
+
+- **Premises**: (pp. 53-54) Classical theory: capital flows from rich (low marginal product) to poor (high marginal product) until returns equalise, bringing convergence. (p. 54) Even then, at best output per head converges, and only if skills are also equal; income per head need not converge because foreign owners keep receiving returns. (p. 54) Japan, South Korea, Taiwan and China financed their own investment. (p. 54) Foreign-owned countries (colonies, Africa today) did worse, specialising badly and suffering political instability.
+- **Conclusion**: (p. 55) Convergence comes from knowledge diffusion, helped by trade openness but dependent on education and legitimate government.
+- **Assessment**: The logical point (output convergence ≠ income convergence) is sound and sets up the r-vs-g comparison for international ownership (p. 54). The historical premise for China is debatable: foreign direct investment into China was large in the 1990s–2000s, though Piketty can reply that domestic saving financed most investment. The claim about colonies is causal ("most notably because", p. 54) but no evidence is presented here.

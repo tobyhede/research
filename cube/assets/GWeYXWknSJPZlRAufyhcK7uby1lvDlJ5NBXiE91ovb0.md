@@ -1,0 +1,12 @@
+- Few if any in England would "swallow totalitarianism whole" (p. 192).
+- No English author has openly disparaged individual happiness (p. 191).
+- The authors attacked are sincere, disinterested and often distinguished (p. 192).
+- Common Wealth and the 1941 Committee are not yet important political forces (p. 197).
+- The movement to monopoly is not inevitable (p. 198).
+- Capitalists do not aim at totalitarianism (p. 198), and Hayek disclaims "any tenderness toward the capitalists" (p. 198).
+- Some monopolies may be "inevitable" (railways, road and air transport, gas, electricity are given hypothetically) (p. 199).
+- If only a single industry were in question, state ownership of an inevitable monopoly "might well be so" the best control (p. 199).
+- **State authority accepted**: "a strong state control over private monopolies", including "stringent price control which leaves no room for extraordinary profits" (p. 200). Conditions: only where monopoly is really inevitable; consistently pursued; accepted even at the cost of less satisfactory service (p. 200).
+- Under planning "some workmen will perhaps be better fed" (p. 201).
+- Twenty-five years ago there was "perhaps still some excuse" for believing a planned society could be freer (p. 201).
+- Threats from the traditionalist Right are "a phenomenon of all ages which need not alarm us" (p. 201).

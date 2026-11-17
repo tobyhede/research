@@ -1,0 +1,6 @@
+- What exactly is the modal strength of the thesis: necessity, probability, or tendency? The Introduction uses all three (pp. 57-58). Which does the body of the book actually argue for?
+- Is the German case sound as the paradigm? Hayek names no rival explanation (war defeat, hyperinflation, depression, constitutional weakness) in the Introduction; does any later chapter address them?
+- Does the 'socialism' the opinion-formers are said to share (p. 59) coincide with the 'planning against competition' that the mechanism chapters attack, or does the argument slide from the wide sense to the narrow one?
+- Sweden is mentioned as the current progressive model (p. 58). Does Hayek ever say why Sweden, with a long socialist record, did not follow the German path?
+- How far does the autobiographical warrant (p. 58) carry? It supports the similarity of opinion, not the causal claim.
+- Who are the 'people of good will' in Germany (p. 58)? Names are deferred; check ch. 12.

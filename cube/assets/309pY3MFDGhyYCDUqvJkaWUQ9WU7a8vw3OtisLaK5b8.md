@@ -1,0 +1,9 @@
+- Individualism "does not, of course, exclude the recognition of social ends"; men may combine to pursue coinciding ends, and the state is such an organisation (pp. 99-100).
+- There are state functions on which there is "practical unanimity" and others with "agreement of a substantial majority" (p. 100). He does not list them here.
+- Delegation of law-making "as such" is not objectionable; there may be "very good reasons" for local bodies to lay down general rules (p. 103). Repeated in note 5: "delegation as such need not be a danger to freedom" (p. 107).
+- Parliamentary discussion under planning may still prevent "some flagrant abuses" and get particular shortcomings remedied (p. 105).
+- The fault lies "neither with the individual representatives nor with parliamentary institutions as such" but with the task (p. 102).
+- "We have no intention, however, of making a fetish of democracy" (p. 105): democracy is fallible, can be oppressive, and autocracy is not necessarily fatal to freedom (p. 106).
+- "Democratic control may prevent power from becoming arbitrary, but it does not do so by its mere existence" (p. 106).
+- It is "the price of democracy" that "in some fields things must be left to chance" (p. 105): he admits a cost.
+- He sets aside, without answering, whether a complete ethical code would be desirable (p. 98).

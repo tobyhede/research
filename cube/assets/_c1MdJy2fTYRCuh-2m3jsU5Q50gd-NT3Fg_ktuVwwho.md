@@ -1,0 +1,12 @@
+- An English or American fascism would differ greatly from the Italian or German; a non-violent transition might give a better type of leader; Hayek would rather live under one run by Englishmen or Americans (p. 154). But in the end it would not prove so very different (p. 154).
+- There is nothing bad or dishonorable in approving a dictatorship of the good, though it might be unwise; not all good people are democrats (p. 154).
+- The desire for collectivism springs from high moral motives (p. 155).
+- The old socialist parties were genuinely democratic and reluctant to use force (p. 156).
+- The lowest-common-denominator point is "probably true, in general" and is not a claim about the majority's morals (p. 156).
+- Bertrand Russell is named as a contemporary socialist who has inherited the liberal tradition's view of power as the arch-evil (p. 160); so not all socialists are "strict collectivists".
+- Economic power in private hands can be an instrument of coercion (p. 161).
+- Rules of individualist ethics are imprecise in many respects (p. 161); we may sometimes be forced to choose between evils (p. 162).
+- The Germans possess real virtues: industry, discipline, thoroughness, conscientiousness, sense of duty, self-sacrifice, physical courage (p. 162). The commercial towns of south and west Germany and the Hanse towns long shared Western moral concepts (p. 163).
+- Mass supporters of National Socialism and communism act from often unselfish devotion to an ideal (pp. 163-164).
+- War in the democracies produced only a very moderate approach to totalitarianism (p. 164).
+- The subject is not exhausted here; selection by conformity of opinion leads to ch11 (p. 165).

@@ -1,0 +1,6 @@
+- How is r actually measured in the long-run series: directly from asset returns, or as α / β? And is it before or after tax and depreciation?
+- How much would β and α change if housing were valued at replacement cost rather than market price, or if imputed rents were treated differently?
+- Do the illustrative returns (stocks 7–8%, housing 3–5%) hold after taxes, transaction costs and losses on failed firms? The average r should include losses.
+- Is the endnote shift from note 6 onward a translation or typesetting error, and are any substantive notes lost as a result?
+- What would a parallel account of human capital, if valued, do to the capital share story? Piketty excludes it by definition, so the claim that capital's share has barely fallen is partly a matter of definition.
+- How sensitive is the Africa foreign-ownership estimate to assuming foreign capital earns the same return as domestic capital?

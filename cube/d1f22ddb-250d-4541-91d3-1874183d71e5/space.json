@@ -1,0 +1,109 @@
+{
+  "version": 1,
+  "id": "d1f22ddb-250d-4541-91d3-1874183d71e5",
+  "title": "Serfdom ch14 · Material Conditions and Ideal Ends",
+  "maps": [
+    {
+      "id": "d90e6657-942e-49dc-9b69-301e80c38afc",
+      "title": "Note",
+      "kind": "positioned",
+      "positions": {
+        "6eb594f1-4e74-415a-8d3b-24177628f3e4": {
+          "x": 0,
+          "y": 0,
+          "size": {
+            "width": 560,
+            "height": 420
+          },
+          "content": {
+            "open": true
+          }
+        },
+        "c992d193-9eca-4245-b71f-ec21b9d3c2d7": {
+          "x": 640,
+          "y": 0
+        },
+        "af01b94a-46cf-420e-b359-0b2db3067fc2": {
+          "x": 980,
+          "y": 0
+        },
+        "8a8255c4-1da3-498a-b93a-8bfece90003b": {
+          "x": 1320,
+          "y": 0
+        },
+        "456ab08b-dc00-470f-a667-822ff141def0": {
+          "x": 640,
+          "y": 220
+        },
+        "385ca238-c3ea-4b21-809b-064aefe8fe76": {
+          "x": 980,
+          "y": 220
+        },
+        "8e84b786-b48c-48d1-8f40-6eb1e0754fee": {
+          "x": 1320,
+          "y": 220
+        },
+        "15d36651-2dbc-4fe9-82eb-fd9c6e00e6b0": {
+          "x": 640,
+          "y": 440
+        },
+        "f54b76c2-5704-4cb7-a3dc-5a30c8d0454d": {
+          "x": 980,
+          "y": 440
+        },
+        "8b883b4e-cd4c-4887-bbb9-5f1f0f61c675": {
+          "x": 1320,
+          "y": 440
+        }
+      },
+      "graphs": [
+        {
+          "id": "abb666d4-7705-4177-8b41-9d538f1e1d5a",
+          "title": "Analysis",
+          "color": "#4e79a7",
+          "headShape": "arrow",
+          "edges": [
+            {
+              "from": "6eb594f1-4e74-415a-8d3b-24177628f3e4",
+              "to": "c992d193-9eca-4245-b71f-ec21b9d3c2d7"
+            },
+            {
+              "from": "c992d193-9eca-4245-b71f-ec21b9d3c2d7",
+              "to": "af01b94a-46cf-420e-b359-0b2db3067fc2"
+            },
+            {
+              "from": "af01b94a-46cf-420e-b359-0b2db3067fc2",
+              "to": "8a8255c4-1da3-498a-b93a-8bfece90003b"
+            },
+            {
+              "from": "af01b94a-46cf-420e-b359-0b2db3067fc2",
+              "to": "456ab08b-dc00-470f-a667-822ff141def0"
+            },
+            {
+              "from": "6eb594f1-4e74-415a-8d3b-24177628f3e4",
+              "to": "385ca238-c3ea-4b21-809b-064aefe8fe76"
+            },
+            {
+              "from": "8a8255c4-1da3-498a-b93a-8bfece90003b",
+              "to": "8e84b786-b48c-48d1-8f40-6eb1e0754fee"
+            },
+            {
+              "from": "c992d193-9eca-4245-b71f-ec21b9d3c2d7",
+              "to": "15d36651-2dbc-4fe9-82eb-fd9c6e00e6b0"
+            },
+            {
+              "from": "15d36651-2dbc-4fe9-82eb-fd9c6e00e6b0",
+              "to": "f54b76c2-5704-4cb7-a3dc-5a30c8d0454d"
+            },
+            {
+              "from": "6eb594f1-4e74-415a-8d3b-24177628f3e4",
+              "to": "8b883b4e-cd4c-4887-bbb9-5f1f0f61c675"
+            }
+          ]
+        }
+      ],
+      "activeGraph": "abb666d4-7705-4177-8b41-9d538f1e1d5a"
+    }
+  ],
+  "defaultMap": "d90e6657-942e-49dc-9b69-301e80c38afc"
+}

@@ -1,0 +1,11 @@
+- Propaganda and its techniques are not peculiar to totalitarianism (p. 168).
+- People in totalitarian countries feel much less oppressed than liberals imagine (p. 168).
+- A totalitarian moral code is not necessarily entirely antimoral; some features may appeal to stern conservative moralists (p. 169).
+- On values and moral convictions the individual always will conform more or less to the views ruling his community (p. 169). So conformity of values is treated as normal; it is the extension to facts that is distinctive.
+- Myth creation need not be conscious (p. 170); the change of word meanings may be employed consciously or unconsciously (p. 172).
+- Mannheim "at least warns us" about his redefinition (p. 171).
+- Wartime in liberal countries already involves the same control in some fields (p. 173).
+- It is sometimes difficult to explain why particular doctrines are proscribed (p. 173).
+- The desire to impose a salutary creed is not new or peculiar to our time (p. 175).
+- The large elitist concession: it is probably true that the great majority are rarely capable of independent thought, accept ready-made views, and that freedom of thought is of direct significance only to a small minority (p. 175). He denies only the inference that anyone may select that minority or determine what others should believe (pp. 175-176).
+- Standing of the person asserting something is admitted, in a parenthesis, as a legitimate ground of belief alongside evidence (p. 174).

@@ -1,0 +1,93 @@
+{
+  "version": 1,
+  "id": "551eac66-e287-4e20-a46b-9ba7cd251d0c",
+  "title": "Capital fm01 · Acknowledgments and Introduction",
+  "maps": [
+    {
+      "id": "dd5bc48a-1f33-4a1b-a627-8d89c92843da",
+      "title": "Note",
+      "kind": "positioned",
+      "positions": {
+        "4271bee5-b180-413f-afbe-2a3b677226dc": {
+          "x": 0,
+          "y": 0,
+          "size": {
+            "width": 560,
+            "height": 420
+          },
+          "content": {
+            "open": true
+          }
+        },
+        "65911bc1-6a1e-4e32-8e2d-cbed5f918a87": {
+          "x": 640,
+          "y": 0
+        },
+        "e842908c-9f51-4b33-9568-60d385e68c23": {
+          "x": 980,
+          "y": 0
+        },
+        "af238a67-27c8-4281-9cbf-df0ba084cf3e": {
+          "x": 1320,
+          "y": 0
+        },
+        "acbc1f8e-94da-459e-9490-418c3fcb4b0f": {
+          "x": 640,
+          "y": 220
+        },
+        "1444a122-ea5f-4265-84d8-75f3ec08b7a3": {
+          "x": 980,
+          "y": 220
+        },
+        "d53eb7ab-eb23-4325-a904-bc11b084edea": {
+          "x": 1320,
+          "y": 220
+        },
+        "816e7e85-64b2-4688-9537-5b0e4f39c1e5": {
+          "x": 640,
+          "y": 440
+        }
+      },
+      "graphs": [
+        {
+          "id": "ef8895bc-1634-40e3-b9a0-4eca687d5ef5",
+          "title": "Analysis",
+          "color": "#4e79a7",
+          "headShape": "arrow",
+          "edges": [
+            {
+              "from": "4271bee5-b180-413f-afbe-2a3b677226dc",
+              "to": "65911bc1-6a1e-4e32-8e2d-cbed5f918a87"
+            },
+            {
+              "from": "65911bc1-6a1e-4e32-8e2d-cbed5f918a87",
+              "to": "e842908c-9f51-4b33-9568-60d385e68c23"
+            },
+            {
+              "from": "e842908c-9f51-4b33-9568-60d385e68c23",
+              "to": "af238a67-27c8-4281-9cbf-df0ba084cf3e"
+            },
+            {
+              "from": "4271bee5-b180-413f-afbe-2a3b677226dc",
+              "to": "acbc1f8e-94da-459e-9490-418c3fcb4b0f"
+            },
+            {
+              "from": "af238a67-27c8-4281-9cbf-df0ba084cf3e",
+              "to": "1444a122-ea5f-4265-84d8-75f3ec08b7a3"
+            },
+            {
+              "from": "65911bc1-6a1e-4e32-8e2d-cbed5f918a87",
+              "to": "d53eb7ab-eb23-4325-a904-bc11b084edea"
+            },
+            {
+              "from": "d53eb7ab-eb23-4325-a904-bc11b084edea",
+              "to": "816e7e85-64b2-4688-9537-5b0e4f39c1e5"
+            }
+          ]
+        }
+      ],
+      "activeGraph": "ef8895bc-1634-40e3-b9a0-4eca687d5ef5"
+    }
+  ],
+  "defaultMap": "dd5bc48a-1f33-4a1b-a627-8d89c92843da"
+}

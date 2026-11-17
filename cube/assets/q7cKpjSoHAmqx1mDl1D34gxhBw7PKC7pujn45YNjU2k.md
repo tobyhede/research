@@ -1,0 +1,16 @@
+- It is a mistake to treat National Socialism as an irrational movement without intellectual background; were it so it would be less dangerous (p. 178).
+- Its doctrines culminate a long evolution of thought with influence far beyond Germany; the system has ruthless consistency once its premises are accepted (p. 178).
+- German thinkers led but were not alone: Carlyle, H. S. Chamberlain, Comte and Sorel belong to the same development (p. 178).
+- Qualification: it is easy to exaggerate the importance of these ideas in Germany before 1914; they were one strand among a people perhaps more varied in views than any other, held by a small minority and despised by most Germans (p. 178).
+- What brought them to majority support was not merely defeat, suffering and nationalism, still less a capitalist reaction against socialism; the support came from the socialist camp, and through the absence of a strong bourgeoisie (p. 178).
+- The doctrines guiding Germany's ruling elements opposed not the socialism in Marxism but its liberal elements, internationalism and democracy; as these proved obstacles to socialism, Left socialists approached the Right (pp. 178-179).
+- The union of anticapitalist forces of Right and Left drove out everything liberal (p. 179).
+- Socialism and nationalism were linked in Germany from the beginning: Fichte, Rodbertus and Lassalle are ancestors of National Socialism and acknowledged fathers of socialism (p. 179).
+- Under Marxist leadership of the labor movement the authoritarian-nationalist element receded for a time (and, per Hayek's note, only partially); from 1914 a series of Marxist-trained teachers led workers and idealist youth, not conservatives, toward National Socialism (p. 179; p. 186, note 5).
+- The sequence of teachers: Sombart (pp. 179-180), Plenge (pp. 180-182), Ostwald and the scientists and engineers (p. 182), Rathenau and Naumann (p. 182), Lensch (pp. 182-184).
+- Plenge and Lensch supplied the leading ideas for the immediate masters of National Socialism, Spengler and Moeller van den Bruck (p. 184); Hayek's note adds Spann, Freyer, Schmitt and Jünger (p. 188, note 27).
+- For Spengler and Moeller, liberalism is the archenemy; the World War was socialism's war against liberalism (pp. 184-185).
+- Moeller's Third Reich was meant to give Germans a socialism adapted to their nature and undefiled by Western liberalism; "And so it did" (p. 185).
+- These writers were not isolated: by 1922 an observer (Pribram) noted anticapitalism being treated as continuation of the war against the Entente (pp. 185-186).
+- The fusion was completed first in the German Youth Movement and then expounded by the Tat circle (p. 186).
+- The English and American present resembles this: the same drawing together of Left and Right socialists and contempt for the liberal; conservative socialism is the dominant trend "among us now" (p. 186).

@@ -1,0 +1,93 @@
+{
+  "version": 1,
+  "id": "8610f470-2e79-4e58-a7ff-4f89e32dd4f1",
+  "title": "Serfdom ch03 · Individualism and Collectivism",
+  "maps": [
+    {
+      "id": "327a668e-a365-4988-98bd-bdc5451d6efd",
+      "title": "Note",
+      "kind": "positioned",
+      "positions": {
+        "e8ea18e5-204b-4a43-934d-c2cbbab32a35": {
+          "x": 0,
+          "y": 0,
+          "size": {
+            "width": 560,
+            "height": 420
+          },
+          "content": {
+            "open": true
+          }
+        },
+        "29c1719c-1424-4031-91ae-b157ce80c292": {
+          "x": 640,
+          "y": 0
+        },
+        "2174b968-c3e7-4c65-916b-8bc1c0a077e0": {
+          "x": 980,
+          "y": 0
+        },
+        "0eab8f1a-a3dd-46f7-8f37-9f7c332b0ab6": {
+          "x": 1320,
+          "y": 0
+        },
+        "ef0da384-36d3-403f-a4cb-9f81ffe842ee": {
+          "x": 640,
+          "y": 220
+        },
+        "1f720db3-063a-425f-bbe4-39c2dbc2b04c": {
+          "x": 980,
+          "y": 220
+        },
+        "ad9694b4-8eaf-4d1d-bc1b-bd8fa9534d1f": {
+          "x": 1320,
+          "y": 220
+        },
+        "01507036-f9e6-4d26-88ae-b0d8672543b9": {
+          "x": 640,
+          "y": 440
+        }
+      },
+      "graphs": [
+        {
+          "id": "d0e63ee7-419d-4aef-b95d-fa58ff9f7ea9",
+          "title": "Analysis",
+          "color": "#4e79a7",
+          "headShape": "arrow",
+          "edges": [
+            {
+              "from": "e8ea18e5-204b-4a43-934d-c2cbbab32a35",
+              "to": "29c1719c-1424-4031-91ae-b157ce80c292"
+            },
+            {
+              "from": "29c1719c-1424-4031-91ae-b157ce80c292",
+              "to": "2174b968-c3e7-4c65-916b-8bc1c0a077e0"
+            },
+            {
+              "from": "2174b968-c3e7-4c65-916b-8bc1c0a077e0",
+              "to": "0eab8f1a-a3dd-46f7-8f37-9f7c332b0ab6"
+            },
+            {
+              "from": "e8ea18e5-204b-4a43-934d-c2cbbab32a35",
+              "to": "ef0da384-36d3-403f-a4cb-9f81ffe842ee"
+            },
+            {
+              "from": "0eab8f1a-a3dd-46f7-8f37-9f7c332b0ab6",
+              "to": "1f720db3-063a-425f-bbe4-39c2dbc2b04c"
+            },
+            {
+              "from": "29c1719c-1424-4031-91ae-b157ce80c292",
+              "to": "ad9694b4-8eaf-4d1d-bc1b-bd8fa9534d1f"
+            },
+            {
+              "from": "ad9694b4-8eaf-4d1d-bc1b-bd8fa9534d1f",
+              "to": "01507036-f9e6-4d26-88ae-b0d8672543b9"
+            }
+          ]
+        }
+      ],
+      "activeGraph": "d0e63ee7-419d-4aef-b95d-fa58ff9f7ea9"
+    }
+  ],
+  "defaultMap": "327a668e-a365-4988-98bd-bdc5451d6efd"
+}

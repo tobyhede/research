@@ -1,0 +1,101 @@
+{
+  "version": 1,
+  "id": "ce842e09-d696-45d3-b0e5-9a397202ba24",
+  "title": "Capital ch06 · The Capital-Labor Split in the Twenty-First Century",
+  "maps": [
+    {
+      "id": "a34d5d4c-7899-45d8-9a12-d3d57297d47d",
+      "title": "Note",
+      "kind": "positioned",
+      "positions": {
+        "72c47c0a-81af-4173-b42c-39c359569951": {
+          "x": 0,
+          "y": 0,
+          "size": {
+            "width": 560,
+            "height": 420
+          },
+          "content": {
+            "open": true
+          }
+        },
+        "49a49963-bfb7-4254-867f-5244838c69e5": {
+          "x": 640,
+          "y": 0
+        },
+        "ae358395-39e0-4ed2-bcf6-ff3b9697c850": {
+          "x": 980,
+          "y": 0
+        },
+        "04c8df75-7fd9-40ce-a714-d7508b9b9829": {
+          "x": 1320,
+          "y": 0
+        },
+        "6a919aa7-a09a-4cde-b052-fbd932b8caf9": {
+          "x": 640,
+          "y": 220
+        },
+        "e79a3f1d-bea6-4253-b317-232ff6474688": {
+          "x": 980,
+          "y": 220
+        },
+        "deb8729c-d017-45c9-be30-500510f529ed": {
+          "x": 1320,
+          "y": 220
+        },
+        "f71430e6-5c13-4603-9d96-670015cd70ff": {
+          "x": 640,
+          "y": 440
+        },
+        "b9ee186a-b34d-4526-a54c-5665b4b6e652": {
+          "x": 980,
+          "y": 440
+        }
+      },
+      "graphs": [
+        {
+          "id": "7251d3da-9167-4716-b6a9-3a04cbe12c65",
+          "title": "Analysis",
+          "color": "#4e79a7",
+          "headShape": "arrow",
+          "edges": [
+            {
+              "from": "72c47c0a-81af-4173-b42c-39c359569951",
+              "to": "49a49963-bfb7-4254-867f-5244838c69e5"
+            },
+            {
+              "from": "49a49963-bfb7-4254-867f-5244838c69e5",
+              "to": "ae358395-39e0-4ed2-bcf6-ff3b9697c850"
+            },
+            {
+              "from": "ae358395-39e0-4ed2-bcf6-ff3b9697c850",
+              "to": "04c8df75-7fd9-40ce-a714-d7508b9b9829"
+            },
+            {
+              "from": "ae358395-39e0-4ed2-bcf6-ff3b9697c850",
+              "to": "6a919aa7-a09a-4cde-b052-fbd932b8caf9"
+            },
+            {
+              "from": "72c47c0a-81af-4173-b42c-39c359569951",
+              "to": "e79a3f1d-bea6-4253-b317-232ff6474688"
+            },
+            {
+              "from": "04c8df75-7fd9-40ce-a714-d7508b9b9829",
+              "to": "deb8729c-d017-45c9-be30-500510f529ed"
+            },
+            {
+              "from": "49a49963-bfb7-4254-867f-5244838c69e5",
+              "to": "f71430e6-5c13-4603-9d96-670015cd70ff"
+            },
+            {
+              "from": "f71430e6-5c13-4603-9d96-670015cd70ff",
+              "to": "b9ee186a-b34d-4526-a54c-5665b4b6e652"
+            }
+          ]
+        }
+      ],
+      "activeGraph": "7251d3da-9167-4716-b6a9-3a04cbe12c65"
+    }
+  ],
+  "defaultMap": "a34d5d4c-7899-45d8-9a12-d3d57297d47d"
+}

@@ -1,0 +1,101 @@
+{
+  "version": 1,
+  "id": "9a49edfa-1f09-46fa-bd41-9817c347aa64",
+  "title": "Serfdom ch05 · Planning and Democracy",
+  "maps": [
+    {
+      "id": "33fa257b-b25c-488d-bb50-6a291a820da1",
+      "title": "Note",
+      "kind": "positioned",
+      "positions": {
+        "5c275b56-5bc8-49b5-8ead-e652dba5f43e": {
+          "x": 0,
+          "y": 0,
+          "size": {
+            "width": 560,
+            "height": 420
+          },
+          "content": {
+            "open": true
+          }
+        },
+        "fdefef56-72ed-45a4-ab0b-ce7ee446cb3a": {
+          "x": 640,
+          "y": 0
+        },
+        "5e67c3b6-2d24-4584-a8ae-c2cd6c8bf7e3": {
+          "x": 980,
+          "y": 0
+        },
+        "3a894860-82ee-4013-9695-950efd13e0da": {
+          "x": 1320,
+          "y": 0
+        },
+        "55494f0c-8d5f-4894-b155-ee59ddc72e13": {
+          "x": 640,
+          "y": 220
+        },
+        "86771561-7161-4c35-bd93-81b2a145c580": {
+          "x": 980,
+          "y": 220
+        },
+        "0c6b5006-da0e-47ea-9fb9-c2117825b777": {
+          "x": 1320,
+          "y": 220
+        },
+        "b040cc45-99ca-4b7d-87be-a13e3fd96047": {
+          "x": 640,
+          "y": 440
+        },
+        "1247072f-8aac-416d-a131-a258939d9606": {
+          "x": 980,
+          "y": 440
+        }
+      },
+      "graphs": [
+        {
+          "id": "af76f505-ba5d-401a-94c8-69e27d1b61b7",
+          "title": "Analysis",
+          "color": "#4e79a7",
+          "headShape": "arrow",
+          "edges": [
+            {
+              "from": "5c275b56-5bc8-49b5-8ead-e652dba5f43e",
+              "to": "fdefef56-72ed-45a4-ab0b-ce7ee446cb3a"
+            },
+            {
+              "from": "fdefef56-72ed-45a4-ab0b-ce7ee446cb3a",
+              "to": "5e67c3b6-2d24-4584-a8ae-c2cd6c8bf7e3"
+            },
+            {
+              "from": "5e67c3b6-2d24-4584-a8ae-c2cd6c8bf7e3",
+              "to": "3a894860-82ee-4013-9695-950efd13e0da"
+            },
+            {
+              "from": "5e67c3b6-2d24-4584-a8ae-c2cd6c8bf7e3",
+              "to": "55494f0c-8d5f-4894-b155-ee59ddc72e13"
+            },
+            {
+              "from": "5c275b56-5bc8-49b5-8ead-e652dba5f43e",
+              "to": "86771561-7161-4c35-bd93-81b2a145c580"
+            },
+            {
+              "from": "3a894860-82ee-4013-9695-950efd13e0da",
+              "to": "0c6b5006-da0e-47ea-9fb9-c2117825b777"
+            },
+            {
+              "from": "fdefef56-72ed-45a4-ab0b-ce7ee446cb3a",
+              "to": "b040cc45-99ca-4b7d-87be-a13e3fd96047"
+            },
+            {
+              "from": "b040cc45-99ca-4b7d-87be-a13e3fd96047",
+              "to": "1247072f-8aac-416d-a131-a258939d9606"
+            }
+          ]
+        }
+      ],
+      "activeGraph": "af76f505-ba5d-401a-94c8-69e27d1b61b7"
+    }
+  ],
+  "defaultMap": "33fa257b-b25c-488d-bb50-6a291a820da1"
+}

@@ -1,0 +1,7 @@
+- Can general, prospective rules have a distributive aim (progressive taxation, universal benefits defined by category) without violating the Rule of Law as defined on pp. 110 and 116? Synthesis should decide whether Hayek's criterion is form, ignorance of beneficiaries, or legislative intent, and test each against his own accepted examples (factory laws, p. 115).
+- Is the ignorance claim true? Legislators often know which groups gain from a general rule (property law, inheritance). If so, is the liberal legislator "impartial" in his sense (p. 111)?
+- Who enforces the limit on legislation (p. 116)? The chapter names bills of rights and tradition but not courts or constitutional design; check whether ch15 or the conclusion addresses this.
+- The German decline of the Rechtsstaat before Hitler (p. 113) is asserted. Does ch12 give the evidence?
+- Does the Rule of Law argument reach non-comprehensive intervention (price controls in one market, industrial licensing), or only the "collectivist kind" of planning (p. 109)? The licensing example of privilege (p. 114) suggests it reaches further than central planning.
+- The Kant quotation (p. 115) is unlocated by the editor (p. 119); treat it as unverified in any later citation.
+- The picketing example (p. 114) shows the "inaction can be illiberal" point being used against trade-union practice; compare ch08 and ch09 on organised labour.

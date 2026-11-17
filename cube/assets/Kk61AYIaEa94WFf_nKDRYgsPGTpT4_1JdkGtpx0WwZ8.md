@@ -1,0 +1,6 @@
+- Is the "complete ethical code" requirement a fair description of what real planners (wartime planners, the post-1945 Labour government, indicative planners) needed? Mixed economies that passed the 50 per cent mark in public spending did not become dictatorships; synthesis should test whether Hayek's claim is restricted to *comprehensive central direction* tightly enough to escape that counter-example, or whether p. 100 commits him to more.
+- Does the argument about majorities (p. 102) prove too much? Budgets are complex wholes voted by parliaments. What distinguishes a budget from a plan on his account?
+- The Weimar example (p. 104): is the causal claim (planning commitments caused democratic breakdown) argued anywhere in the book, or only assumed? Check ch12.
+- How does "the limitation of power" (p. 106) get enforced if not by democratic means? ch06 answers with the Rule of Law, but who binds the legislature? (See ch06, pp. 118-119 on constitutional limits.)
+- He does not say whether the desirable state would be a complete ethical code if we could have it (p. 98). Is his objection epistemic, moral, or both?
+- "In some fields things must be left to chance" (p. 105): how does this admitted cost square with ch08's treatment of chance and impersonal forces as preferable to deliberate distribution?

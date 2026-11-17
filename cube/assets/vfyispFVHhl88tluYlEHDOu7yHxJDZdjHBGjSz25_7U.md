@@ -1,0 +1,21 @@
+- To make everyone serve a single system of ends efficiently, it is not enough to force them; they must be made to believe in those ends as their own (p. 168).
+- The feeling of oppression in totalitarian countries is much less acute than outsiders imagine, because governments largely succeed in making people think as they want (p. 168).
+- Propaganda is not peculiar to totalitarianism; monopoly and coordination of it are, and they change its effect in kind (p. 168).
+- If propaganda only taught a comprehensive moral code, the sole problem would be whether the code is good or bad; such a code, though repellent, is not necessarily entirely antimoral and might even appeal to stern conservative moralists (p. 169).
+- The deeper damage is to truth: totalitarian propaganda must extend from values to facts, and so undermines a foundation of all morals (p. 169).
+- It must extend to facts for two reasons: official values must be justified by causal claims linking them to values already held; and ends and means are never cleanly separable, so people must agree with the factual views on which particular measures rest (p. 169).
+- The planner's code of values does not exist in advance; it is created with the particular decisions, which must then be publicly rationalized through theories that become official doctrine (p. 170).
+- Myth-making need not be conscious; the leader embraces theories that rationalize prejudices he shares with many (p. 170).
+- The most effective technique for getting new values accepted is to keep the old words and change their meaning; liberty is the worst sufferer (p. 171).
+- Wherever liberty as we understand it has been destroyed, this has almost always been done in the name of some new freedom (p. 171).
+- Mannheim's planned or collective freedom is the unlimited freedom of the planner (p. 171).
+- Because much of the plan's value code is only implicit in it, the plan in every detail and every government act must be exempt from criticism; doubt is treated as disloyalty or sabotage (p. 172).
+- All information is then selected by its probable effect on loyalty; the situation is permanently and universally what wartime censorship is partially and temporarily (pp. 172-173).
+- Control extends to all sciences, including the most abstract; the human sciences become factories of official myths (p. 173).
+- Totalitarian systems share a dislike of abstract thought and condemn any activity pursued for its own sake (pp. 173-174).
+- These are not accidental by-products but direct results of the wish to direct everything by a unitary conception (p. 174).
+- The word truth itself changes meaning (pp. 174-175).
+- Contempt for intellectual liberty is already found among collectivist intellectuals in still-liberal countries (p. 175).
+- The argument that mass opinion is shaped anyway, so should be shaped deliberately, is confused: it makes a difference whether everyone must follow the same lead (pp. 175-176).
+- The growth of reason is an unpredictable social process; to plan it is a contradiction in terms; attempting it produces stagnation of thought and decline of reason (p. 176).
+- Collectivism sets out to make reason supreme and ends by destroying it; individualism is humility before the social process (p. 176).

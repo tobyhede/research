@@ -1,0 +1,7 @@
+- Where exactly is the line between the minimum (acceptable) and the security of a standard of life (unacceptable)? A minimum indexed to rising wealth drifts toward the second. Hayek gives a criterion (outside the market, universal, sufficient for health and work capacity) but no level (p. 144).
+- Does unemployment insurance, old-age pension or health provision as actually built after 1945 satisfy his insurable-risk condition (pp. 144-145)? Synthesis should test whether the postwar welfare state falsifies the ratchet (A5) or falls under the accepted first kind.
+- What does he intend by suggesting that those who rely on the community may not keep all the same liberties indefinitely (p. 144)? This is the least liberal sentence in the chapter and is not developed.
+- Is the unemployment claim at p. 150 defensible on evidence, and how does it relate to his business-cycle views?
+- Is the commercial/military dichotomy (p. 148) the same either/or as the competition/central-direction dichotomy of ch03, and does it share that argument's weakness regarding mixed systems?
+- How much weight does the Germany-as-Beamtenstaat characterization (p. 152) carry in the book's overall causal story, and is it compatible with ch12's emphasis on ideas rather than social structure?
+- The Laski quotation: Laski says liberty without security is not worth having; Hayek himself says some security is essential if freedom is to be preserved (p. 152). How far apart are they once Hayek's concessions are counted?

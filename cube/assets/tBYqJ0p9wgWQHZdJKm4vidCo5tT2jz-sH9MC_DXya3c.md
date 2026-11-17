@@ -1,0 +1,5 @@
+- How much of the US "wage" rise reflects reclassification (stock options counted as wages at exercise, note 44; the 1986 tax reform shifting corporate profits onto personal returns, note 28)? Piketty says the 1986 shift is short-term only; this deserves checking against the online appendix.
+- The occupational split in the top 0.1 percent depends on how "managers" are defined (p. 219), and includes executives of firms whose pay is not disclosed. What share are owner-managers of private firms, whose "labor" income is partly a return to capital (cf. note 11 on income disguised as dividends)?
+- What explains the non-return of the rentier beyond progressive taxation (p. 201)? ch10–ch11 should be checked for whether the answer is demographic, fiscal or the slow pace of re-accumulation.
+- Does the evasion correction (2–3 points, pp. 204, 214) really scale equally across periods, given the post-1980 rise of tax havens that Piketty himself says are probably outside national accounts (p. 214)?
+- The finance–inequality causal claim (p. 216) is asserted rather than shown. Where, if anywhere, does the book return to it with evidence?

@@ -1,0 +1,8 @@
+- "it is not the present Germany but the Germany of twenty or thirty years ago to which conditions in the democracies show an ever increasing resemblance" (p. 190)
+- "there is scarcely a leaf out of Hitler’s book which somebody or other in England or America has not recommended us to take and use for our own purposes" (p. 192)
+- "the impetus of the movement toward totalitarianism comes mainly from the two great vested interests: organized capital and organized labor" (p. 197)
+- "While there is no reason to believe that this movement is inevitable, there can be little doubt that if we continue on the path we have been treading, it will lead us to totalitarianism." (p. 198)
+- "But a state monopoly is always a state-protected monopoly—protected against both potential competition and effective criticism." (p. 199)
+- "Personally, I should much prefer to have to put up with some such inefficiency than have organized monopoly control my ways of life." (p. 200)
+- "There is no other possibility than either the order governed by the impersonal discipline of the market or that directed by the will of a few individuals; and those who are out to destroy the first are wittingly or unwittingly helping to create the second." (p. 201)
+- Editor, on Hayek's truncated Carr quotation: "It may be that Carr was referring to what the national community believed, rather than to what he himself believed." (p. 203)

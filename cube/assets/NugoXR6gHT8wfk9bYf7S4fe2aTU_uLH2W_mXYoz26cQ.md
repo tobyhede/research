@@ -1,0 +1,8 @@
+- "It is rarely remembered now that socialism in its beginnings was frankly authoritarian." (p. 74)
+- "To the great apostles of political freedom the word had meant freedom from coercion, freedom from the arbitrary power of other men, release from the ties which left the individual no choice but obedience to the orders of a superior to whom he was attached." (pp. 74-75)
+- "The new freedom promised, however, was to be freedom from necessity, release from the compulsion of the circumstances which inevitably limit the range of choice of all of us, although for some very much more than for others." (p. 75)
+- "The demand for the new freedom was thus only another name for the old demand for an equal distribution of wealth." (p. 75)
+- "But this would only heighten the tragedy if it should prove that what was promised to us as the Road to Freedom was in fact the High Road to Servitude." (p. 75)
+- "To both, the real enemy, the man with whom they had nothing in common and whom they could not hope to convince, is the liberal of the old type." (p. 77)
+- "There can be no doubt that most socialists here still believe profoundly in the liberal ideal of freedom and that they would recoil if they became convinced that the realization of their program would mean the destruction of freedom." (pp. 77-78)
+- "That democratic socialism, the great utopia of the last few generations, is not only unachievable, but that to strive for it produces something so utterly different that few of those who now wish it would be prepared to accept the consequences, many will not believe until the connection has been laid bare in all its aspects." (p. 78)

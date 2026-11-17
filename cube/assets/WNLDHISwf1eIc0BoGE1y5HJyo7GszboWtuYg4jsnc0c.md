@@ -1,0 +1,5 @@
+The book asks whether a free society can direct its economic life by a central plan and remain free. Hayek's answer is that it cannot. He defines the thing he is attacking narrowly, as central direction of all economic activity according to a single plan (p. 82), and says his criticism is aimed solely at planning against competition (p. 87). He treats socialism as one species of this method and holds that the consequences follow from the method whatever ends it serves (p. 81).
+
+It is a political book and says so: the argument rests on declared ultimate values (p. 37). It is a warning to people Hayek regarded as well-meaning, the socialists of all parties of the dedication (p. 37, p. 39). It is also, by his own account, critical and not constructive: it offers no programme for domestic order (pp. 234-235).
+
+This edition adds a second layer. Hayek's 1956 foreword and 1976 preface revise the claim, and the editor's introduction and the appended readers' reports argue about what the claim was. The book therefore contains its own reception, and a reader has to keep four voices apart: Hayek in 1944, Hayek later, the editor, and the contemporaries.

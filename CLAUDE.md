@@ -26,6 +26,7 @@ Commit the source book, extracted text, extraction manifest, generated HTML read
 2. **Distill** with the `distill-book` skill. Extract into `books/<slug>/source/`, with the line-numbered text at `source/source.txt`. Write the report to `brief.md`, citing `./source/source.txt#L<n>`, and build the reader to `brief.html`.
 3. **Deep read** with the `deep-reader` skill. Pass `books/<slug>/deep-read` as the workspace (second argument to `prepare-text.sh`); its default is a `<slug>-notes/` directory beside the source.
 4. Update the book's row in the `README.md` index.
+5. Rebuild the cube with `node scripts/build-cube.mjs` after adding the book to its `BOOKS` list, and run `pnpm cube check <abs path>/cube` from an InfinityCube clone. `cube/` is generated: never edit it by hand, and do not commit edits made in a cube run, because the next build replaces them.
 
 Done when every file shown by `git status --short --untracked-files=all` belongs to the intended book artifacts or documentation changes, and the README row links to every finished reading output, including `brief.html`.
 

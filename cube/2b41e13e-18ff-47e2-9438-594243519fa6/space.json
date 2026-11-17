@@ -1,0 +1,181 @@
+{
+  "version": 1,
+  "id": "2b41e13e-18ff-47e2-9438-594243519fa6",
+  "title": "Serfdom · Critique",
+  "maps": [
+    {
+      "id": "3543bf41-41f3-45f4-935e-020dfdac551a",
+      "title": "Is it true?",
+      "kind": "positioned",
+      "positions": {
+        "8d3e5792-0e40-4285-bfc7-8dd2c8950eb4": {
+          "x": 0,
+          "y": 0,
+          "size": {
+            "width": 360,
+            "height": 180
+          },
+          "content": {
+            "shape": "diamond"
+          }
+        },
+        "836e49a3-dc3d-4b42-b326-27477d2991bc": {
+          "x": 480,
+          "y": 0,
+          "size": {
+            "width": 560,
+            "height": 420
+          },
+          "content": {
+            "open": true
+          }
+        },
+        "ecb22204-63cd-44c8-adb1-21395bc91eca": {
+          "x": 1100,
+          "y": 0,
+          "size": {
+            "width": 560,
+            "height": 420
+          },
+          "content": {
+            "open": true
+          }
+        },
+        "0b6d4474-d0fe-4f3f-bdfa-0e9c298cf47f": {
+          "x": 1720,
+          "y": 0,
+          "size": {
+            "width": 560,
+            "height": 420
+          },
+          "content": {
+            "open": true
+          }
+        },
+        "6437a26a-2409-4a53-a15d-f5da0c41f15a": {
+          "x": 480,
+          "y": 480,
+          "size": {
+            "width": 560,
+            "height": 420
+          },
+          "content": {
+            "open": true
+          }
+        },
+        "325bf710-43c6-4480-a7e4-5396d1fbe36c": {
+          "x": 1100,
+          "y": 480,
+          "size": {
+            "width": 560,
+            "height": 420
+          },
+          "content": {
+            "open": true
+          }
+        },
+        "3d926dab-4dc5-44d1-b137-6f3f8f5da151": {
+          "x": 1720,
+          "y": 480,
+          "size": {
+            "width": 560,
+            "height": 420
+          },
+          "content": {
+            "open": true
+          }
+        },
+        "d560eeca-5346-4164-9b62-07c3bd94960d": {
+          "x": 0,
+          "y": 320
+        }
+      },
+      "graphs": [
+        {
+          "id": "3684d81d-9cb8-4467-80da-75876b342296",
+          "title": "Verdict",
+          "color": "#e15759",
+          "headShape": "arrow",
+          "edges": [
+            {
+              "from": "8d3e5792-0e40-4285-bfc7-8dd2c8950eb4",
+              "to": "836e49a3-dc3d-4b42-b326-27477d2991bc"
+            },
+            {
+              "from": "8d3e5792-0e40-4285-bfc7-8dd2c8950eb4",
+              "to": "ecb22204-63cd-44c8-adb1-21395bc91eca"
+            },
+            {
+              "from": "8d3e5792-0e40-4285-bfc7-8dd2c8950eb4",
+              "to": "0b6d4474-d0fe-4f3f-bdfa-0e9c298cf47f"
+            },
+            {
+              "from": "8d3e5792-0e40-4285-bfc7-8dd2c8950eb4",
+              "to": "6437a26a-2409-4a53-a15d-f5da0c41f15a"
+            },
+            {
+              "from": "8d3e5792-0e40-4285-bfc7-8dd2c8950eb4",
+              "to": "325bf710-43c6-4480-a7e4-5396d1fbe36c"
+            },
+            {
+              "from": "8d3e5792-0e40-4285-bfc7-8dd2c8950eb4",
+              "to": "3d926dab-4dc5-44d1-b137-6f3f8f5da151"
+            },
+            {
+              "from": "8d3e5792-0e40-4285-bfc7-8dd2c8950eb4",
+              "to": "d560eeca-5346-4164-9b62-07c3bd94960d",
+              "title": "checked by"
+            }
+          ]
+        }
+      ],
+      "activeGraph": "3684d81d-9cb8-4467-80da-75876b342296"
+    },
+    {
+      "id": "e0b3965d-fb8d-45b5-826b-5fc10c7558a0",
+      "title": "What of it?",
+      "kind": "positioned",
+      "positions": {
+        "2bfd2c97-2c95-49fb-9080-860f6fe15046": {
+          "x": 0,
+          "y": 0,
+          "size": {
+            "width": 560,
+            "height": 420
+          },
+          "content": {
+            "open": true
+          }
+        },
+        "930ae6cc-8ad0-487f-8755-67c4c4109f57": {
+          "x": 660,
+          "y": 0,
+          "size": {
+            "width": 560,
+            "height": 420
+          },
+          "content": {
+            "open": true
+          }
+        }
+      },
+      "graphs": [
+        {
+          "id": "83b5ceeb-81ec-4476-8e03-7420b4e94401",
+          "title": "So what",
+          "color": "#59a14f",
+          "headShape": "arrow",
+          "edges": [
+            {
+              "from": "2bfd2c97-2c95-49fb-9080-860f6fe15046",
+              "to": "930ae6cc-8ad0-487f-8755-67c4c4109f57",
+              "title": "try it"
+            }
+          ]
+        }
+      ],
+      "activeGraph": "83b5ceeb-81ec-4476-8e03-7420b4e94401"
+    }
+  ],
+  "defaultMap": "3543bf41-41f3-45f4-935e-020dfdac551a"
+}

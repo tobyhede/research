@@ -1,0 +1,29 @@
+- The impression that patrimonial capitalism is new is mistaken; it is "in large part a repetition of the past" typical of low growth (p. 170).
+- Part Three will show that the world wars and the policies that followed, not a natural Kuznets process, reduced twentieth-century inequality, and that institutional differences drive the post-1970s rise (p. 170).
+- Income inequality decomposes into labor inequality, capital inequality and their interaction (p. 171).
+- In nineteenth-century France and Britain, and almost everywhere before 1914, work and study could not match the living standard of inherited wealth (p. 173); the northern US pioneer societies were a short-lived exception, the slave South was not (pp. 173-174).
+- "democratic modernity" rests on the belief that inequalities from talent and effort are more justified than others (p. 174).
+- After 1945 Vautrin's lesson "ceased to be valid" for a time in Europe; work and study became the surest route to the top (p. 174).
+- Inequality of capital income may exceed inequality of capital itself if large fortunes earn higher returns, a powerful multiplier "especially" in this century (p. 175).
+- Labor inequality, capital inequality and differential returns require different justifications and different explanatory mechanisms (p. 175).
+- Capital is always more unequally distributed than labor income, "without exception" in every country and period with data (p. 176).
+- Neither precautionary nor life-cycle saving can explain observed wealth concentration; wealth is nearly as concentrated within each age cohort; inheritance and extreme returns explain it (pp. 176-177).
+- The labels lower, middle and upper class are arbitrary, and class terminology is never politically innocent (p. 179); decile analysis allows "rigorous and objective comparisons" (p. 180).
+- The top centile is large enough (500,000 adults in France, 2.6 million in the US) to shape the social landscape and politics (pp. 181-182).
+- Income and wealth hierarchies are different hierarchies; the top 1 percent by earnings is not the top 1 percent by wealth (p. 182).
+- Labor-income inequality is smaller than wealth inequality but not negligible: labor is two-thirds to three-quarters of national income, and cross-country differences show policy matters (p. 183).
+- Wealth inequality in the most equal wealth distributions (Scandinavia 1970s–1980s) exceeds labor-income inequality in the least equal (US 2010s) (p. 185).
+- No society has ever had "mildly" unequal wealth, meaning the bottom half owning one-fifth to one-quarter (p. 185).
+- The rise of a patrimonial middle class was the principal structural change in the twentieth-century wealth distribution (p. 188); the top centile's wealth share fell by more than half, from over 50 percent to 20–25 percent in Europe (p. 189).
+- The reduction of wealth inequality "is less substantial than many people believe" and not guaranteed to be irreversible (p. 189).
+- Concentration of 90 percent of wealth in the top decile and at least 50 percent in the top centile characterised the whole nineteenth century and traditional rural societies, and is a "necessary condition" for societies based on inherited wealth (p. 189).
+- Total-income inequality lies between labor and capital inequality and nearer labor's (pp. 189-190).
+- A top-decile share near 50 percent of national income is about the historical maximum, but no hard limit exists; sustainability depends on repression and above all on the "apparatus of justification" (p. 190).
+- "the key issue is the justification of inequalities rather than their magnitude as such" (p. 191).
+- There are two routes to very high total-income inequality: rentiers (Belle Époque) and supermanagers (US today) (p. 191); the contrast is "naïve and overdrawn", the two can combine, and if they do the future could be more unequal than any past (p. 192).
+- The US today combines record labor-income inequality with wealth inequality below traditional or 1900–1910 European levels (p. 192).
+- Gini coefficients and other synthetic indices mix levels of the distribution and mix labor with capital; distribution tables are better (pp. 192-193).
+- Official reports' reliance on P90/P10 and neglect of the top end give "an artificially rosy picture" and is "hardly neutral" (p. 194).
+- Shares are more stable than thresholds; P10 depends heavily on measurement conventions (pp. 194-195).
+- National accounts should be broken down into bottom 50, middle 40, top 10 to show who captures growth (p. 195).
+- Distribution tables revive eighteenth-century social tables in spirit; Gini and Pareto measures "tend to naturalize the distribution of wealth" (p. 196).

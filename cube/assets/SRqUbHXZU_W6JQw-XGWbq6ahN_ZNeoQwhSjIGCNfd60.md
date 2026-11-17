@@ -1,0 +1,10 @@
+- Sources are "imperfect and incomplete" and conclusions "tenuous" (p. 426).
+- Growth can be encouraged through education, knowledge and nonpolluting technologies, though not to 4–5% (p. 427).
+- Heavy indiscriminate capital taxation could kill accumulation (p. 427).
+- European integration risks undermining existing social states; "the risk is real" (p. 428).
+- The nation-state remains the right level for modernising many social and fiscal policies and for new forms of shared ownership (p. 428).
+- The aspiration of political economy "often goes unfulfilled" (p. 429).
+- Controlled experiments, used with moderation, "can be useful" (p. 429).
+- Historical causality "is always difficult to prove beyond a shadow of a doubt" (p. 429).
+- Every statistic is a social construct, "which of course is true but insufficient" (p. 430).
+- Specialisation is legitimate, and accumulating data is not always indispensable or "especially imaginative" (p. 431).

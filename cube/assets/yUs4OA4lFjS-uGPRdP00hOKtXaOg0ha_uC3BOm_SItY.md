@@ -1,0 +1,6 @@
+- Is the claim that political freedom has never existed without economic freedom (p. 65) an empirical generalisation or a conceptual claim? What counts as 'freedom in economic affairs' given the list of legitimate government tasks on p. 68?
+- If liberalism has no fixed rules and government has 'enormous powers for good' (p. 68), what principle separates legitimate framework-building from the 'conscious direction' he condemns (p. 69)? The chapter gives the gardener metaphor, not a criterion; chs. 3 and 6 must supply it.
+- The historical sketch makes commerce and freedom travel together (p. 66). Does the book ever consider cases of commercial growth under despotic power, or freedom lost under liberal economic policy?
+- Is 'socialism means slavery' (p. 65) Tocqueville's and Acton's claim in their own terms? Check the editor's notes to the 1956 foreword.
+- Is Mannheim representative? Hayek calls him extreme (p. 69). How much of the book's target is the extreme position?
+- The 1870 date and the 'sixty years' of German leadership (p. 70): what does Hayek think changed in 1870, and does ch. 12 argue it?

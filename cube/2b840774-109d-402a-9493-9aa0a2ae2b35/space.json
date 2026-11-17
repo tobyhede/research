@@ -1,0 +1,93 @@
+{
+  "version": 1,
+  "id": "2b840774-109d-402a-9493-9aa0a2ae2b35",
+  "title": "Capital ch12 · Global Inequality of Wealth in the Twenty-First Century",
+  "maps": [
+    {
+      "id": "b187fe63-27e5-4d6e-a87e-7bfcb6d46cc0",
+      "title": "Note",
+      "kind": "positioned",
+      "positions": {
+        "99a79a50-ed57-4625-8578-3e442e110ce8": {
+          "x": 0,
+          "y": 0,
+          "size": {
+            "width": 560,
+            "height": 420
+          },
+          "content": {
+            "open": true
+          }
+        },
+        "f0a7753e-494a-4335-8bad-610cfa4ff346": {
+          "x": 640,
+          "y": 0
+        },
+        "6739ac1f-423e-485c-8729-258833e31ef3": {
+          "x": 980,
+          "y": 0
+        },
+        "082c8df1-cb71-4b4a-80ee-d3783df562b5": {
+          "x": 1320,
+          "y": 0
+        },
+        "aa34aaf5-07df-4f99-a778-59dc0243b8f2": {
+          "x": 640,
+          "y": 220
+        },
+        "dd68461d-1332-4a77-8e52-3cbb6cdf3a5e": {
+          "x": 980,
+          "y": 220
+        },
+        "7d2ab528-31fb-4a1f-b6ef-b03deefaff9e": {
+          "x": 1320,
+          "y": 220
+        },
+        "551a4736-37c8-47bd-9b0a-7bb856eb9eed": {
+          "x": 640,
+          "y": 440
+        }
+      },
+      "graphs": [
+        {
+          "id": "d0a3aa0d-dd76-4a9d-98a7-abd03f753de2",
+          "title": "Analysis",
+          "color": "#4e79a7",
+          "headShape": "arrow",
+          "edges": [
+            {
+              "from": "99a79a50-ed57-4625-8578-3e442e110ce8",
+              "to": "f0a7753e-494a-4335-8bad-610cfa4ff346"
+            },
+            {
+              "from": "f0a7753e-494a-4335-8bad-610cfa4ff346",
+              "to": "6739ac1f-423e-485c-8729-258833e31ef3"
+            },
+            {
+              "from": "6739ac1f-423e-485c-8729-258833e31ef3",
+              "to": "082c8df1-cb71-4b4a-80ee-d3783df562b5"
+            },
+            {
+              "from": "99a79a50-ed57-4625-8578-3e442e110ce8",
+              "to": "aa34aaf5-07df-4f99-a778-59dc0243b8f2"
+            },
+            {
+              "from": "082c8df1-cb71-4b4a-80ee-d3783df562b5",
+              "to": "dd68461d-1332-4a77-8e52-3cbb6cdf3a5e"
+            },
+            {
+              "from": "f0a7753e-494a-4335-8bad-610cfa4ff346",
+              "to": "7d2ab528-31fb-4a1f-b6ef-b03deefaff9e"
+            },
+            {
+              "from": "7d2ab528-31fb-4a1f-b6ef-b03deefaff9e",
+              "to": "551a4736-37c8-47bd-9b0a-7bb856eb9eed"
+            }
+          ]
+        }
+      ],
+      "activeGraph": "d0a3aa0d-dd76-4a9d-98a7-abd03f753de2"
+    }
+  ],
+  "defaultMap": "b187fe63-27e5-4d6e-a87e-7bfcb6d46cc0"
+}
