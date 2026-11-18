@@ -23,7 +23,7 @@ Done when every inbox file is either placed or reported back with its reason (SK
 
 ## 3. Read
 
-Dispatch one subagent per `placed` book, in parallel. Each subagent runs steps 2 and 3 of "Adding or extending a book" in CLAUDE.md for its slug, and writes only inside `books/<slug>/`.
+Dispatch one subagent per `placed` book, in parallel. Each subagent runs steps 2 and 3 of "Adding or extending a book" in AGENTS.md for its slug, and writes only inside `books/<slug>/`.
 
 As each subagent returns, you are the only writer of shared files:
 
@@ -31,4 +31,4 @@ As each subagent returns, you are the only writer of shared files:
 - Add its `README.md` row, linking every finished output, including `brief.html`.
 - Set `status <slug> done`.
 
-Done when every book placed this run is `done`, or is reported with the step it stopped at. Finish with CLAUDE.md's completion check (`git status`).
+Done when every book placed this run is `done`, or is reported with the step it stopped at. Finish with AGENTS.md's completion check (`git status`).

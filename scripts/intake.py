@@ -28,7 +28,7 @@ STATUSES = ["wanted", "placed", "distilled", "deep-read", "done"]
 HEADER = "| Slug | Title | Author | Status | File |\n| --- | --- | --- | --- | --- |\n"
 PREAMBLE = (
     "# Queue\n\n"
-    "Books to read. Managed by `scripts/intake.py`; see CLAUDE.md for the workflow.\n\n"
+    "Books to read. Managed by `scripts/intake.py`; see AGENTS.md for the workflow.\n\n"
 )
 STOPWORDS = {"the", "a", "an", "of", "and", "in", "on", "to", "for", "with", "by"}
 
