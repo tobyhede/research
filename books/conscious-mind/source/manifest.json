@@ -1,0 +1,206 @@
+{
+  "source_file": "/Users/tobyhede/psrc/research/books/conscious-mind/source/The Conscious MindIn Search of a Fundamental Theory (David J. Chalmers).epub",
+  "sections_extracted": 24,
+  "sections": [
+    {
+      "spine_index": 2,
+      "id": "id29",
+      "title": "The Conscious Mind",
+      "source_path": "text/part0000.html",
+      "output_file": "002-The-Conscious-Mind.txt",
+      "characters": 20
+    },
+    {
+      "spine_index": 3,
+      "id": "id26",
+      "title": "The Conscious Mind",
+      "source_path": "text/part0001.html",
+      "output_file": "003-The-Conscious-Mind.txt",
+      "characters": 261
+    },
+    {
+      "spine_index": 4,
+      "id": "id39",
+      "title": "The Conscious Mind",
+      "source_path": "text/part0002.html",
+      "output_file": "004-The-Conscious-Mind.txt",
+      "characters": 75
+    },
+    {
+      "spine_index": 5,
+      "id": "id42",
+      "title": "The Conscious Mind",
+      "source_path": "text/part0003.html",
+      "output_file": "005-The-Conscious-Mind.txt",
+      "characters": 1264
+    },
+    {
+      "spine_index": 6,
+      "id": "id22",
+      "title": "The Conscious Mind",
+      "source_path": "text/part0004.html",
+      "output_file": "006-The-Conscious-Mind.txt",
+      "characters": 5264
+    },
+    {
+      "spine_index": 7,
+      "id": "id36",
+      "title": "The Conscious Mind",
+      "source_path": "text/part0005.html",
+      "output_file": "007-The-Conscious-Mind.txt",
+      "characters": 2610
+    },
+    {
+      "spine_index": 8,
+      "id": "id23",
+      "title": "The Conscious Mind",
+      "source_path": "text/part0006.html",
+      "output_file": "008-The-Conscious-Mind.txt",
+      "characters": 19424
+    },
+    {
+      "spine_index": 9,
+      "id": "id40",
+      "title": "The Conscious Mind",
+      "source_path": "text/part0007.html",
+      "output_file": "009-The-Conscious-Mind.txt",
+      "characters": 19
+    },
+    {
+      "spine_index": 10,
+      "id": "id25",
+      "title": "The Conscious Mind",
+      "source_path": "text/part0008.html",
+      "output_file": "010-The-Conscious-Mind.txt",
+      "characters": 82730
+    },
+    {
+      "spine_index": 11,
+      "id": "id37",
+      "title": "The Conscious Mind",
+      "source_path": "text/part0009.html",
+      "output_file": "011-The-Conscious-Mind.txt",
+      "characters": 169030
+    },
+    {
+      "spine_index": 12,
+      "id": "id38",
+      "title": "The Conscious Mind",
+      "source_path": "text/part0010.html",
+      "output_file": "012-The-Conscious-Mind.txt",
+      "characters": 44
+    },
+    {
+      "spine_index": 13,
+      "id": "id31",
+      "title": "The Conscious Mind",
+      "source_path": "text/part0011.html",
+      "output_file": "013-The-Conscious-Mind.txt",
+      "characters": 80977
+    },
+    {
+      "spine_index": 14,
+      "id": "id32",
+      "title": "The Conscious Mind",
+      "source_path": "text/part0012.html",
+      "output_file": "014-The-Conscious-Mind.txt",
+      "characters": 144826
+    },
+    {
+      "spine_index": 15,
+      "id": "id44",
+      "title": "The Conscious Mind",
+      "source_path": "text/part0013.html",
+      "output_file": "015-The-Conscious-Mind.txt",
+      "characters": 109716
+    },
+    {
+      "spine_index": 16,
+      "id": "id28",
+      "title": "The Conscious Mind",
+      "source_path": "text/part0014.html",
+      "output_file": "016-The-Conscious-Mind.txt",
+      "characters": 42
+    },
+    {
+      "spine_index": 17,
+      "id": "id34",
+      "title": "The Conscious Mind",
+      "source_path": "text/part0015.html",
+      "output_file": "017-The-Conscious-Mind.txt",
+      "characters": 100653
+    },
+    {
+      "spine_index": 18,
+      "id": "id24",
+      "title": "The Conscious Mind",
+      "source_path": "text/part0016.html",
+      "output_file": "018-The-Conscious-Mind.txt",
+      "characters": 84038
+    },
+    {
+      "spine_index": 19,
+      "id": "id41",
+      "title": "The Conscious Mind",
+      "source_path": "text/part0017.html",
+      "output_file": "019-The-Conscious-Mind.txt",
+      "characters": 100332
+    },
+    {
+      "spine_index": 20,
+      "id": "id27",
+      "title": "The Conscious Mind",
+      "source_path": "text/part0018.html",
+      "output_file": "020-The-Conscious-Mind.txt",
+      "characters": 21
+    },
+    {
+      "spine_index": 21,
+      "id": "id30",
+      "title": "The Conscious Mind",
+      "source_path": "text/part0019.html",
+      "output_file": "021-The-Conscious-Mind.txt",
+      "characters": 55769
+    },
+    {
+      "spine_index": 22,
+      "id": "id35",
+      "title": "The Conscious Mind",
+      "source_path": "text/part0020.html",
+      "output_file": "022-The-Conscious-Mind.txt",
+      "characters": 71952
+    },
+    {
+      "spine_index": 23,
+      "id": "id33",
+      "title": "The Conscious Mind",
+      "source_path": "text/part0021.html",
+      "output_file": "023-The-Conscious-Mind.txt",
+      "characters": 117007
+    },
+    {
+      "spine_index": 24,
+      "id": "id43",
+      "title": "The Conscious Mind",
+      "source_path": "text/part0022.html",
+      "output_file": "024-The-Conscious-Mind.txt",
+      "characters": 38383
+    },
+    {
+      "spine_index": 25,
+      "id": "id21",
+      "title": "The Conscious Mind",
+      "source_path": "text/part0023.html",
+      "output_file": "025-The-Conscious-Mind.txt",
+      "characters": 36875
+    }
+  ],
+  "skipped": [
+    {
+      "spine_index": 1,
+      "id": "titlepage",
+      "source_path": "titlepage.xhtml",
+      "reason": "no extractable text"
+    }
+  ]
+}

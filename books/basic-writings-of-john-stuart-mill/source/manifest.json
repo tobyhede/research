@@ -1,0 +1,228 @@
+{
+  "source_file": "/Users/tobyhede/psrc/research/books/basic-writings-of-john-stuart-mill/source/The Basic Writings of John Stuart Mill On Liberty, the Subjection of Women and Utilitarianism (John Stuart Mill, J.B. Schneewind etc.).epub",
+  "sections_extracted": 26,
+  "sections": [
+    {
+      "spine_index": 2,
+      "id": "cop",
+      "title": "The Basic Writings of John Stuart Mill",
+      "source_path": "OEBPS/Mill_9780307769794_epub_cop_r1.htm",
+      "output_file": "002-The-Basic-Writings-of-John-Stuart-Mill.txt",
+      "characters": 1152
+    },
+    {
+      "spine_index": 3,
+      "id": "ata",
+      "title": "The Basic Writings of John Stuart Mill",
+      "source_path": "OEBPS/Mill_9780307769794_epub_ata_r1.htm",
+      "output_file": "003-The-Basic-Writings-of-John-Stuart-Mill.txt",
+      "characters": 7703
+    },
+    {
+      "spine_index": 4,
+      "id": "toc",
+      "title": "The Basic Writings of John Stuart Mill",
+      "source_path": "OEBPS/Mill_9780307769794_epub_toc_r1.htm",
+      "output_file": "004-The-Basic-Writings-of-John-Stuart-Mill.txt",
+      "characters": 847
+    },
+    {
+      "spine_index": 5,
+      "id": "fm1",
+      "title": "The Basic Writings of John Stuart Mill",
+      "source_path": "OEBPS/Mill_9780307769794_epub_fm1_r1.htm",
+      "output_file": "005-The-Basic-Writings-of-John-Stuart-Mill.txt",
+      "characters": 12339
+    },
+    {
+      "spine_index": 6,
+      "id": "fm2",
+      "title": "The Basic Writings of John Stuart Mill",
+      "source_path": "OEBPS/Mill_9780307769794_epub_fm2_r1.htm",
+      "output_file": "006-The-Basic-Writings-of-John-Stuart-Mill.txt",
+      "characters": 465
+    },
+    {
+      "spine_index": 7,
+      "id": "fm3",
+      "title": "The Basic Writings of John Stuart Mill",
+      "source_path": "OEBPS/Mill_9780307769794_epub_fm3_r1.htm",
+      "output_file": "007-The-Basic-Writings-of-John-Stuart-Mill.txt",
+      "characters": 902
+    },
+    {
+      "spine_index": 8,
+      "id": "fm4",
+      "title": "The Basic Writings of John Stuart Mill",
+      "source_path": "OEBPS/Mill_9780307769794_epub_fm4_r1.htm",
+      "output_file": "008-The-Basic-Writings-of-John-Stuart-Mill.txt",
+      "characters": 249
+    },
+    {
+      "spine_index": 9,
+      "id": "p01",
+      "title": "The Basic Writings of John Stuart Mill",
+      "source_path": "OEBPS/Mill_9780307769794_epub_p01_r1.htm",
+      "output_file": "009-The-Basic-Writings-of-John-Stuart-Mill.txt",
+      "characters": 10
+    },
+    {
+      "spine_index": 10,
+      "id": "c01",
+      "title": "The Basic Writings of John Stuart Mill",
+      "source_path": "OEBPS/Mill_9780307769794_epub_c01_r1.htm",
+      "output_file": "010-The-Basic-Writings-of-John-Stuart-Mill.txt",
+      "characters": 33474
+    },
+    {
+      "spine_index": 11,
+      "id": "c02",
+      "title": "The Basic Writings of John Stuart Mill",
+      "source_path": "OEBPS/Mill_9780307769794_epub_c02_r1.htm",
+      "output_file": "011-The-Basic-Writings-of-John-Stuart-Mill.txt",
+      "characters": 96964
+    },
+    {
+      "spine_index": 12,
+      "id": "c03",
+      "title": "The Basic Writings of John Stuart Mill",
+      "source_path": "OEBPS/Mill_9780307769794_epub_c03_r1.htm",
+      "output_file": "012-The-Basic-Writings-of-John-Stuart-Mill.txt",
+      "characters": 47671
+    },
+    {
+      "spine_index": 13,
+      "id": "c04",
+      "title": "The Basic Writings of John Stuart Mill",
+      "source_path": "OEBPS/Mill_9780307769794_epub_c04_r1.htm",
+      "output_file": "013-The-Basic-Writings-of-John-Stuart-Mill.txt",
+      "characters": 47121
+    },
+    {
+      "spine_index": 14,
+      "id": "c05",
+      "title": "The Basic Writings of John Stuart Mill",
+      "source_path": "OEBPS/Mill_9780307769794_epub_c05_r1.htm",
+      "output_file": "014-The-Basic-Writings-of-John-Stuart-Mill.txt",
+      "characters": 55783
+    },
+    {
+      "spine_index": 15,
+      "id": "p02",
+      "title": "The Basic Writings of John Stuart Mill",
+      "source_path": "OEBPS/Mill_9780307769794_epub_p02_r1.htm",
+      "output_file": "015-The-Basic-Writings-of-John-Stuart-Mill.txt",
+      "characters": 23
+    },
+    {
+      "spine_index": 16,
+      "id": "c06",
+      "title": "The Basic Writings of John Stuart Mill",
+      "source_path": "OEBPS/Mill_9780307769794_epub_c06_r1.htm",
+      "output_file": "016-The-Basic-Writings-of-John-Stuart-Mill.txt",
+      "characters": 70132
+    },
+    {
+      "spine_index": 17,
+      "id": "c07",
+      "title": "The Basic Writings of John Stuart Mill",
+      "source_path": "OEBPS/Mill_9780307769794_epub_c07_r1.htm",
+      "output_file": "017-The-Basic-Writings-of-John-Stuart-Mill.txt",
+      "characters": 50431
+    },
+    {
+      "spine_index": 18,
+      "id": "c08",
+      "title": "The Basic Writings of John Stuart Mill",
+      "source_path": "OEBPS/Mill_9780307769794_epub_c08_r1.htm",
+      "output_file": "018-The-Basic-Writings-of-John-Stuart-Mill.txt",
+      "characters": 75731
+    },
+    {
+      "spine_index": 19,
+      "id": "c09",
+      "title": "The Basic Writings of John Stuart Mill",
+      "source_path": "OEBPS/Mill_9780307769794_epub_c09_r1.htm",
+      "output_file": "019-The-Basic-Writings-of-John-Stuart-Mill.txt",
+      "characters": 57811
+    },
+    {
+      "spine_index": 20,
+      "id": "p03",
+      "title": "The Basic Writings of John Stuart Mill",
+      "source_path": "OEBPS/Mill_9780307769794_epub_p03_r1.htm",
+      "output_file": "020-The-Basic-Writings-of-John-Stuart-Mill.txt",
+      "characters": 14
+    },
+    {
+      "spine_index": 21,
+      "id": "c10",
+      "title": "The Basic Writings of John Stuart Mill",
+      "source_path": "OEBPS/Mill_9780307769794_epub_c10_r1.htm",
+      "output_file": "021-The-Basic-Writings-of-John-Stuart-Mill.txt",
+      "characters": 11013
+    },
+    {
+      "spine_index": 22,
+      "id": "c11",
+      "title": "The Basic Writings of John Stuart Mill",
+      "source_path": "OEBPS/Mill_9780307769794_epub_c11_r1.htm",
+      "output_file": "022-The-Basic-Writings-of-John-Stuart-Mill.txt",
+      "characters": 53025
+    },
+    {
+      "spine_index": 23,
+      "id": "c12",
+      "title": "The Basic Writings of John Stuart Mill",
+      "source_path": "OEBPS/Mill_9780307769794_epub_c12_r1.htm",
+      "output_file": "023-The-Basic-Writings-of-John-Stuart-Mill.txt",
+      "characters": 20366
+    },
+    {
+      "spine_index": 24,
+      "id": "c13",
+      "title": "The Basic Writings of John Stuart Mill",
+      "source_path": "OEBPS/Mill_9780307769794_epub_c13_r1.htm",
+      "output_file": "024-The-Basic-Writings-of-John-Stuart-Mill.txt",
+      "characters": 16428
+    },
+    {
+      "spine_index": 25,
+      "id": "c14",
+      "title": "The Basic Writings of John Stuart Mill",
+      "source_path": "OEBPS/Mill_9780307769794_epub_c14_r1.htm",
+      "output_file": "025-The-Basic-Writings-of-John-Stuart-Mill.txt",
+      "characters": 59701
+    },
+    {
+      "spine_index": 26,
+      "id": "nts",
+      "title": "The Basic Writings of John Stuart Mill",
+      "source_path": "OEBPS/Mill_9780307769794_epub_nts_r1.htm",
+      "output_file": "026-The-Basic-Writings-of-John-Stuart-Mill.txt",
+      "characters": 167311
+    },
+    {
+      "spine_index": 27,
+      "id": "bm1",
+      "title": "The Basic Writings of John Stuart Mill",
+      "source_path": "OEBPS/Mill_9780307769794_epub_bm1_r1.htm",
+      "output_file": "027-The-Basic-Writings-of-John-Stuart-Mill.txt",
+      "characters": 530
+    }
+  ],
+  "skipped": [
+    {
+      "spine_index": 1,
+      "id": "tp",
+      "source_path": "OEBPS/Mill_9780307769794_epub_tp_r1.htm",
+      "reason": "no extractable text"
+    },
+    {
+      "spine_index": 28,
+      "id": "bm3",
+      "source_path": "OEBPS/Mill_9780307769794_epub_bm3_r1.htm",
+      "reason": "no extractable text"
+    }
+  ]
+}

@@ -1,0 +1,1340 @@
+{
+  "source_file": "/Users/tobyhede/psrc/research/books/wages-of-destruction/source/The Wages of Destruction The Making and Breaking of the Nazi Economy (Adam Tooze).epub",
+  "sections_extracted": 165,
+  "sections": [
+    {
+      "spine_index": 3,
+      "id": "id32",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0001.html",
+      "output_file": "003-The-Wages-of-Destruction.txt",
+      "characters": 1014
+    },
+    {
+      "spine_index": 4,
+      "id": "id5",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0002.html",
+      "output_file": "004-The-Wages-of-Destruction.txt",
+      "characters": 2757
+    },
+    {
+      "spine_index": 5,
+      "id": "id33",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0003.html",
+      "output_file": "005-The-Wages-of-Destruction.txt",
+      "characters": 428
+    },
+    {
+      "spine_index": 6,
+      "id": "id9",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0004.html",
+      "output_file": "006-The-Wages-of-Destruction.txt",
+      "characters": 1675
+    },
+    {
+      "spine_index": 7,
+      "id": "id39",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0005.html",
+      "output_file": "007-The-Wages-of-Destruction.txt",
+      "characters": 119
+    },
+    {
+      "spine_index": 8,
+      "id": "id7",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0006.html",
+      "output_file": "008-The-Wages-of-Destruction.txt",
+      "characters": 1522
+    },
+    {
+      "spine_index": 9,
+      "id": "id17",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0007.html",
+      "output_file": "009-The-Wages-of-Destruction.txt",
+      "characters": 2678
+    },
+    {
+      "spine_index": 10,
+      "id": "id12",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0008.html",
+      "output_file": "010-The-Wages-of-Destruction.txt",
+      "characters": 8161
+    },
+    {
+      "spine_index": 11,
+      "id": "id13",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0009.html",
+      "output_file": "011-The-Wages-of-Destruction.txt",
+      "characters": 1114
+    },
+    {
+      "spine_index": 12,
+      "id": "id24",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0010.html",
+      "output_file": "012-The-Wages-of-Destruction.txt",
+      "characters": 20399
+    },
+    {
+      "spine_index": 13,
+      "id": "id306",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0011_split_000.html",
+      "output_file": "013-The-Wages-of-Destruction.txt",
+      "characters": 5749
+    },
+    {
+      "spine_index": 14,
+      "id": "id305",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0011_split_001.html",
+      "output_file": "014-The-Wages-of-Destruction.txt",
+      "characters": 10190
+    },
+    {
+      "spine_index": 15,
+      "id": "id304",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0011_split_002.html",
+      "output_file": "015-The-Wages-of-Destruction.txt",
+      "characters": 12563
+    },
+    {
+      "spine_index": 16,
+      "id": "id303",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0011_split_003.html",
+      "output_file": "016-The-Wages-of-Destruction.txt",
+      "characters": 27683
+    },
+    {
+      "spine_index": 17,
+      "id": "id302",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0011_split_004.html",
+      "output_file": "017-The-Wages-of-Destruction.txt",
+      "characters": 17664
+    },
+    {
+      "spine_index": 18,
+      "id": "id301",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0011_split_005.html",
+      "output_file": "018-The-Wages-of-Destruction.txt",
+      "characters": 9417
+    },
+    {
+      "spine_index": 19,
+      "id": "id18",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0012.html",
+      "output_file": "019-The-Wages-of-Destruction.txt",
+      "characters": 16
+    },
+    {
+      "spine_index": 20,
+      "id": "id284",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0013_split_000.html",
+      "output_file": "020-The-Wages-of-Destruction.txt",
+      "characters": 3925
+    },
+    {
+      "spine_index": 21,
+      "id": "id283",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0013_split_001.html",
+      "output_file": "021-The-Wages-of-Destruction.txt",
+      "characters": 26182
+    },
+    {
+      "spine_index": 22,
+      "id": "id282",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0013_split_002.html",
+      "output_file": "022-The-Wages-of-Destruction.txt",
+      "characters": 25753
+    },
+    {
+      "spine_index": 23,
+      "id": "id281",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0013_split_003.html",
+      "output_file": "023-The-Wages-of-Destruction.txt",
+      "characters": 14493
+    },
+    {
+      "spine_index": 24,
+      "id": "id204",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0014_split_000.html",
+      "output_file": "024-The-Wages-of-Destruction.txt",
+      "characters": 11148
+    },
+    {
+      "spine_index": 25,
+      "id": "id203",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0014_split_001.html",
+      "output_file": "025-The-Wages-of-Destruction.txt",
+      "characters": 32361
+    },
+    {
+      "spine_index": 26,
+      "id": "id202",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0014_split_002.html",
+      "output_file": "026-The-Wages-of-Destruction.txt",
+      "characters": 24391
+    },
+    {
+      "spine_index": 27,
+      "id": "id201",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0014_split_003.html",
+      "output_file": "027-The-Wages-of-Destruction.txt",
+      "characters": 4523
+    },
+    {
+      "spine_index": 28,
+      "id": "id278",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0015_split_000.html",
+      "output_file": "028-The-Wages-of-Destruction.txt",
+      "characters": 5047
+    },
+    {
+      "spine_index": 29,
+      "id": "id277",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0015_split_001.html",
+      "output_file": "029-The-Wages-of-Destruction.txt",
+      "characters": 13457
+    },
+    {
+      "spine_index": 30,
+      "id": "id276",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0015_split_002.html",
+      "output_file": "030-The-Wages-of-Destruction.txt",
+      "characters": 20566
+    },
+    {
+      "spine_index": 31,
+      "id": "id275",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0015_split_003.html",
+      "output_file": "031-The-Wages-of-Destruction.txt",
+      "characters": 13358
+    },
+    {
+      "spine_index": 32,
+      "id": "id274",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0015_split_004.html",
+      "output_file": "032-The-Wages-of-Destruction.txt",
+      "characters": 12619
+    },
+    {
+      "spine_index": 33,
+      "id": "id273",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0015_split_005.html",
+      "output_file": "033-The-Wages-of-Destruction.txt",
+      "characters": 14062
+    },
+    {
+      "spine_index": 34,
+      "id": "id272",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0015_split_006.html",
+      "output_file": "034-The-Wages-of-Destruction.txt",
+      "characters": 9132
+    },
+    {
+      "spine_index": 35,
+      "id": "id271",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0015_split_007.html",
+      "output_file": "035-The-Wages-of-Destruction.txt",
+      "characters": 1280
+    },
+    {
+      "spine_index": 36,
+      "id": "id105",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0016_split_000.html",
+      "output_file": "036-The-Wages-of-Destruction.txt",
+      "characters": 2146
+    },
+    {
+      "spine_index": 37,
+      "id": "id104",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0016_split_001.html",
+      "output_file": "037-The-Wages-of-Destruction.txt",
+      "characters": 23943
+    },
+    {
+      "spine_index": 38,
+      "id": "id103",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0016_split_002.html",
+      "output_file": "038-The-Wages-of-Destruction.txt",
+      "characters": 23775
+    },
+    {
+      "spine_index": 39,
+      "id": "id102",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0016_split_003.html",
+      "output_file": "039-The-Wages-of-Destruction.txt",
+      "characters": 12380
+    },
+    {
+      "spine_index": 40,
+      "id": "id101",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0016_split_004.html",
+      "output_file": "040-The-Wages-of-Destruction.txt",
+      "characters": 8830
+    },
+    {
+      "spine_index": 41,
+      "id": "id146",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0017_split_000.html",
+      "output_file": "041-The-Wages-of-Destruction.txt",
+      "characters": 8650
+    },
+    {
+      "spine_index": 42,
+      "id": "id145",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0017_split_001.html",
+      "output_file": "042-The-Wages-of-Destruction.txt",
+      "characters": 15128
+    },
+    {
+      "spine_index": 43,
+      "id": "id144",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0017_split_002.html",
+      "output_file": "043-The-Wages-of-Destruction.txt",
+      "characters": 11947
+    },
+    {
+      "spine_index": 44,
+      "id": "id143",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0017_split_003.html",
+      "output_file": "044-The-Wages-of-Destruction.txt",
+      "characters": 15522
+    },
+    {
+      "spine_index": 45,
+      "id": "id142",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0017_split_004.html",
+      "output_file": "045-The-Wages-of-Destruction.txt",
+      "characters": 25732
+    },
+    {
+      "spine_index": 46,
+      "id": "id141",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0017_split_005.html",
+      "output_file": "046-The-Wages-of-Destruction.txt",
+      "characters": 6046
+    },
+    {
+      "spine_index": 47,
+      "id": "id8",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0018.html",
+      "output_file": "047-The-Wages-of-Destruction.txt",
+      "characters": 22
+    },
+    {
+      "spine_index": 48,
+      "id": "id614",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0019_split_000.html",
+      "output_file": "048-The-Wages-of-Destruction.txt",
+      "characters": 10617
+    },
+    {
+      "spine_index": 49,
+      "id": "id613",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0019_split_001.html",
+      "output_file": "049-The-Wages-of-Destruction.txt",
+      "characters": 16939
+    },
+    {
+      "spine_index": 50,
+      "id": "id612",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0019_split_002.html",
+      "output_file": "050-The-Wages-of-Destruction.txt",
+      "characters": 37197
+    },
+    {
+      "spine_index": 51,
+      "id": "id611",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0019_split_003.html",
+      "output_file": "051-The-Wages-of-Destruction.txt",
+      "characters": 24431
+    },
+    {
+      "spine_index": 52,
+      "id": "id610",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0019_split_004.html",
+      "output_file": "052-The-Wages-of-Destruction.txt",
+      "characters": 11520
+    },
+    {
+      "spine_index": 53,
+      "id": "id357",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0020_split_000.html",
+      "output_file": "053-The-Wages-of-Destruction.txt",
+      "characters": 1562
+    },
+    {
+      "spine_index": 54,
+      "id": "id356",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0020_split_001.html",
+      "output_file": "054-The-Wages-of-Destruction.txt",
+      "characters": 11119
+    },
+    {
+      "spine_index": 55,
+      "id": "id355",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0020_split_002.html",
+      "output_file": "055-The-Wages-of-Destruction.txt",
+      "characters": 22261
+    },
+    {
+      "spine_index": 56,
+      "id": "id354",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0020_split_003.html",
+      "output_file": "056-The-Wages-of-Destruction.txt",
+      "characters": 20187
+    },
+    {
+      "spine_index": 57,
+      "id": "id353",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0020_split_004.html",
+      "output_file": "057-The-Wages-of-Destruction.txt",
+      "characters": 14728
+    },
+    {
+      "spine_index": 58,
+      "id": "id352",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0020_split_005.html",
+      "output_file": "058-The-Wages-of-Destruction.txt",
+      "characters": 18204
+    },
+    {
+      "spine_index": 59,
+      "id": "id351",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0020_split_006.html",
+      "output_file": "059-The-Wages-of-Destruction.txt",
+      "characters": 7859
+    },
+    {
+      "spine_index": 60,
+      "id": "id116",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0021_split_000.html",
+      "output_file": "060-The-Wages-of-Destruction.txt",
+      "characters": 6157
+    },
+    {
+      "spine_index": 61,
+      "id": "id115",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0021_split_001.html",
+      "output_file": "061-The-Wages-of-Destruction.txt",
+      "characters": 15830
+    },
+    {
+      "spine_index": 62,
+      "id": "id114",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0021_split_002.html",
+      "output_file": "062-The-Wages-of-Destruction.txt",
+      "characters": 27767
+    },
+    {
+      "spine_index": 63,
+      "id": "id113",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0021_split_003.html",
+      "output_file": "063-The-Wages-of-Destruction.txt",
+      "characters": 29630
+    },
+    {
+      "spine_index": 64,
+      "id": "id112",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0021_split_004.html",
+      "output_file": "064-The-Wages-of-Destruction.txt",
+      "characters": 8597
+    },
+    {
+      "spine_index": 65,
+      "id": "id111",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0021_split_005.html",
+      "output_file": "065-The-Wages-of-Destruction.txt",
+      "characters": 10262
+    },
+    {
+      "spine_index": 66,
+      "id": "id215",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0022_split_000.html",
+      "output_file": "066-The-Wages-of-Destruction.txt",
+      "characters": 13639
+    },
+    {
+      "spine_index": 67,
+      "id": "id214",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0022_split_001.html",
+      "output_file": "067-The-Wages-of-Destruction.txt",
+      "characters": 16585
+    },
+    {
+      "spine_index": 68,
+      "id": "id213",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0022_split_002.html",
+      "output_file": "068-The-Wages-of-Destruction.txt",
+      "characters": 34030
+    },
+    {
+      "spine_index": 69,
+      "id": "id212",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0022_split_003.html",
+      "output_file": "069-The-Wages-of-Destruction.txt",
+      "characters": 11120
+    },
+    {
+      "spine_index": 70,
+      "id": "id211",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0022_split_004.html",
+      "output_file": "070-The-Wages-of-Destruction.txt",
+      "characters": 8216
+    },
+    {
+      "spine_index": 71,
+      "id": "id210",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0022_split_005.html",
+      "output_file": "071-The-Wages-of-Destruction.txt",
+      "characters": 14059
+    },
+    {
+      "spine_index": 72,
+      "id": "id26",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0022_split_006.html",
+      "output_file": "072-The-Wages-of-Destruction.txt",
+      "characters": 2877
+    },
+    {
+      "spine_index": 73,
+      "id": "id255",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0023_split_000.html",
+      "output_file": "073-The-Wages-of-Destruction.txt",
+      "characters": 5312
+    },
+    {
+      "spine_index": 74,
+      "id": "id254",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0023_split_001.html",
+      "output_file": "074-The-Wages-of-Destruction.txt",
+      "characters": 26606
+    },
+    {
+      "spine_index": 75,
+      "id": "id253",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0023_split_002.html",
+      "output_file": "075-The-Wages-of-Destruction.txt",
+      "characters": 11131
+    },
+    {
+      "spine_index": 76,
+      "id": "id252",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0023_split_003.html",
+      "output_file": "076-The-Wages-of-Destruction.txt",
+      "characters": 18804
+    },
+    {
+      "spine_index": 77,
+      "id": "id251",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0023_split_004.html",
+      "output_file": "077-The-Wages-of-Destruction.txt",
+      "characters": 4431
+    },
+    {
+      "spine_index": 78,
+      "id": "id196",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0024_split_000.html",
+      "output_file": "078-The-Wages-of-Destruction.txt",
+      "characters": 2442
+    },
+    {
+      "spine_index": 79,
+      "id": "id195",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0024_split_001.html",
+      "output_file": "079-The-Wages-of-Destruction.txt",
+      "characters": 13924
+    },
+    {
+      "spine_index": 80,
+      "id": "id194",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0024_split_002.html",
+      "output_file": "080-The-Wages-of-Destruction.txt",
+      "characters": 10420
+    },
+    {
+      "spine_index": 81,
+      "id": "id193",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0024_split_003.html",
+      "output_file": "081-The-Wages-of-Destruction.txt",
+      "characters": 8403
+    },
+    {
+      "spine_index": 82,
+      "id": "id192",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0024_split_004.html",
+      "output_file": "082-The-Wages-of-Destruction.txt",
+      "characters": 19530
+    },
+    {
+      "spine_index": 83,
+      "id": "id191",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0024_split_005.html",
+      "output_file": "083-The-Wages-of-Destruction.txt",
+      "characters": 13770
+    },
+    {
+      "spine_index": 84,
+      "id": "id3",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0025.html",
+      "output_file": "084-The-Wages-of-Destruction.txt",
+      "characters": 19
+    },
+    {
+      "spine_index": 85,
+      "id": "id384",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0026_split_000.html",
+      "output_file": "085-The-Wages-of-Destruction.txt",
+      "characters": 9001
+    },
+    {
+      "spine_index": 86,
+      "id": "id383",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0026_split_001.html",
+      "output_file": "086-The-Wages-of-Destruction.txt",
+      "characters": 18018
+    },
+    {
+      "spine_index": 87,
+      "id": "id382",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0026_split_002.html",
+      "output_file": "087-The-Wages-of-Destruction.txt",
+      "characters": 26438
+    },
+    {
+      "spine_index": 88,
+      "id": "id381",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0026_split_003.html",
+      "output_file": "088-The-Wages-of-Destruction.txt",
+      "characters": 21648
+    },
+    {
+      "spine_index": 89,
+      "id": "id364",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0027_split_000.html",
+      "output_file": "089-The-Wages-of-Destruction.txt",
+      "characters": 5486
+    },
+    {
+      "spine_index": 90,
+      "id": "id363",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0027_split_001.html",
+      "output_file": "090-The-Wages-of-Destruction.txt",
+      "characters": 28835
+    },
+    {
+      "spine_index": 91,
+      "id": "id362",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0027_split_002.html",
+      "output_file": "091-The-Wages-of-Destruction.txt",
+      "characters": 9346
+    },
+    {
+      "spine_index": 92,
+      "id": "id361",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0027_split_003.html",
+      "output_file": "092-The-Wages-of-Destruction.txt",
+      "characters": 12010
+    },
+    {
+      "spine_index": 93,
+      "id": "id414",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0028_split_000.html",
+      "output_file": "093-The-Wages-of-Destruction.txt",
+      "characters": 1700
+    },
+    {
+      "spine_index": 94,
+      "id": "id413",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0028_split_001.html",
+      "output_file": "094-The-Wages-of-Destruction.txt",
+      "characters": 15907
+    },
+    {
+      "spine_index": 95,
+      "id": "id412",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0028_split_002.html",
+      "output_file": "095-The-Wages-of-Destruction.txt",
+      "characters": 20818
+    },
+    {
+      "spine_index": 96,
+      "id": "id411",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0028_split_003.html",
+      "output_file": "096-The-Wages-of-Destruction.txt",
+      "characters": 25263
+    },
+    {
+      "spine_index": 97,
+      "id": "id410",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0028_split_004.html",
+      "output_file": "097-The-Wages-of-Destruction.txt",
+      "characters": 3333
+    },
+    {
+      "spine_index": 98,
+      "id": "id2110",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0029_split_000.html",
+      "output_file": "098-The-Wages-of-Destruction.txt",
+      "characters": 13856
+    },
+    {
+      "spine_index": 99,
+      "id": "id219",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0029_split_001.html",
+      "output_file": "099-The-Wages-of-Destruction.txt",
+      "characters": 10602
+    },
+    {
+      "spine_index": 100,
+      "id": "id218",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0029_split_002.html",
+      "output_file": "100-The-Wages-of-Destruction.txt",
+      "characters": 34090
+    },
+    {
+      "spine_index": 101,
+      "id": "id217",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0029_split_003.html",
+      "output_file": "101-The-Wages-of-Destruction.txt",
+      "characters": 29878
+    },
+    {
+      "spine_index": 102,
+      "id": "id216",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0029_split_004.html",
+      "output_file": "102-The-Wages-of-Destruction.txt",
+      "characters": 3399
+    },
+    {
+      "spine_index": 103,
+      "id": "id295",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0030_split_000.html",
+      "output_file": "103-The-Wages-of-Destruction.txt",
+      "characters": 13330
+    },
+    {
+      "spine_index": 104,
+      "id": "id294",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0030_split_001.html",
+      "output_file": "104-The-Wages-of-Destruction.txt",
+      "characters": 24201
+    },
+    {
+      "spine_index": 105,
+      "id": "id293",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0030_split_002.html",
+      "output_file": "105-The-Wages-of-Destruction.txt",
+      "characters": 24784
+    },
+    {
+      "spine_index": 106,
+      "id": "id292",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0030_split_003.html",
+      "output_file": "106-The-Wages-of-Destruction.txt",
+      "characters": 17988
+    },
+    {
+      "spine_index": 107,
+      "id": "id291",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0030_split_004.html",
+      "output_file": "107-The-Wages-of-Destruction.txt",
+      "characters": 13183
+    },
+    {
+      "spine_index": 108,
+      "id": "id225",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0031_split_000.html",
+      "output_file": "108-The-Wages-of-Destruction.txt",
+      "characters": 7981
+    },
+    {
+      "spine_index": 109,
+      "id": "id224",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0031_split_001.html",
+      "output_file": "109-The-Wages-of-Destruction.txt",
+      "characters": 19755
+    },
+    {
+      "spine_index": 110,
+      "id": "id223",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0031_split_002.html",
+      "output_file": "110-The-Wages-of-Destruction.txt",
+      "characters": 24731
+    },
+    {
+      "spine_index": 111,
+      "id": "id222",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0031_split_003.html",
+      "output_file": "111-The-Wages-of-Destruction.txt",
+      "characters": 18418
+    },
+    {
+      "spine_index": 112,
+      "id": "id221",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0031_split_004.html",
+      "output_file": "112-The-Wages-of-Destruction.txt",
+      "characters": 14496
+    },
+    {
+      "spine_index": 113,
+      "id": "id165",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0032_split_000.html",
+      "output_file": "113-The-Wages-of-Destruction.txt",
+      "characters": 4897
+    },
+    {
+      "spine_index": 114,
+      "id": "id164",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0032_split_001.html",
+      "output_file": "114-The-Wages-of-Destruction.txt",
+      "characters": 18680
+    },
+    {
+      "spine_index": 115,
+      "id": "id163",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0032_split_002.html",
+      "output_file": "115-The-Wages-of-Destruction.txt",
+      "characters": 17100
+    },
+    {
+      "spine_index": 116,
+      "id": "id162",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0032_split_003.html",
+      "output_file": "116-The-Wages-of-Destruction.txt",
+      "characters": 16206
+    },
+    {
+      "spine_index": 117,
+      "id": "id161",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0032_split_004.html",
+      "output_file": "117-The-Wages-of-Destruction.txt",
+      "characters": 17687
+    },
+    {
+      "spine_index": 118,
+      "id": "id31",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0033.html",
+      "output_file": "118-The-Wages-of-Destruction.txt",
+      "characters": 52973
+    },
+    {
+      "spine_index": 119,
+      "id": "id34",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0034.html",
+      "output_file": "119-The-Wages-of-Destruction.txt",
+      "characters": 1296
+    },
+    {
+      "spine_index": 120,
+      "id": "id2626",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0035_split_000_split_000.html",
+      "output_file": "120-The-Wages-of-Destruction.txt",
+      "characters": 250
+    },
+    {
+      "spine_index": 121,
+      "id": "id2625",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0035_split_000_split_001.html",
+      "output_file": "121-The-Wages-of-Destruction.txt",
+      "characters": 329
+    },
+    {
+      "spine_index": 122,
+      "id": "id2624",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0035_split_000_split_002.html",
+      "output_file": "122-The-Wages-of-Destruction.txt",
+      "characters": 17250
+    },
+    {
+      "spine_index": 123,
+      "id": "id2623",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0035_split_000_split_003.html",
+      "output_file": "123-The-Wages-of-Destruction.txt",
+      "characters": 12438
+    },
+    {
+      "spine_index": 124,
+      "id": "id2622",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0035_split_000_split_004.html",
+      "output_file": "124-The-Wages-of-Destruction.txt",
+      "characters": 12850
+    },
+    {
+      "spine_index": 125,
+      "id": "id2621",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0035_split_000_split_005.html",
+      "output_file": "125-The-Wages-of-Destruction.txt",
+      "characters": 21677
+    },
+    {
+      "spine_index": 126,
+      "id": "id2616",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0035_split_001_split_000.html",
+      "output_file": "126-The-Wages-of-Destruction.txt",
+      "characters": 13034
+    },
+    {
+      "spine_index": 127,
+      "id": "id2615",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0035_split_001_split_001.html",
+      "output_file": "127-The-Wages-of-Destruction.txt",
+      "characters": 10823
+    },
+    {
+      "spine_index": 128,
+      "id": "id2614",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0035_split_001_split_002.html",
+      "output_file": "128-The-Wages-of-Destruction.txt",
+      "characters": 17148
+    },
+    {
+      "spine_index": 129,
+      "id": "id2613",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0035_split_001_split_003.html",
+      "output_file": "129-The-Wages-of-Destruction.txt",
+      "characters": 22229
+    },
+    {
+      "spine_index": 130,
+      "id": "id2612",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0035_split_001_split_004.html",
+      "output_file": "130-The-Wages-of-Destruction.txt",
+      "characters": 20206
+    },
+    {
+      "spine_index": 131,
+      "id": "id2611",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0035_split_001_split_005.html",
+      "output_file": "131-The-Wages-of-Destruction.txt",
+      "characters": 10761
+    },
+    {
+      "spine_index": 132,
+      "id": "id3711",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0036_split_000.html",
+      "output_file": "132-The-Wages-of-Destruction.txt",
+      "characters": 7266
+    },
+    {
+      "spine_index": 133,
+      "id": "id3710",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0036_split_001.html",
+      "output_file": "133-The-Wages-of-Destruction.txt",
+      "characters": 13699
+    },
+    {
+      "spine_index": 134,
+      "id": "id379",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0036_split_002.html",
+      "output_file": "134-The-Wages-of-Destruction.txt",
+      "characters": 17025
+    },
+    {
+      "spine_index": 135,
+      "id": "id378",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0036_split_003.html",
+      "output_file": "135-The-Wages-of-Destruction.txt",
+      "characters": 13703
+    },
+    {
+      "spine_index": 136,
+      "id": "id377",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0036_split_004.html",
+      "output_file": "136-The-Wages-of-Destruction.txt",
+      "characters": 11585
+    },
+    {
+      "spine_index": 137,
+      "id": "id376",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0036_split_005.html",
+      "output_file": "137-The-Wages-of-Destruction.txt",
+      "characters": 10392
+    },
+    {
+      "spine_index": 138,
+      "id": "id375",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0036_split_006.html",
+      "output_file": "138-The-Wages-of-Destruction.txt",
+      "characters": 15221
+    },
+    {
+      "spine_index": 139,
+      "id": "id374",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0036_split_007.html",
+      "output_file": "139-The-Wages-of-Destruction.txt",
+      "characters": 16846
+    },
+    {
+      "spine_index": 140,
+      "id": "id373",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0036_split_008.html",
+      "output_file": "140-The-Wages-of-Destruction.txt",
+      "characters": 14466
+    },
+    {
+      "spine_index": 141,
+      "id": "id372",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0036_split_009.html",
+      "output_file": "141-The-Wages-of-Destruction.txt",
+      "characters": 14255
+    },
+    {
+      "spine_index": 142,
+      "id": "id371",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0036_split_010.html",
+      "output_file": "142-The-Wages-of-Destruction.txt",
+      "characters": 756
+    },
+    {
+      "spine_index": 143,
+      "id": "id2325",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0037_split_000.html",
+      "output_file": "143-The-Wages-of-Destruction.txt",
+      "characters": 5
+    },
+    {
+      "spine_index": 144,
+      "id": "id2324",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0037_split_001.html",
+      "output_file": "144-The-Wages-of-Destruction.txt",
+      "characters": 4287
+    },
+    {
+      "spine_index": 145,
+      "id": "id2323",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0037_split_002.html",
+      "output_file": "145-The-Wages-of-Destruction.txt",
+      "characters": 4169
+    },
+    {
+      "spine_index": 146,
+      "id": "id2322",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0037_split_003.html",
+      "output_file": "146-The-Wages-of-Destruction.txt",
+      "characters": 1097
+    },
+    {
+      "spine_index": 147,
+      "id": "id2321",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0037_split_004.html",
+      "output_file": "147-The-Wages-of-Destruction.txt",
+      "characters": 1445
+    },
+    {
+      "spine_index": 148,
+      "id": "id2320",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0037_split_005.html",
+      "output_file": "148-The-Wages-of-Destruction.txt",
+      "characters": 1980
+    },
+    {
+      "spine_index": 149,
+      "id": "id2319",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0037_split_006.html",
+      "output_file": "149-The-Wages-of-Destruction.txt",
+      "characters": 3095
+    },
+    {
+      "spine_index": 150,
+      "id": "id2318",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0037_split_007.html",
+      "output_file": "150-The-Wages-of-Destruction.txt",
+      "characters": 1877
+    },
+    {
+      "spine_index": 151,
+      "id": "id2317",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0037_split_008.html",
+      "output_file": "151-The-Wages-of-Destruction.txt",
+      "characters": 2627
+    },
+    {
+      "spine_index": 152,
+      "id": "id2316",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0037_split_009.html",
+      "output_file": "152-The-Wages-of-Destruction.txt",
+      "characters": 957
+    },
+    {
+      "spine_index": 153,
+      "id": "id2315",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0037_split_010.html",
+      "output_file": "153-The-Wages-of-Destruction.txt",
+      "characters": 548
+    },
+    {
+      "spine_index": 154,
+      "id": "id2314",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0037_split_011.html",
+      "output_file": "154-The-Wages-of-Destruction.txt",
+      "characters": 787
+    },
+    {
+      "spine_index": 155,
+      "id": "id2313",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0037_split_012.html",
+      "output_file": "155-The-Wages-of-Destruction.txt",
+      "characters": 1616
+    },
+    {
+      "spine_index": 156,
+      "id": "id2312",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0037_split_013.html",
+      "output_file": "156-The-Wages-of-Destruction.txt",
+      "characters": 1455
+    },
+    {
+      "spine_index": 157,
+      "id": "id2311",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0037_split_014.html",
+      "output_file": "157-The-Wages-of-Destruction.txt",
+      "characters": 834
+    },
+    {
+      "spine_index": 158,
+      "id": "id2310",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0037_split_015.html",
+      "output_file": "158-The-Wages-of-Destruction.txt",
+      "characters": 603
+    },
+    {
+      "spine_index": 159,
+      "id": "id239",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0037_split_016.html",
+      "output_file": "159-The-Wages-of-Destruction.txt",
+      "characters": 1888
+    },
+    {
+      "spine_index": 160,
+      "id": "id238",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0037_split_017.html",
+      "output_file": "160-The-Wages-of-Destruction.txt",
+      "characters": 5825
+    },
+    {
+      "spine_index": 161,
+      "id": "id237",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0037_split_018.html",
+      "output_file": "161-The-Wages-of-Destruction.txt",
+      "characters": 5526
+    },
+    {
+      "spine_index": 162,
+      "id": "id236",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0037_split_019.html",
+      "output_file": "162-The-Wages-of-Destruction.txt",
+      "characters": 1594
+    },
+    {
+      "spine_index": 163,
+      "id": "id235",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0037_split_020.html",
+      "output_file": "163-The-Wages-of-Destruction.txt",
+      "characters": 1150
+    },
+    {
+      "spine_index": 164,
+      "id": "id234",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0037_split_021.html",
+      "output_file": "164-The-Wages-of-Destruction.txt",
+      "characters": 697
+    },
+    {
+      "spine_index": 165,
+      "id": "id233",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0037_split_022.html",
+      "output_file": "165-The-Wages-of-Destruction.txt",
+      "characters": 1394
+    },
+    {
+      "spine_index": 166,
+      "id": "id232",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0037_split_023.html",
+      "output_file": "166-The-Wages-of-Destruction.txt",
+      "characters": 74
+    },
+    {
+      "spine_index": 167,
+      "id": "id231",
+      "title": "The Wages of Destruction",
+      "source_path": "text/part0037_split_024.html",
+      "output_file": "167-The-Wages-of-Destruction.txt",
+      "characters": 159
+    }
+  ],
+  "skipped": [
+    {
+      "spine_index": 1,
+      "id": "titlepage",
+      "source_path": "titlepage.xhtml",
+      "reason": "no extractable text"
+    },
+    {
+      "spine_index": 2,
+      "id": "id15",
+      "source_path": "text/part0000.html",
+      "reason": "no extractable text"
+    }
+  ]
+}
