@@ -28,7 +28,7 @@ Dispatch one subagent per `placed` book, in parallel. Each subagent runs steps 2
 As each subagent returns, you are the only writer of shared files:
 
 - Advance its row with `status <slug> distilled`, then `deep-read`, matching what it actually finished.
-- Add its `README.md` row, linking every finished output, including `brief.html`.
+- Add its `README.md` row, linking every committed output. `brief.html` stays local, so leave it out.
 - Set `status <slug> done`.
 
 Done when every book placed this run is `done`, or is reported with the step it stopped at. Finish with AGENTS.md's completion check (`git status`).
