@@ -1,0 +1,140 @@
+{
+  "source_file": "/Users/tobyhede/psrc/research/books/six-easy-pieces/source/Six Easy Pieces (Richard P. Feynman).epub",
+  "sections_extracted": 15,
+  "sections": [
+    {
+      "spine_index": 2,
+      "id": "toc",
+      "title": "Six Easy Pieces",
+      "source_path": "OEBPS/Text/rich_9780465025299_oeb_toc_r1.html",
+      "output_file": "002-Six-Easy-Pieces.txt",
+      "characters": 1040
+    },
+    {
+      "spine_index": 3,
+      "id": "als",
+      "title": "Six Easy Pieces",
+      "source_path": "OEBPS/Text/rich_9780465025299_oeb_als_r1.html",
+      "output_file": "003-Six-Easy-Pieces.txt",
+      "characters": 1139
+    },
+    {
+      "spine_index": 5,
+      "id": "fm1",
+      "title": "Six Easy Pieces",
+      "source_path": "OEBPS/Text/rich_9780465025299_oeb_fm1_r1.html",
+      "output_file": "005-Six-Easy-Pieces.txt",
+      "characters": 1208
+    },
+    {
+      "spine_index": 6,
+      "id": "itr",
+      "title": "Six Easy Pieces",
+      "source_path": "OEBPS/Text/rich_9780465025299_oeb_itr_r1.html",
+      "output_file": "006-Six-Easy-Pieces.txt",
+      "characters": 19754
+    },
+    {
+      "spine_index": 7,
+      "id": "prf",
+      "title": "Six Easy Pieces",
+      "source_path": "OEBPS/Text/rich_9780465025299_oeb_prf_r1.html",
+      "output_file": "007-Six-Easy-Pieces.txt",
+      "characters": 9958
+    },
+    {
+      "spine_index": 8,
+      "id": "fm2",
+      "title": "Six Easy Pieces",
+      "source_path": "OEBPS/Text/rich_9780465025299_oeb_fm2_r1.html",
+      "output_file": "008-Six-Easy-Pieces.txt",
+      "characters": 9857
+    },
+    {
+      "spine_index": 9,
+      "id": "c01",
+      "title": "Six Easy Pieces",
+      "source_path": "OEBPS/Text/rich_9780465025299_oeb_c01_r1.html",
+      "output_file": "009-Six-Easy-Pieces.txt",
+      "characters": 36843
+    },
+    {
+      "spine_index": 10,
+      "id": "c02",
+      "title": "Six Easy Pieces",
+      "source_path": "OEBPS/Text/rich_9780465025299_oeb_c02_r1.html",
+      "output_file": "010-Six-Easy-Pieces.txt",
+      "characters": 43868
+    },
+    {
+      "spine_index": 11,
+      "id": "c03",
+      "title": "Six Easy Pieces",
+      "source_path": "OEBPS/Text/rich_9780465025299_oeb_c03_r1.html",
+      "output_file": "011-Six-Easy-Pieces.txt",
+      "characters": 38221
+    },
+    {
+      "spine_index": 12,
+      "id": "c04",
+      "title": "Six Easy Pieces",
+      "source_path": "OEBPS/Text/rich_9780465025299_oeb_c04_r1.html",
+      "output_file": "012-Six-Easy-Pieces.txt",
+      "characters": 31374
+    },
+    {
+      "spine_index": 13,
+      "id": "c05",
+      "title": "Six Easy Pieces",
+      "source_path": "OEBPS/Text/rich_9780465025299_oeb_c05_r1.html",
+      "output_file": "013-Six-Easy-Pieces.txt",
+      "characters": 39862
+    },
+    {
+      "spine_index": 14,
+      "id": "c06",
+      "title": "Six Easy Pieces",
+      "source_path": "OEBPS/Text/rich_9780465025299_oeb_c06_r1.html",
+      "output_file": "014-Six-Easy-Pieces.txt",
+      "characters": 42813
+    },
+    {
+      "spine_index": 15,
+      "id": "in1",
+      "title": "Six Easy Pieces",
+      "source_path": "OEBPS/Text/rich_9780465025299_oeb_in1_r1.html",
+      "output_file": "015-Six-Easy-Pieces.txt",
+      "characters": 8181
+    },
+    {
+      "spine_index": 16,
+      "id": "ftn",
+      "title": "Six Easy Pieces",
+      "source_path": "OEBPS/Text/rich_9780465025299_oeb_ftn_r1.html",
+      "output_file": "016-Six-Easy-Pieces.txt",
+      "characters": 1762
+    },
+    {
+      "spine_index": 17,
+      "id": "cop",
+      "title": "Six Easy Pieces",
+      "source_path": "OEBPS/Text/rich_9780465025299_oeb_cop_r1.html",
+      "output_file": "017-Six-Easy-Pieces.txt",
+      "characters": 903
+    }
+  ],
+  "skipped": [
+    {
+      "spine_index": 1,
+      "id": "cover.xhtml",
+      "source_path": "OEBPS/Text/cover.xhtml",
+      "reason": "no extractable text"
+    },
+    {
+      "spine_index": 4,
+      "id": "tp",
+      "source_path": "OEBPS/Text/rich_9780465025299_oeb_tp_r1.html",
+      "reason": "no extractable text"
+    }
+  ]
+}

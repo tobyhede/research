@@ -1,0 +1,230 @@
+{
+  "source_file": "/Users/tobyhede/psrc/research/books/seeing-like-a-state/source/Seeing Like a State How Certain Schemes to Improve the Human Condition Have Failed (Veritas paperback edition) (James C. Scott).epub",
+  "sections_extracted": 27,
+  "sections": [
+    {
+      "spine_index": 2,
+      "id": "halftitle",
+      "title": "Seeing Like a State",
+      "source_path": "ops/xhtml/halftitle.html",
+      "output_file": "002-Seeing-Like-a-State.txt",
+      "characters": 19
+    },
+    {
+      "spine_index": 3,
+      "id": "title",
+      "title": "Seeing Like a State",
+      "source_path": "ops/xhtml/title.html",
+      "output_file": "003-Seeing-Like-a-State.txt",
+      "characters": 130
+    },
+    {
+      "spine_index": 4,
+      "id": "copy",
+      "title": "Seeing Like a State",
+      "source_path": "ops/xhtml/copy.html",
+      "output_file": "004-Seeing-Like-a-State.txt",
+      "characters": 1293
+    },
+    {
+      "spine_index": 5,
+      "id": "ded",
+      "title": "Seeing Like a State",
+      "source_path": "ops/xhtml/ded.html",
+      "output_file": "005-Seeing-Like-a-State.txt",
+      "characters": 25
+    },
+    {
+      "spine_index": 6,
+      "id": "fm01",
+      "title": "Seeing Like a State",
+      "source_path": "ops/xhtml/fm01.html",
+      "output_file": "006-Seeing-Like-a-State.txt",
+      "characters": 518
+    },
+    {
+      "spine_index": 7,
+      "id": "contents",
+      "title": "Seeing Like a State",
+      "source_path": "ops/xhtml/contents.html",
+      "output_file": "007-Seeing-Like-a-State.txt",
+      "characters": 830
+    },
+    {
+      "spine_index": 8,
+      "id": "ack",
+      "title": "Seeing Like a State",
+      "source_path": "ops/xhtml/ack.html",
+      "output_file": "008-Seeing-Like-a-State.txt",
+      "characters": 14861
+    },
+    {
+      "spine_index": 9,
+      "id": "halftitle01",
+      "title": "Seeing Like a State",
+      "source_path": "ops/xhtml/halftitle01.html",
+      "output_file": "009-Seeing-Like-a-State.txt",
+      "characters": 19
+    },
+    {
+      "spine_index": 10,
+      "id": "intro",
+      "title": "Seeing Like a State",
+      "source_path": "ops/xhtml/intro.html",
+      "output_file": "010-Seeing-Like-a-State.txt",
+      "characters": 19947
+    },
+    {
+      "spine_index": 11,
+      "id": "part01",
+      "title": "Seeing Like a State",
+      "source_path": "ops/xhtml/part01.html",
+      "output_file": "011-Seeing-Like-a-State.txt",
+      "characters": 57
+    },
+    {
+      "spine_index": 12,
+      "id": "ch01",
+      "title": "Seeing Like a State",
+      "source_path": "ops/xhtml/ch01.html",
+      "output_file": "012-Seeing-Like-a-State.txt",
+      "characters": 104633
+    },
+    {
+      "spine_index": 13,
+      "id": "ch02",
+      "title": "Seeing Like a State",
+      "source_path": "ops/xhtml/ch02.html",
+      "output_file": "013-Seeing-Like-a-State.txt",
+      "characters": 76716
+    },
+    {
+      "spine_index": 14,
+      "id": "part02",
+      "title": "Seeing Like a State",
+      "source_path": "ops/xhtml/part02.html",
+      "output_file": "014-Seeing-Like-a-State.txt",
+      "characters": 30
+    },
+    {
+      "spine_index": 15,
+      "id": "ch03",
+      "title": "Seeing Like a State",
+      "source_path": "ops/xhtml/ch03.html",
+      "output_file": "015-Seeing-Like-a-State.txt",
+      "characters": 43185
+    },
+    {
+      "spine_index": 16,
+      "id": "ch04",
+      "title": "Seeing Like a State",
+      "source_path": "ops/xhtml/ch04.html",
+      "output_file": "016-Seeing-Like-a-State.txt",
+      "characters": 101484
+    },
+    {
+      "spine_index": 17,
+      "id": "ch05",
+      "title": "Seeing Like a State",
+      "source_path": "ops/xhtml/ch05.html",
+      "output_file": "017-Seeing-Like-a-State.txt",
+      "characters": 89796
+    },
+    {
+      "spine_index": 18,
+      "id": "part03",
+      "title": "Seeing Like a State",
+      "source_path": "ops/xhtml/part03.html",
+      "output_file": "018-Seeing-Like-a-State.txt",
+      "characters": 23769
+    },
+    {
+      "spine_index": 19,
+      "id": "ch06",
+      "title": "Seeing Like a State",
+      "source_path": "ops/xhtml/ch06.html",
+      "output_file": "019-Seeing-Like-a-State.txt",
+      "characters": 75405
+    },
+    {
+      "spine_index": 20,
+      "id": "ch07",
+      "title": "Seeing Like a State",
+      "source_path": "ops/xhtml/ch07.html",
+      "output_file": "020-Seeing-Like-a-State.txt",
+      "characters": 103670
+    },
+    {
+      "spine_index": 21,
+      "id": "ch08",
+      "title": "Seeing Like a State",
+      "source_path": "ops/xhtml/ch08.html",
+      "output_file": "021-Seeing-Like-a-State.txt",
+      "characters": 116753
+    },
+    {
+      "spine_index": 22,
+      "id": "part04",
+      "title": "Seeing Like a State",
+      "source_path": "ops/xhtml/part04.html",
+      "output_file": "022-Seeing-Like-a-State.txt",
+      "characters": 26
+    },
+    {
+      "spine_index": 23,
+      "id": "ch09",
+      "title": "Seeing Like a State",
+      "source_path": "ops/xhtml/ch09.html",
+      "output_file": "023-Seeing-Like-a-State.txt",
+      "characters": 91094
+    },
+    {
+      "spine_index": 24,
+      "id": "ch10",
+      "title": "Seeing Like a State",
+      "source_path": "ops/xhtml/ch10.html",
+      "output_file": "024-Seeing-Like-a-State.txt",
+      "characters": 41888
+    },
+    {
+      "spine_index": 25,
+      "id": "notes",
+      "title": "Seeing Like a State",
+      "source_path": "ops/xhtml/notes.html",
+      "output_file": "025-Seeing-Like-a-State.txt",
+      "characters": 239447
+    },
+    {
+      "spine_index": 26,
+      "id": "notes01",
+      "title": "Seeing Like a State",
+      "source_path": "ops/xhtml/notes01.html",
+      "output_file": "026-Seeing-Like-a-State.txt",
+      "characters": 33847
+    },
+    {
+      "spine_index": 27,
+      "id": "sources",
+      "title": "Seeing Like a State",
+      "source_path": "ops/xhtml/sources.html",
+      "output_file": "027-Seeing-Like-a-State.txt",
+      "characters": 3479
+    },
+    {
+      "spine_index": 28,
+      "id": "index",
+      "title": "Seeing Like a State",
+      "source_path": "ops/xhtml/index.html",
+      "output_file": "028-Seeing-Like-a-State.txt",
+      "characters": 36002
+    }
+  ],
+  "skipped": [
+    {
+      "spine_index": 1,
+      "id": "cover",
+      "source_path": "ops/xhtml/cover.html",
+      "reason": "no extractable text"
+    }
+  ]
+}
