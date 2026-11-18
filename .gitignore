@@ -1,3 +1,11 @@
 .DS_Store
 inbox/*
 !inbox/.gitkeep
+
+# Full book text stays local. Commit notes and briefs only.
+books/*/source/*.epub
+books/*/source/*.pdf
+books/*/source/*.txt
+books/*/deep-read/source.txt
+books/*/deep-read/chapters/
+books/*/brief.html

@@ -6,9 +6,9 @@ Distillations and deep reads of books. Each book lives in one directory, `books/
 
 ```
 books/<slug>/
-├── source/       the book file, distill-book's extraction, and source.txt
+├── source/       the book file, distill-book's extraction, and source.txt (local only, except manifest.json)
 ├── brief.md      distill-book report
-├── brief.html    distill-book interactive reader
+├── brief.html    distill-book interactive reader (local only)
 └── deep-read/    deep-reader workspace (map.md, terms.md, notes/, synthesis.md)
 ```
 
@@ -18,7 +18,9 @@ books/<slug>/
 
 ## Book artifacts
 
-Commit the source book, extracted text, extraction manifest, generated HTML reader, and deep-reader workspace alongside the Markdown notes. Keep source locators stable so readers can verify claims. Quotations in briefs and notes stay short and carry a locator.
+Never commit the full text of a book. `.gitignore` keeps these local: the book file, the extracted text in `source/*.txt`, `deep-read/source.txt`, `deep-read/chapters/`, and `brief.html`, which embeds the source. Never add them with `git add -f`.
+
+Commit `brief.md`, `source/manifest.json`, and the rest of the deep-reader workspace. Keep source locators stable so that anyone with the book can verify claims. Quotations in briefs and notes stay short and carry a locator.
 
 ## Adding or extending a book
 
@@ -29,7 +31,7 @@ Commit the source book, extracted text, extraction manifest, generated HTML read
 3. **Deep read** with the `deep-reader` skill. Pass `books/<slug>/deep-read` as the workspace (second argument to `prepare-text.sh`); its default is a `<slug>-notes/` directory beside the source.
 4. Update the book's row in the `README.md` index, and set its `queue.md` status to `done`.
 
-Done when every file shown by `git status --short --untracked-files=all` belongs to the intended book artifacts or documentation changes, and the README row links to every finished reading output, including `brief.html`.
+Done when every file shown by `git status --short --untracked-files=all` belongs to the intended book artifacts or documentation changes, and the README row links to every committed reading output.
 
 ## Locators
 
