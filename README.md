@@ -2,6 +2,8 @@
 
 Distillations and deep reads of books. Structure and workflow are defined in [CLAUDE.md](CLAUDE.md).
 
+Books waiting to be read are tracked in [queue.md](queue.md). Drop the files in `inbox/` and run `python3 -I scripts/intake.py scan`.
+
 Book files, extracted text, generated readers, and notes are committed together. Open the HTML reader locally for the interactive brief and embedded source; Markdown citations link to the committed source text.
 
 | Book | Author | Brief | Deep read |

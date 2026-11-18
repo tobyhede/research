@@ -22,10 +22,12 @@ Commit the source book, extracted text, extraction manifest, generated HTML read
 
 ## Adding or extending a book
 
+`queue.md` tracks every book's status. The `book-intake` skill runs the queue, inbox and scan around the steps below.
+
 1. Place the book file in `books/<slug>/source/`.
 2. **Distill** with the `distill-book` skill. Extract into `books/<slug>/source/`, with the line-numbered text at `source/source.txt`. Write the report to `brief.md`, citing `./source/source.txt#L<n>`, and build the reader to `brief.html`.
 3. **Deep read** with the `deep-reader` skill. Pass `books/<slug>/deep-read` as the workspace (second argument to `prepare-text.sh`); its default is a `<slug>-notes/` directory beside the source.
-4. Update the book's row in the `README.md` index.
+4. Update the book's row in the `README.md` index, and set its `queue.md` status to `done`.
 
 Done when every file shown by `git status --short --untracked-files=all` belongs to the intended book artifacts or documentation changes, and the README row links to every finished reading output, including `brief.html`.
 
