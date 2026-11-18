@@ -12,9 +12,9 @@
 
 ## 30-second brief
 
-- **Problem:** what made the century from Waterloo to 1914 a distinct period of European history, and what held it together.
-- **Thesis:** it was the century of Europe's global hegemony. A long peace among the Great Powers, kept out of fear of revolution, allowed industrial growth, partial emancipation, wider political participation and worldwide empire. Every movement of the age sought power to act on its ideas, and the habits of empire helped destroy the peace in 1914.
-- **Who benefits:** general readers who want one connected account of nineteenth-century Europe across politics, society and culture; students who need the links between national stories.
+- **Problem:** what held nineteenth-century Europe together.
+- **Thesis:** Peace among the Great Powers, sustained by a fear of revolution, allowed industrial growth, partial emancipation and wider political participation while Europe gained global dominance. Every movement of the age sought power to act on its ideas, and the habits of empire helped destroy the peace in 1914.
+- **Who benefits:** readers seeking a connected account of European politics, society and culture.
 - **Worth reading?** Selectively. The preface and three or four chapters carry the argument. The rest is rich, readable narrative with few sources to check it against.
 
 ## 3-minute mental model
@@ -71,16 +71,16 @@ A reader used to national histories, or to the story of the rise of the nation s
 
 ### 1. The long peace and its cause
 
-- **Author's claim:** Europe between 1815 and 1914 had few wars, limited in scope, and far fewer battle deaths than the century before. The best explanation is that the powers gave up balance-of-power doctrine for the collaborative Concert of Europe. [Source: Ch 1, lines 349, 351](./source/source.txt#L351)
-- **Reasoning:** the wars of 1792 to 1815 killed about five million and convinced rulers that revolution caused international conflict, so they met often and acted together, usually to put down liberal revolutions. French hegemony was gone, so an equilibrium also held. [Source: Ch 1, lines 265, 351](./source/source.txt#L265)
-- **Evidence:** the 1815 intervention against Napoleon was preventive; later joint action over Greece and Belgium; the count of wars and the battle-death ratio. [Source: Ch 1, lines 305, 349](./source/source.txt#L305)
-- **Boundary:** the Concert ended with the Crimean War, was revived at Berlin in 1878 and crumbled after Bismarck. The battle-death figure has no stated source. [Source: Ch 3, line 1171](./source/source.txt#L1171) [Analysis]
+- **Author's claim:** Europe between 1815 and 1914 had few wars, limited in scope, and a far lower battle death rate than the century before. The best explanation is that the powers gave up balance-of-power doctrine for the collaborative Concert of Europe. [Ch 1, line 349](./source/source.txt#L349) [Ch 1, line 351](./source/source.txt#L351)
+- **Reasoning:** the wars of 1792 to 1815 killed about five million and convinced rulers that revolution caused international conflict, so they met often and acted together, usually to put down liberal revolutions. French hegemony was gone, so an equilibrium also held. [Ch 1, line 265](./source/source.txt#L265) [Ch 1, line 351](./source/source.txt#L351)
+- **Evidence:** the 1815 intervention against Napoleon was preventive; later joint action over Greece and Belgium; the count of wars and the comparison of battle death rates. [Ch 1, line 305](./source/source.txt#L305) [Ch 1, line 349](./source/source.txt#L349)
+- **Boundary:** the Concert ended with the Crimean War, was revived at Berlin in 1878 and crumbled after Bismarck. The battle death rate comparison has no stated source. [Source: Ch 3, line 1171](./source/source.txt#L1171) [Analysis]
 - **Application:** when asking why a peace holds, look for the shared fear behind the institutions, not only the institutions. [Application]
 
 ### 2. Hegemony as the frame
 
 - **Author's claim:** European global hegemony is the main justification for treating 1815 to 1914 as a period. It was not the result of intrinsic superiority, was not inevitable after 1500, and became real only in the third quarter of the century. [Source: Preface, line 200](./source/source.txt#L200) [Source: Ch 8, line 2757](./source/source.txt#L2757)
-- **Reasoning:** around 1700 the major civilisations were roughly equal. Europe pulled ahead through the wars up to 1815 and British command of the seas. Peace then let trade, communications and migration grow without the powers exporting their conflicts. [Source: Preface, line 200; Ch 1, lines 319, 325](./source/source.txt#L319)
+- **Reasoning:** around 1700 the major civilisations were roughly equal. Europe pulled ahead through the wars up to 1815 and British command of the seas. Peace then let trade, communications and migration grow without the powers exporting their conflicts. [Preface, line 200](./source/source.txt#L200) [Ch 1, line 319](./source/source.txt#L319) [Ch 1, line 325](./source/source.txt#L325)
 - **Evidence:** railways, steamships and the telegraph as the technical base of control; Omdurman as the measure of the imbalance. [Source: Ch 5, line 1689](./source/source.txt#L1689) [Source: Ch 8, line 2757](./source/source.txt#L2757)
 - **Boundary:** the specific circumstances that put Europe ahead are asserted more than argued, against unnamed opposing historians. [Analysis]
 - **Application:** read the domestic chapters with the global setting in mind; Evans brings other continents in to explain Europe, not for their own sake. [Application]
@@ -88,56 +88,56 @@ A reader used to national histories, or to the story of the rise of the nation s
 ### 3. Emancipation with limits
 
 - **Author's claim:** the century was the age of emancipation above others, but equality was partial and conditional. Serf emancipation was in principle the greatest reform of the century. [Source: Preface, line 216](./source/source.txt#L216) [Source: Ch 2, line 601](./source/source.txt#L601)
-- **Reasoning:** governments freed the serfs under pressure from peasant resistance and in the hope of winning rural loyalty against liberals. Lords were compensated; peasants paid. [Source: Ch 2, lines 587, 591, 613](./source/source.txt#L587)
-- **Evidence:** smaller peasants fell into debt and a class with only its labour to sell grew; disappointment produced revolts, including the Romanian rising with an estimated 11,000 dead. [Source: Ch 2, lines 615, 617, 637](./source/source.txt#L615)
+- **Reasoning:** governments freed the serfs under pressure from peasant resistance and in the hope of winning rural loyalty against liberals. Lords were compensated; peasants paid. [Ch 2, line 587](./source/source.txt#L587) [Ch 2, line 591](./source/source.txt#L591) [Ch 2, line 613](./source/source.txt#L613)
+- **Evidence:** smaller peasants fell into debt and a class with only its labour to sell grew; disappointment produced revolts, including the Romanian rising with an estimated 11,000 dead. [Ch 2, line 615](./source/source.txt#L615) [Ch 2, line 617](./source/source.txt#L617) [Ch 2, line 637](./source/source.txt#L637)
 - **Boundary:** for Jews, Evans judges emancipation a success as seen from 1900, with racial antisemitism a warning. For women, in Britain neither the suffragists nor the suffragettes had won the vote by 1914. [Source: Ch 6, line 2091](./source/source.txt#L2091) [Source: Ch 7, line 2317](./source/source.txt#L2317)
 - **Application:** separate the legal act from the terms on which it was granted before calling a reform a liberation. [Application]
 
 ### 4. 1848 and the conservative appropriation
 
-- **Author's claim:** the 1848 Revolutions were not half-hearted failures, and what followed was not a restoration. A new generation of conservatives co-opted the masses and exploited nationalism. 1848 to 1871 makes sense as a single period of revolutionary change. [Source: Ch 3, lines 1017, 1139, 1275](./source/source.txt#L1139)
-- **Reasoning:** the revolutions broke on liberals' fear of the masses, rival nationalisms, loyal professional armies and peasant abstention. The lessons were drawn by Cavour, Bismarck and Napoleon III. [Source: Ch 3, lines 1031, 1105, 1107, 1109](./source/source.txt#L1105)
-- **Evidence:** the Crimean War ended the Concert; Cavour harnessed nationalist enthusiasm to the established order; Bismarck's constitution joined universal male suffrage to a parliament with limited powers. [Source: Ch 3, lines 1171, 1195, 1241](./source/source.txt#L1195)
+- **Author's claim:** the 1848 Revolutions were not half-hearted failures, and what followed was not a restoration. A new generation of conservatives co-opted the masses and exploited nationalism. 1848 to 1871 makes sense as a single period of revolutionary change. [Ch 3, line 1017](./source/source.txt#L1017) [Ch 3, line 1139](./source/source.txt#L1139) [Ch 3, line 1275](./source/source.txt#L1275)
+- **Reasoning:** the revolutions broke on liberals' fear of the masses, rival nationalisms, loyal professional armies and peasant abstention. The lessons were drawn by Cavour, Bismarck and Napoleon III. [Ch 3, line 1031](./source/source.txt#L1031) [Ch 3, line 1105](./source/source.txt#L1105) [Ch 3, line 1107](./source/source.txt#L1107) [Ch 3, line 1109](./source/source.txt#L1109)
+- **Evidence:** the Crimean War ended the Concert; Cavour harnessed nationalist enthusiasm to the established order; Bismarck's constitution joined universal male suffrage to a parliament with limited powers. [Ch 3, line 1171](./source/source.txt#L1171) [Ch 3, line 1195](./source/source.txt#L1195) [Ch 3, line 1241](./source/source.txt#L1241)
 - **Boundary:** the claim that the centres of 1848 were all areas hit by British competition rests on two examples. [Source: Ch 3, line 983](./source/source.txt#L983) [Analysis]
 - **Application:** a defeated movement's programme can be carried out by its opponents on their terms; look at who implements, not only who proposes. [Application]
 
 ### 5. From orders to classes, under a growing state
 
-- **Author's claim:** the growing state undid the aristocracy by taking over its functions, and there was no persistence of the old regime to 1914. A new elite of wealth, a new bourgeoisie and a hereditary proletariat formed. [Source: Ch 4, lines 1337, 1361, 1533](./source/source.txt#L1337)
-- **Reasoning:** professional administration replaced manorial courts; commoners took over officer corps; businessmen bought estates and nobles invested in industry. [Source: Ch 4, lines 1333, 1351, 1361](./source/source.txt#L1333)
-- **Evidence:** class differences measurable in height and in cholera deaths in Hamburg in 1892; about 60 million emigrants. [Source: Ch 4, lines 1511, 1513, 1585](./source/source.txt#L1513)
+- **Author's claim:** the growing state undid the aristocracy by taking over its functions, and there was no persistence of the old regime to 1914. A new elite of wealth, a new bourgeoisie and a hereditary proletariat formed. [Ch 4, line 1337](./source/source.txt#L1337) [Ch 4, line 1361](./source/source.txt#L1361) [Ch 4, line 1533](./source/source.txt#L1533)
+- **Reasoning:** professional administration replaced manorial courts; commoners took over officer corps; businessmen bought estates and nobles invested in industry. [Ch 4, line 1333](./source/source.txt#L1333) [Ch 4, line 1351](./source/source.txt#L1351) [Ch 4, line 1361](./source/source.txt#L1361)
+- **Evidence:** class differences measurable in height and in cholera deaths in Hamburg in 1892; about 60 million emigrants. [Ch 4, line 1511](./source/source.txt#L1511) [Ch 4, line 1513](./source/source.txt#L1513) [Ch 4, line 1585](./source/source.txt#L1585)
 - **Boundary:** the dismissal of the persistence thesis is one sentence against unnamed historians, beside the chapter's own evidence of surviving estates and tariffs. [Analysis]
 - **Application:** the same state growth appears as police, prisons and asylums and as welfare; treat them as one development. [Source: Ch 5, line 1939](./source/source.txt#L1939) [Source: Ch 7, line 2361](./source/source.txt#L2361) [Application]
 
 ### 6. Democracy against liberalism
 
 - **Author's claim:** the tide of democracy carried the seeds of its own destruction. Mass movements outflanked middle-class liberalism, and nationalism ceased to be a liberal force. [Source: Ch 7, line 2627](./source/source.txt#L2627)
-- **Reasoning:** franchise extension owed much to fear of revolution and to conservatives hoping new voters would outflank liberals. The welfare state was a response to the left. [Source: Ch 7, lines 2423, 2361](./source/source.txt#L2423)
-- **Evidence:** the Irish Question in Britain; the fragmentation of the Austrian parliament after 1907; the fall in German liberal seats; France and Italy, which only seemed unstable. [Source: Ch 7, lines 2451, 2479, 2557, 2535](./source/source.txt#L2535)
-- **Boundary:** in Germany and Russia a wide vote coexisted with governments not responsible to parliament. The claim that nationalism decided the fate of women's suffrage is asserted from selected cases. [Source: Ch 7, lines 2581, 2331](./source/source.txt#L2581) [Analysis]
+- **Reasoning:** franchise extension owed much to fear of revolution and to conservatives hoping new voters would outflank liberals. The welfare state was a response to the left. [Ch 7, line 2423](./source/source.txt#L2423) [Ch 7, line 2361](./source/source.txt#L2361)
+- **Evidence:** the Irish Question in Britain; the fragmentation of the Austrian parliament after 1907; the fall in German liberal seats; France and Italy, which only seemed unstable. [Ch 7, line 2451](./source/source.txt#L2451) [Ch 7, line 2479](./source/source.txt#L2479) [Ch 7, line 2557](./source/source.txt#L2557) [Ch 7, line 2535](./source/source.txt#L2535)
+- **Boundary:** in Germany and Russia a wide vote coexisted with governments not responsible to parliament. The claim that nationalism decided the fate of women's suffrage is asserted from selected cases. [Ch 7, line 2581](./source/source.txt#L2581) [Ch 7, line 2331](./source/source.txt#L2331) [Analysis]
 - **Application:** ask what a wider electorate does to the parties that asked for it. [Application]
 
 ### 7. The conquest of nature and its limits
 
 - **Author's claim:** society extended its power over rivers, forests, distance, time and disease, but the conquest ran up against the limits of the possible. [Source: Ch 5, line 1949](./source/source.txt#L1949)
-- **Reasoning:** railways drove standard measures and standard time. Epidemics retreated through sanitation, diet and border controls, not cures. Attempts to remake human nature through asylums and prisons failed. [Source: Ch 5, lines 1681, 1725, 1767, 1871](./source/source.txt#L1767)
-- **Evidence:** malaria and tuberculosis declined before medicine could treat them; vaccinated Prussian troops in 1870 suffered far less smallpox than the French. [Source: Ch 5, lines 1745, 1751, 1753](./source/source.txt#L1753)
+- **Reasoning:** railways drove standard measures and standard time. Epidemics retreated through sanitation, diet and border controls, not cures. Attempts to remake human nature through asylums and prisons failed. [Ch 5, line 1681](./source/source.txt#L1681) [Ch 5, line 1725](./source/source.txt#L1725) [Ch 5, line 1767](./source/source.txt#L1767) [Ch 5, line 1871](./source/source.txt#L1871)
+- **Evidence:** malaria and tuberculosis declined before medicine could treat them; vaccinated Prussian troops in 1870 suffered far less smallpox than the French. [Ch 5, line 1745](./source/source.txt#L1745) [Ch 5, line 1751](./source/source.txt#L1751) [Ch 5, line 1753](./source/source.txt#L1753)
 - **Boundary:** the claim that falling birth rates show sexual repression sits beside the chapter's own evidence of other methods. [Source: Ch 5, line 1833](./source/source.txt#L1833) [Analysis]
 - **Application:** credit public works before discoveries when explaining a fall in mortality. [Application]
 
 ### 8. Empire and the road to 1914
 
-- **Author's claim:** the Balkan Wars were imperialism turned in towards Europe, and in 1914 nobody sought compromise because leaders had been taught by a quarter-century of conquest that only force mattered. [Source: Ch 8, lines 2925, 2983](./source/source.txt#L2983)
-- **Reasoning:** expansion before 1880 was driven from the periphery; the economic theories of imperialism fail on timing; Bismarck's protectorates set off a scramble. Once the world was divided, gains could come only from another power or from the Ottomans. [Source: Ch 8, lines 2707, 2721, 2723, 2827](./source/source.txt#L2721)
-- **Evidence:** the Herero reduced from an estimated 85,000 to 15,000; the Congo's population given as halved. [Source: Ch 8, lines 2763, 2795](./source/source.txt#L2763)
-- **Boundary:** Evans calls the blank cheque most probably the crucial moment but finds no evidence that Germany used the crisis as an excuse for war. He quotes no decision-maker of July 1914 reasoning from imperial experience. [Source: Ch 8, lines 2983, 2961](./source/source.txt#L2961) [Analysis]
+- **Author's claim:** the Balkan Wars were imperialism turned in towards Europe, and in 1914 nobody sought compromise because leaders had been taught by a quarter-century of conquest that only force mattered. [Ch 8, line 2925](./source/source.txt#L2925) [Ch 8, line 2983](./source/source.txt#L2983)
+- **Reasoning:** expansion before 1880 was driven from the periphery; the economic theories of imperialism fail on timing; Bismarck's protectorates set off a scramble. Once the world was divided, gains could come only from another power or from the Ottomans. [Ch 8, line 2707](./source/source.txt#L2707) [Ch 8, line 2721](./source/source.txt#L2721) [Ch 8, line 2723](./source/source.txt#L2723) [Ch 8, line 2827](./source/source.txt#L2827)
+- **Evidence:** the Herero reduced from an estimated 85,000 to 15,000; the Congo's population given as halved. [Ch 8, line 2763](./source/source.txt#L2763) [Ch 8, line 2795](./source/source.txt#L2795)
+- **Boundary:** Evans calls the blank cheque most probably the crucial moment but finds no evidence that Germany used the crisis as an excuse for war. He quotes no decision-maker of July 1914 reasoning from imperial experience. [Ch 8, line 2983](./source/source.txt#L2983) [Ch 8, line 2961](./source/source.txt#L2961) [Analysis]
 - **Application:** this is a hypothesis about mentality, useful as a question to put to other accounts of 1914, not as a settled finding. [Application]
 
 ### 9. Power as the common thread
 
-- **Author's claim:** what all strands of thought shared was a desire to acquire and wield power; the pursuit of power permeated society, extended to power over nature, and was reconceived in racial terms by the end of the century. [Source: Preface, lines 218, 220, 222](./source/source.txt#L218)
+- **Author's claim:** what all strands of thought shared was a desire to acquire and wield power; the pursuit of power permeated society, extended to power over nature, and was reconceived in racial terms by the end of the century. [Preface, line 218](./source/source.txt#L218) [Preface, line 220](./source/source.txt#L220) [Preface, line 222](./source/source.txt#L222)
 - **Reasoning:** master-narratives are out of favour, so Evans traces lines of development taken from Blanning and names power as what the period's movements had in common. [Source: Preface, line 210](./source/source.txt#L210)
-- **Evidence:** a list of fields in which power was sought, from states and parties to unions, feminists and engineers. [Source: Preface, lines 220, 222](./source/source.txt#L220)
+- **Evidence:** a list of fields in which power was sought, from states and parties to unions, feminists and engineers. [Preface, line 220](./source/source.txt#L220) [Preface, line 222](./source/source.txt#L222)
 - **Boundary:** the word covers so many things that it organises the book without explaining much. [Analysis]
 - **Application:** use it as an index of themes, and look to ideas 1 to 8 for explanations. [Application]
 

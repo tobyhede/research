@@ -261,4 +261,3 @@ Page numbers are `[[page N]]` markers in this workspace's `source.txt` (syntheti
 | --- | --- | --- |
 | year without a summer | p. 648 | 1816, when emissions from the eruption of Mount Tambora in April 1815 brought widespread famine in Europe (caption 1). |
 | Further Reading | p. 651 | The book's only bibliography. It replaces notes, so it shows the literature Evans built on without tying any claim to any source. |
-

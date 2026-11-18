@@ -81,7 +81,7 @@ Judged from the text alone, with the limits stated at the end of this section.
 
 **Reliance on memoir testimony.** Several vivid scenes come from post-war accounts by Rohland, Kehrl and Speer (pp. 395-396, 448, 472). Tooze treats Speer's memoirs as unreliable (p. 512) and uses Kehrl and Rohland more freely. Where a contemporaneous diary corroborates (Halder on Fromm, p. 396), the claim is firmer.
 
-**Limits of this reading.** One book is one witness. Endnotes, appendix tables and all in-text tables and figures were not available, so no source citation was checked and no number in a table was seen. Nothing here has been compared with other histories.
+**Limits of this reading.** One book is one witness. The extraction contains the endnotes, which were outside the reading pass. The appendix tables were also outside the reading pass, and in-text tables and figures appear as image placeholders in the extraction. The reading therefore did not check source citations or figures given only in tables or charts. Nothing here has been compared with other histories.
 
 ## 4. What of it?
 
@@ -153,4 +153,4 @@ Hand-verified paraphrased claims (the most load-bearing), each located by search
 - ✓ verified — Allied to German combat aircraft 3.7:1 in 1944 (p. 500) and GDP ratio 4.36:1 in 1941 (p. 501) — on pp. 500 and 501.
 - ✓ verified — Military share of output from under 1 to almost 20 per cent by autumn 1938 (p. 515) — on p. 515.
 
-Not verified: any figure that appears only in a table or chart, and any source citation, since tables, figures and endnotes were not available in the text read.
+Not verified: figures given only in tables or charts, and source citations in the endnotes. See the reading limits above.

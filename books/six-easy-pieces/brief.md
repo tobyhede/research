@@ -57,7 +57,7 @@ Experiment is the only test (2) ──> laws are guesses, always provisional
 ### Three things to remember
 
 - A physical law in this book is a rule for calculating, checked by experiment. Feynman says three times, of energy, gravity and quantum amplitudes, that nobody knows the machinery behind it. [Ch 4, line 664](./source/source.txt#L664) [Ch 5, line 856](./source/source.txt#L856) [Ch 6, line 1038](./source/source.txt#L1038)
-- "In principle" is a real limit. Quantum electrodynamics contains all of chemistry, yet the details can be worked out only when the situation is simple, which he says is almost never. [Ch 2, line 484](./source/source.txt#L484)
+- The theory's explanatory scope exceeds what can usually be calculated. Quantum electrodynamics contains all of chemistry, yet the details can be worked out only when the situation is simple, which he says is almost never. [Ch 2, line 484](./source/source.txt#L484)
 - The book is honest about ignorance. It lists what was unknown in 1963 as carefully as what was known, from nuclear forces to how a dog works. [Ch 2, line 546](./source/source.txt#L546) [Ch 3, line 626](./source/source.txt#L626)
 
 ### What the book changes

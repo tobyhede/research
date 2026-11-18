@@ -14,7 +14,7 @@
 ## 30-second brief
 
 - **Problem:** how far may society, through law or through opinion, control what individuals think and do, and on what standard should that question, and the position of women, be decided?
-- **Thesis:** society may coerce an adult only to prevent harm to others. Free discussion and individuality are conditions of human improvement. The legal subordination of women is an unjustified relic of force. The standard behind all three claims is general happiness, of which justice and rights are the most binding part.
+- **Thesis:** Mill limits coercion of competent adults in societies he regards as civilised to preventing harm to others. This can include enforcing duties such as giving evidence or saving a life. Free discussion and individuality are conditions of human improvement. The legal subordination of women is an unjustified relic of force. The standard behind all three claims is general happiness, of which justice and rights are the most binding part.
 - **Who benefits:** anyone arguing about free speech, paternalism, equality or how to weigh consequences.
 - **Worth reading?** Yes. On Liberty I to III, Subjection I and Utilitarianism II and V carry most of it.
 

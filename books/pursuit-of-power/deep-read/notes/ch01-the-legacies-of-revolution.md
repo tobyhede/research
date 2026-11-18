@@ -56,7 +56,7 @@ What did a quarter-century of revolution and war leave behind in Europe, and why
 - The assault on the hereditary principle fatally undermined monarchy, aristocracy, slavery and serfdom in the longer term (p. 30).
 - Austria in 1815 was the most powerful state in Europe and, being unreformed, read victory as a vindication of traditional methods (pp. 31-32).
 - Excluding global issues from the Vienna Settlement let imperial rivalry proceed without disturbing politics inside Europe, until the last quarter of the century (p. 35).
-- Europe from 1815 to 1914 had few wars, limited in scope; battle deaths were seven times lower than in the previous century (pp. 35-36).
+- Europe from 1815 to 1914 had few wars, limited in scope; Evans reports a battle death rate seven times lower than in the previous century (pp. 35-36).
 - The peace is best explained by the replacement of balance-of-power thinking with the collaborative Concert of Europe, itself driven by fear of revolution; but a real equilibrium, following the end of French hegemony, also counted (p. 36).
 - Despite continuities of manner, the Revolution had changed the nature of sovereignty: treaties, armies and legitimacy now belonged to states, and dynastic disputes lost independent force (p. 37).
 - Restoration France was an absolute monarchy with dispensable constitutional provisos, not a constitutional monarchy; yet it could not undo the land settlement, the Code or the administrative map (pp. 38-39).
@@ -189,7 +189,7 @@ What did a quarter-century of revolution and war leave behind in Europe, and why
 ## Open questions
 
 - Who are the historians behind the Concert-of-Europe explanation (p. 36), the plague study (p. 20) and the ancien-régime-triumphant view (p. 36)? The book has no notes; check the bibliography or further-reading section.
-- What is the source and method for the claim that battle deaths in 1815-1914 were seven times lower than in the previous century (p. 36), and for the five-million death toll (p. 15)? Is the comparison per capita?
+- What is the source and method for the claim that the battle death rate in 1815-1914 was seven times lower than in the previous century (p. 36), and for the five-million death toll (p. 15)? Is the comparison per capita?
 - Does the book later test the claim that the hereditary principle was fatally undermined (p. 30) against the survival of monarchy and aristocracy to 1914?
 - How does Evans's contingency account of European global dominance (pp. 28-30) relate to his later treatment of industrialisation and empire? Does a long-run explanation return?
 - The peasantry is absent in 1830 (p. 87). Is that explained in ch02 by emancipation and its terms, and does it hold for 1848?

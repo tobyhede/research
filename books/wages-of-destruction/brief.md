@@ -13,7 +13,7 @@
 
 - **Problem:** how a middling European economy mounted a bid for world power, and why Hitler took such risks.
 - **Thesis:** Germany was too poor and too dependent on imports to win. The regime mobilised hard, but each step (1939, 1940, 1941) was a gamble against time and against American industrial power, read through anti-Semitic ideology. Shortages of land, food and labour also shaped the regime's mass murder.
-- **Who benefits:** anyone who wants the economic logic behind the Third Reich's decisions, or a test case for how states run economies without prices.
+- **Who benefits:** anyone who wants the economic logic behind the Third Reich's decisions, or a case study in how states direct economies through price controls, rationing and industrial controls.
 - **Worth reading?** Yes, selectively. Eight chapters carry the argument; the industrial detail can be skimmed.
 
 ## 3-minute mental model

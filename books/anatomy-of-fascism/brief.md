@@ -12,7 +12,7 @@
 ## 30-second brief
 
 - **Problem:** fascism is usually defined by its ideas and images, which explains neither why it won in only two countries nor how it actually ruled.
-- **Thesis:** fascism is best understood by what fascists did and who helped them, followed through five stages. At each stage the outcome turned on a failing liberal state and on conservatives who chose fascists as allies against the Left.
+- **Thesis:** fascism is best understood by what fascists did and who helped them, followed through five stages. Liberal breakdown and alliances with conservatives helped fascists take power.
 - **Who benefits:** anyone who uses the word and wants to use it accurately; readers of interwar history; anyone thinking about how democracies break.
 - **Worth reading?** Yes. Chapters 1, 3, 4, 5 and 8 carry the argument. The surveys in chapter 7 are dated and can be skimmed.
 

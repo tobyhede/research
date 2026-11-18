@@ -11,7 +11,7 @@
 
 ## 30-second brief
 
-- **Problem:** why the war of 1914, which every general staff expected to win quickly, turned within a month into a deadlock.
+- **Problem:** why the war of 1914 turned into a deadlock within a month. General staffs planned for a short war even when their commanders foresaw a long one.
 - **Thesis:** each power executed a rigid plan built on false assumptions about the others. Every offensive failed, so no one got a decisive battle, and the Marne settled only that the war would go on.
 - **Who benefits:** readers who want the opening of the war as a story of decisions, and anyone interested in how institutions follow a plan past the evidence.
 - **Worth reading?** Yes. The argument compresses well; the scenes and portraits that make it persuasive do not. Eight chapters and the Afterword carry it.

@@ -21,7 +21,7 @@
 ### Core ideas, ranked
 
 1. **Formal order is parasitic on practical knowledge.** Every plan is a thin simplification that runs only because people supply skills and improvisations it does not record. [Ch 9, line 3668](./source/source.txt#L3668)
-2. **Legibility is the central problem of statecraft.** A state can act only on what it can read, so it standardises names, measures, tenure, language and settlement, and those categories then remake what they describe. [Introduction, line 250](./source/source.txt#L250) [Ch 2, line 1116](./source/source.txt#L1116)
+2. **Legibility is a central problem of statecraft.** A state can act only on what it can read, so it standardises names, measures, tenure, language and settlement, and those categories then remake what they describe. [Introduction, line 250](./source/source.txt#L250) [Ch 2, line 1116](./source/source.txt#L1116)
 3. **Disaster needs a combination.** Administrative ordering, high-modernist ideology, an authoritarian state and a prostrate civil society; Scott says all four are necessary. [Introduction, line 274](./source/source.txt#L274)
 4. **High modernism is a faith, not science.** It is shared across left and right, and its plans are judged by how orderly they look. [Ch 3, line 1222](./source/source.txt#L1222) [Ch 5, line 1915](./source/source.txt#L1915) [Ch 7, line 3019](./source/source.txt#L3019)
 5. **Failed as production, succeeded as statecraft.** Collectivization and villagization wrecked agriculture but delivered appropriation and control. [Ch 6, line 2251](./source/source.txt#L2251) [pt3 intro, line 2141](./source/source.txt#L2141)

@@ -61,7 +61,7 @@ The book mostly narrates. Its arguments sit in the Preface and in the opening an
 
 **I cannot verify this.**
 
-- Every statistic. The book gives no sources, so figures can be checked only against other works. This applies to the headline numbers used above: five million war dead, the sevenfold fall in battle deaths, a million Irish dead, 60 million emigrants, the Herero and Congo figures.
+- Every statistic. The book gives no sources, so figures can be checked only against other works. This applies to the headline numbers used above: five million war dead, the sevenfold fall in the battle death rate, a million Irish dead, 60 million emigrants, the Herero and Congo figures.
 - The chapter notes list some thirty further apparent slips of date, name or place, flagged by the readers from general knowledge and not checked against a second source or the printed edition. Each note's Open questions section has its list. They should be treated as leads, not findings. Some may be faults of this EPUB.
 
 ## 4. What of it?
@@ -118,7 +118,7 @@ Hand-verified paraphrased claims (the most load-bearing), each re-read in the so
 - ✓ verified — European hegemony is the main justification for the period (p. 5) — the Preface says so in those terms and ties it to the two world wars.
 - ✓ verified — all strands shared the desire to acquire and wield power, hence the title (p. 9) — confirmed, with the contrast to Blanning's title.
 - ✓ verified — the long peace is explained by the Concert of Europe replacing balance-of-power doctrine, driven by fear of revolution (p. 36) — confirmed; the same paragraph adds that the balance of power still counted, which the summary above keeps.
-- ✓ verified — battle deaths seven times lower than in the previous century (pp. 35–36) — the sentence is as reported; no source is given.
+- ✓ verified — battle death rate seven times lower than in the previous century (pp. 35–36) — Evans does not give a source or specify the denominator.
 - ✓ verified — serf emancipation as in principle the greatest single act of reform (pp. 98–99) — confirmed, including the qualifier *in principle*.
 - ✓ verified — what was restored in 1850 was not the Vienna order, and new conservatives co-opted the masses (pp. 216–217) — confirmed; the four names are Evans's.
 - ✓ verified — 1848 to 1871 as a single period of revolutionary change (pp. 246–247) — confirmed; Evans writes that in many respects it makes sense to see it so.
